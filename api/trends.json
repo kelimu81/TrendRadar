@@ -1,105 +1,33 @@
 {
-  "generated_at": "2026-05-17T23:56:30.997637+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-05-18T00:54:43.705922+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 24,
+      "match_count": 9,
       "titles": [
         {
-          "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
-          "url": "https://wallstreetcn.com/articles/3772409",
-          "source": "华尔街见闻",
+          "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
+          "url": "https://wallstreetcn.com/livenews/3104897",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时49分]"
-        },
-        {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时55分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
           "url": "https://www.cls.cn/detail/2373269",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时19分 ~ 23时56分]"
-        },
-        {
-          "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
-          "url": "https://wallstreetcn.com/articles/3772419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 14时20分]"
-        },
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 21时10分]"
-        },
-        {
-          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时49分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21,
-            23,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时55分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -109,473 +37,135 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时53分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
-          "url": "https://wallstreetcn.com/livenews/3104794",
-          "source": "华尔街见闻-快讯",
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            22,
-            25
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时49分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
           "url": "https://wallstreetcn.com/articles/3772446",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时03分 ~ 23时56分]"
-        },
-        {
-          "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
-          "url": "https://wallstreetcn.com/livenews/3104897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "法国文化部长：今后不会资助“用人工智能取代创作者”的影视作品",
-          "url": "https://flash.jin10.com/detail/20260517095922483800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
-          "url": "https://wallstreetcn.com/articles/3772431",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 17时03分]"
-        },
-        {
-          "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
-          "url": "https://wallstreetcn.com/articles/3772426",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时49分 ~ 14时20分]"
+          "time_info": "00时54分"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
           "url": "https://wallstreetcn.com/livenews/3104889",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时54分 ~ 23时56分]"
-        },
-        {
-          "title": "美军AIM-260空空导弹首次亮相",
-          "url": "https://www.toutiao.com/trending/7640465871453818418/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "国家人工智能应用中试基地（具身智能）揭牌，18家企业集中签约",
-          "url": "https://wallstreetcn.com/livenews/3104861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 21时10分]"
-        },
-        {
-          "title": "国家人工智能应用中试基地（具身智能）揭牌 18家企业集中签约",
-          "url": "https://flash.jin10.com/detail/20260517194359233800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时54分]"
-        },
-        {
-          "title": "AI时代教育不再是培养“听话的孩子”",
-          "url": "https://www.toutiao.com/trending/7640094346978295850/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 22时54分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "博主：中国AI算力产业链正在全面腾飞",
           "url": "https://www.toutiao.com/trending/7640853095961857599/",
           "source": "今日头条",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "中信证券：今年的AI+能化或与2025年的AI+资源类似",
-          "url": "https://flash.jin10.com/detail/20260517152451542800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时03分"
+          "time_info": "00时54分"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
           "url": "https://flash.jin10.com/detail/20260517231013473800",
           "source": "金十数据",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "分析师：债市抛售潮来袭，AI股票狂热或遭冲击",
-          "url": "https://flash.jin10.com/detail/20260516225206555800",
-          "source": "金十数据",
-          "ranks": [
-            18
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "00时54分"
         },
         {
-          "title": "云天励飞：上海浦云天芯正式揭牌，推进AI大算力推理芯片研发与生态协同",
-          "url": "https://flash.jin10.com/detail/20260517222022218800",
-          "source": "金十数据",
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
           "ranks": [
-            24
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时56分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 23,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "俄方称击落20架接近莫斯科的无人机",
-          "url": "https://wallstreetcn.com/livenews/3104805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 10时41分]"
-        },
-        {
-          "title": "俄方称一架乌军无人机坠落在扎波罗热核电站机组附近",
-          "url": "https://wallstreetcn.com/livenews/3104797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 10时41分]"
-        },
         {
           "title": "俄媒称莫斯科遭一年多来最大规模无人机袭击",
           "url": "https://wallstreetcn.com/livenews/3104895",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时54分 ~ 23时56分]"
-        },
-        {
-          "title": "阿联酋巴拉卡核电站外围一处发电机遭无人机袭击起火",
-          "url": "https://wallstreetcn.com/livenews/3104873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 23时56分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基表示，周四，俄罗斯无人机在乌克兰南部城市赫尔松袭击了一辆联合国车辆，他指责莫斯科蓄意袭击。",
-          "url": "https://flash.jin10.com/detail/20260517013050537800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 05时44分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "阿联酋国防部：防空部队应对了三架无人机。 其中两架被拦截，一架无人机击中了巴拉卡核电站外的发电机。 正在调查袭击事件的源头。 已做好充分准备应对任何威胁。",
           "url": "https://wallstreetcn.com/livenews/3104893",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时54分 ~ 23时56分]"
-        },
-        {
-          "title": "阿联酋国防部：一架无人机击中了巴拉卡核电站外的发电机。",
-          "url": "https://flash.jin10.com/detail/20260517220005342800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时54分 ~ 23时56分]"
-        },
-        {
-          "title": "阿联酋国防部：已处理三架从西部边界发射的无人机。正在进行调查以确定袭击来源。",
-          "url": "https://flash.jin10.com/detail/20260517215641792800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时54分 ~ 23时56分]"
-        },
-        {
-          "title": "美媒：美国评估来自古巴的攻击型无人机威胁",
-          "url": "https://flash.jin10.com/detail/20260517203228076800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时54分]"
-        },
-        {
-          "title": "俄国防部：防空系统一夜间在俄上空摧毁556架乌克兰无人机",
-          "url": "https://flash.jin10.com/detail/20260517134852816800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 17时03分]"
-        },
-        {
-          "title": "据AXIOS网站：古巴已获得300多架军用无人机，并开始讨论攻击美国关塔那摩湾基地及美军舰艇的计划。",
-          "url": "https://flash.jin10.com/detail/20260517202502688800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时54分]"
-        },
-        {
-          "title": "印度驻俄罗斯大使馆：今天早些时候，莫斯科地区发生无人机袭击，一名印度工人遇难，另有三人受伤。",
-          "url": "https://flash.jin10.com/detail/20260517195743923800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时54分]"
-        },
-        {
-          "title": "国际原子能机构：阿联酋方面通知，巴拉卡核电站的辐射水平正常，且遭受无人机袭击后未报告任何伤亡。正密切关注局势，并与阿联酋当局保持持续联系，如有需要将提供援助。",
-          "url": "https://flash.jin10.com/detail/20260517193804478800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时54分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "卡塔尔谴责针对阿联酋的“鲁莽”无人机袭击",
           "url": "https://flash.jin10.com/detail/20260517232640082800",
           "source": "金十数据",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "中无人机：股东中航一期基金拟减持不超1%股份",
-          "url": "https://flash.jin10.com/detail/20260517154058464800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时03分"
+          "time_info": "00时54分"
         },
         {
-          "title": "据塔斯社：当地市长表示，防空系统又击落了一架飞向莫斯科的无人机。自午夜以来，已有81架飞向莫斯科的无人机被击落。",
-          "url": "https://flash.jin10.com/detail/20260517131201225800",
-          "source": "金十数据",
+          "title": "阿联酋巴拉卡核电站外围一处发电机遭无人机袭击起火",
+          "url": "https://wallstreetcn.com/livenews/3104873",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "俄称莫斯科州遭今年最大规模无人机袭击 致3死17伤",
-          "url": "https://flash.jin10.com/detail/20260517151933242800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "阿联酋阿布扎比媒体办公室：阿布扎比有关部门应对了一起发生在阿尔达夫拉地区、巴拉卡核电站内围栏外的发电机火灾事故，该事故由无人机袭击引发。",
-          "url": "https://flash.jin10.com/detail/20260517181052824800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "当地市长表示，乌克兰无人机袭击了莫斯科附近一座炼油厂，造成12人受伤，但工厂的“核心工艺设施”未受到损坏。",
-          "url": "https://flash.jin10.com/detail/20260517123245377800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "00时54分"
         },
         {
           "title": "据阿联酋国家通讯社：阿联酋部长在无人机袭击海湾国家核电站后与国际原子能机构负责人通话。",
           "url": "https://flash.jin10.com/detail/20260517225431318800",
           "source": "金十数据",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "阿联酋巴拉卡核电站外围一处发电机遭无人机袭击起火",
-          "url": "https://flash.jin10.com/detail/20260517185340614800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "莫斯科州州长：至少3名平民在无人机袭击中遇难",
-          "url": "https://flash.jin10.com/detail/20260517115431897800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "俄方称击落20架接近莫斯科的无人机",
-          "url": "https://flash.jin10.com/detail/20260516212528141800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "00时54分"
         }
       ]
     }
