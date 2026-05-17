@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T05:52:52.690575+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-18T06:50:46.020001+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "俄媒称莫斯科遭一年多来最大规模无人机袭击",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             6,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "阿联酋国防部：防空部队应对了三架无人机。 其中两架被拦截，一架无人机击中了巴拉卡核电站外的发电机。 正在调查袭击事件的源头。 已做好充分准备应对任何威胁。",
@@ -27,11 +28,12 @@
           "ranks": [
             6,
             8,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "沙特谴责无人机袭击阿联酋核电站事件",
@@ -52,11 +54,25 @@
           "source": "金十数据",
           "ranks": [
             5,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时52分]"
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时50分]"
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大与国际原子能机构一道，谴责今日针对阿联酋巴拉卡核电站发动的无人机袭击。以和平核能设施为攻击目标，将对人类生命及环境构成严重风险。加拿大坚定地与阿联酋的朋友们站在一起，并重申该地区当前迫切需要保持克制与缓和局势。",
+          "url": "https://flash.jin10.com/detail/20260518035447088800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时50分]"
         },
         {
           "title": "阿联酋巴拉卡核电站外围一处发电机遭无人机袭击起火",
@@ -71,18 +87,6 @@
           "time_info": "[00时54分 ~ 03时04分]"
         },
         {
-          "title": "加拿大总理卡尼：加拿大与国际原子能机构一道，谴责今日针对阿联酋巴拉卡核电站发动的无人机袭击。以和平核能设施为攻击目标，将对人类生命及环境构成严重风险。加拿大坚定地与阿联酋的朋友们站在一起，并重申该地区当前迫切需要保持克制与缓和局势。",
-          "url": "https://flash.jin10.com/detail/20260518035447088800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时52分]"
-        },
-        {
           "title": "黎巴嫩真主党称对黎巴嫩南部的以色列士兵发动了无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260518013119731800",
           "source": "金十数据",
@@ -95,6 +99,17 @@
           "time_info": "[01时56分 ~ 03时04分]"
         },
         {
+          "title": "沙特拦截3架来自伊拉克方向的无人机",
+          "url": "https://wallstreetcn.com/livenews/3104916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
           "title": "沙特外交部声明：沙特谴责针对阿联酋巴拉卡核电站的无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260518020826278800",
           "source": "金十数据",
@@ -104,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "印度谴责针对阿联酋的无人机袭击 呼吁相关方保持克制",
+          "url": "https://flash.jin10.com/detail/20260518054402802800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "据阿联酋国家通讯社报道，在巴拉卡核电站遭无人机袭击后，阿联酋外长与包括沙特外长在内的多位地区同行通了电话。",
@@ -164,8 +190,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -175,8 +201,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -186,8 +212,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -196,11 +222,12 @@
           "ranks": [
             2,
             4,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
@@ -210,8 +237,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -220,11 +247,12 @@
           "ranks": [
             10,
             12,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -234,8 +262,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "博主：中国AI算力产业链正在全面腾飞",
