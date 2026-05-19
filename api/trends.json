@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T16:28:02.681559+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-05-19T20:00:49.321813+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 49,
+      "match_count": 57,
       "titles": [
         {
           "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
@@ -37,11 +37,12 @@
           "ranks": [
             2,
             12,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时57分 ~ 16时28分]"
+          "appearance_count": 13,
+          "time_info": "[01时57分 ~ 20时00分]"
         },
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -66,6 +67,64 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时57分 ~ 08时07分]"
+        },
+        {
+          "title": "外交部：中美同意开展人工智能政府间对话",
+          "url": "https://www.cls.cn/detail/2375378",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 20时00分]"
+        },
+        {
+          "title": "赢!米哈游携千亿进军AI行业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 20时00分]"
+        },
+        {
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 20时00分]"
+        },
+        {
+          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
+          "url": "https://www.cls.cn/detail/2375439",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 20时00分]"
+        },
+        {
+          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
+          "url": "https://www.cls.cn/detail/2374982",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 20时00分]"
         },
         {
           "title": "杭州公司推宠物翻译神器，大模型 + 超 500 万条声纹数据，号称准确率 94%，是真突破还是智商税？",
@@ -94,6 +153,18 @@
           "time_info": "[01时57分 ~ 06时58分]"
         },
         {
+          "title": "中专生花10天手搓AI短片火遍全网",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E8%8A%B110%E5%A4%A9%E6%89%8B%E6%90%93AI%E7%9F%AD%E7%89%87%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 20时00分]"
+        },
+        {
           "title": "戴尔AI业务加速扩张 “AI工厂”客户数量新增1000家",
           "url": "https://flash.jin10.com/detail/20260519014351133800",
           "source": "金十数据",
@@ -103,18 +174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        },
-        {
-          "title": "赢!米哈游携千亿进军AI行业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 16时28分]"
         },
         {
           "title": "苹果iOS 27将引入AI写作与新的快捷功能",
@@ -137,6 +196,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "莫奈钓出嘉豪哥,真迹变AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 20时00分]"
         },
         {
           "title": "AI自动驾驶赛车有搞头吗",
@@ -164,27 +236,28 @@
           "time_info": "[01时58分 ~ 03时44分]"
         },
         {
-          "title": "莫奈钓出嘉豪哥,真迹变AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
-          "source": "贴吧",
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 20时00分]"
         },
         {
-          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
-          "url": "https://www.cls.cn/detail/2374982",
-          "source": "财联社热门",
+          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
+          "url": "https://www.zhihu.com/question/2039715538398663059",
+          "source": "知乎",
           "ranks": [
-            7
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 20时00分]"
         },
         {
           "title": "感觉AI治好了我多年的老花眼",
@@ -198,26 +271,37 @@
           "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
+          "title": "AI服务涉黄第一案本周再开庭",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%9C%8D%E5%8A%A1%E6%B6%89%E9%BB%84%E7%AC%AC%E4%B8%80%E6%A1%88%E6%9C%AC%E5%91%A8%E5%86%8D%E5%BC%80%E5%BA%AD%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "time_info": "[19时59分 ~ 20时00分]"
         },
         {
-          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
-          "url": "https://www.zhihu.com/question/2039715538398663059",
-          "source": "知乎",
+          "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
+          "url": "https://www.cls.cn/detail/2375531",
+          "source": "财联社热门",
           "ranks": [
-            14
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "time_info": "[19时59分 ~ 20时00分]"
+        },
+        {
+          "title": "英伟达重磅CPU Vera交付：专为智能体AI设计 甲骨文承诺部署数十万颗",
+          "url": "https://www.cls.cn/detail/2374998",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 20时00分]"
         },
         {
           "title": "Figure AI人形机器人直播分拣包裹五天不间断，网友：分拣工要失业了",
@@ -231,15 +315,15 @@
           "time_info": "[16时27分 ~ 16时28分]"
         },
         {
-          "title": "中专生花10天手搓AI短片火遍全网",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E8%8A%B110%E5%A4%A9%E6%89%8B%E6%90%93AI%E7%9F%AD%E7%89%87%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91",
-          "source": "百度热搜",
+          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "time_info": "[19时59分 ~ 20时00分]"
         },
         {
           "title": "马斯克对OpenAI诉讼被驳回",
@@ -292,7 +376,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -314,7 +398,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -339,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "宝鼎科技：公司无AI覆铜板，未发现在AI服务器及算力领域的应用",
+          "url": "https://flash.jin10.com/detail/20260519194456882800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时00分"
         },
         {
           "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
@@ -369,7 +464,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -424,7 +519,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -446,7 +541,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -468,7 +563,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -545,7 +640,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -564,18 +659,30 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "一无人机在黑海击中了一艘中国货船？外交部回应",
+          "url": "https://news.ifeng.com/c/8tFsZhMhATu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 20时00分]"
+        },
         {
           "title": "无人机在黑海击中中国货船？中方回应",
           "url": "https://www.toutiao.com/trending/7641503357256863268/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 20时00分]"
         },
         {
           "title": "如何看待乌556架无人机夜袭莫斯科",
@@ -639,7 +746,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -650,7 +757,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
@@ -658,8 +765,19 @@
     },
     {
       "keyword_group": "地质 矿产 勘探",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美国财长贝森特：与七国集团的对口官员进行了建设性讨论。 讨论了全球经济、失衡和关键矿产。",
+          "url": "https://wallstreetcn.com/livenews/3106021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时00分"
+        },
         {
           "title": "日本财务大臣片山皋月：七国集团财长公报可能包括关于关键矿产定价的声明。",
           "url": "https://flash.jin10.com/detail/20260519013057600800",
@@ -670,6 +788,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "美国财长贝森特：与G7同行讨论了全球经济、不平衡、关键矿产。",
+          "url": "https://flash.jin10.com/detail/20260519194042378800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时00分"
+        },
+        {
+          "title": "国家防灾减灾救灾委员会启动国家四级救灾应急响应指导贵州做好洪涝地质灾害救助工作",
+          "url": "https://wallstreetcn.com/livenews/3106000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时00分"
         }
       ]
     }
