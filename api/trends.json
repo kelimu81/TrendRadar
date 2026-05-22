@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T12:59:18.553752+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-05-22T16:25:04.655458+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -42,6 +42,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 08时12分]"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            19,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 16时25分]"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -82,19 +96,6 @@
           "time_info": "[00时15分 ~ 08时12分]"
         },
         {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 12时59分]"
-        },
-        {
           "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
           "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
           "source": "澎湃新闻",
@@ -108,6 +109,17 @@
           "time_info": "[00时15分 ~ 08时12分]"
         },
         {
+          "title": "关于“6张网”、人工智能、具身智能，国家发改委最新回应",
+          "url": "https://www.cls.cn/detail/2378704",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
           "title": "国家发改委：正在谋划出台加快“人工智能+”落地的配套文件 进一步加大要素保障",
           "url": "https://www.cls.cn/detail/2378704",
           "source": "财联社热门",
@@ -117,6 +129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "港股收盘，恒指收涨0.86%，科指收涨2.11%，联想集团(00992.HK)绩后收涨19.77%，AI应用、半导体板块集体爆发，智谱(02513.HK)收涨26.93%，兆易创新(03986.HK)收涨12.92%。",
+          "url": "https://flash.jin10.com/detail/20260522160853480800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -163,6 +186,30 @@
           "time_info": "00时15分"
         },
         {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 16时25分]"
+        },
+        {
+          "title": "朱自清散文AI率超60%",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 16时25分]"
+        },
+        {
           "title": "用上AI后工作时间反而更长了",
           "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -187,15 +234,26 @@
           "time_info": "[03时03分 ~ 05时26分]"
         },
         {
-          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
-          "url": "https://www.zhihu.com/question/2040809853350831319",
-          "source": "知乎",
+          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
+          "url": "https://wallstreetcn.com/articles/3772862",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "为何AI总会一本正经地胡说八道",
@@ -210,14 +268,14 @@
         },
         {
           "title": "朱自清散文AI率超60%",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
+          "source": "百度热搜",
           "ranks": [
-            25
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "学生用AI降论文AIGC率",
@@ -270,7 +328,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -292,7 +350,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -314,7 +372,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -380,7 +438,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -413,7 +471,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
@@ -423,6 +481,17 @@
       "keyword_group": "无人机 遥感 测绘",
       "match_count": 5,
       "titles": [
+        {
+          "title": "凤凰记者披露惊险经历：遭遇乌军无人机无差别攻击",
+          "url": "https://news.ifeng.com/c/8tKTIXMCTw9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 16时25分]"
+        },
         {
           "title": "33615架无人机刷新三项世界纪录",
           "url": "https://www.baidu.com/s?wd=33615%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%B7%E6%96%B0%E4%B8%89%E9%A1%B9%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95",
@@ -435,17 +504,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时25分 ~ 08时12分]"
-        },
-        {
-          "title": "凤凰记者披露惊险经历：遭遇乌军无人机无差别攻击",
-          "url": "https://news.ifeng.com/c/8tKTIXMCTw9",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "战损惨重！伊朗已击毁价值近10亿美元的美国“死神”无人机",
