@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T15:29:17.308270+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-05-23T17:48:53.507829+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -73,6 +73,41 @@
           "time_info": "[01时06分 ~ 08时04分]"
         },
         {
+          "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
+          "url": "https://www.zhihu.com/question/2041154123677126717",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 17时48分]"
+        },
+        {
+          "title": "英伟达黄仁勋：Vera Rubin将成为迄今为止最成功的一代。 希望Super Micro能够提升合规性。 明年我们将继续保持高速增长。 人工智能将影响每一个行业。 内存价格对消费者来说是一个挑战。 希望内存供应商能尽快提升产能。",
+          "url": "https://wallstreetcn.com/livenews/3108333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
+        },
+        {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 17时48分]"
+        },
+        {
           "title": "夏奇拉来批daidai作业啦",
           "url": "https://www.douyin.com/hot/2508674",
           "source": "抖音",
@@ -87,15 +122,15 @@
           "time_info": "[03时29分 ~ 08时04分]"
         },
         {
-          "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
-          "url": "https://www.zhihu.com/question/2041154123677126717",
-          "source": "知乎",
+          "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能将影响每个行业。",
+          "url": "https://flash.jin10.com/detail/20260523171540861800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "17时48分"
         },
         {
           "title": "ai漫剧硬通货 泡面火腿纯净水",
@@ -109,18 +144,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时07分 ~ 08时04分]"
-        },
-        {
-          "title": "OpenAI称攻克80年数学难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 15时29分]"
         },
         {
           "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
@@ -144,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         },
         {
           "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
@@ -171,7 +205,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "今日早些时候，苏丹武装部队（SAF）使用一架Bayraktar Akıncı察打一体无人机，发射空对空导弹击落了一架敌方战斗无人机。",
@@ -180,7 +214,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -214,9 +248,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "俄称乌无人机袭击卢甘斯克学校已致10死38伤",
+          "url": "https://flash.jin10.com/detail/20260523153921932800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         },
         {
           "title": "乌巨兽无人机参战对战局有何影响",
@@ -236,9 +281,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "地质 矿产 勘探",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国地质调查局：夏威夷地区霍纳乌纳乌-纳波奥波奥发生5.9级地震。",
+          "url": "https://flash.jin10.com/detail/20260523155606628800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         }
       ]
     }
