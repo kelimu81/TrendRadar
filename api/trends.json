@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T21:16:12.837135+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-05-23T22:58:16.718114+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -61,6 +61,20 @@
           "time_info": "[15时29分 ~ 21时16分]"
         },
         {
+          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时48分 ~ 22时58分]"
+        },
+        {
           "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
           "url": "https://www.cls.cn/detail/2379110",
           "source": "财联社热门",
@@ -114,6 +128,31 @@
           "time_info": "[01时06分 ~ 08时04分]"
         },
         {
+          "title": "AI 泡沫还能持续多久？",
+          "url": "https://www.zhihu.com/question/1903030274536743238",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时07分 ~ 22时58分]"
+        },
+        {
+          "title": "AI光算力第一股上市首日暴涨380%",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%89%E7%AE%97%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E6%B6%A8380%25%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时07分 ~ 22时58分]"
+        },
+        {
           "title": "ai漫剧硬通货 泡面火腿纯净水",
           "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -125,19 +164,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时07分 ~ 08时04分]"
-        },
-        {
-          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时48分 ~ 21时16分]"
         },
         {
           "title": "英伟达黄仁勋：Vera Rubin将成为迄今为止最成功的一代。 希望Super Micro能够提升合规性。 明年我们将继续保持高速增长。 人工智能将影响每一个行业。 内存价格对消费者来说是一个挑战。 希望内存供应商能尽快提升产能。",
@@ -164,39 +190,16 @@
           "time_info": "[17时48分 ~ 19时08分]"
         },
         {
-          "title": "AI 泡沫还能持续多久？",
-          "url": "https://www.zhihu.com/question/1903030274536743238",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时07分 ~ 21时16分]"
-        },
-        {
-          "title": "AI光算力第一股上市首日暴涨380%",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%89%E7%AE%97%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E6%B6%A8380%25%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时07分 ~ 21时16分]"
-        },
-        {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
           "url": "https://wallstreetcn.com/articles/3772963",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
+          "appearance_count": 4,
+          "time_info": "[21时15分 ~ 22时58分]"
         },
         {
           "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
@@ -247,7 +250,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "今日早些时候，苏丹武装部队（SAF）使用一架Bayraktar Akıncı察打一体无人机，发射空对空导弹击落了一架敌方战斗无人机。",
@@ -282,6 +285,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "俄称乌无人机袭击卢甘斯克一学校，死亡人数已升至18人",
+          "url": "https://flash.jin10.com/detail/20260523222743636800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "以色列军方：在上加利利地区的基里亚特·什蒙纳附近发现无人机坠落，具体情况正在调查中。",
@@ -323,7 +337,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
