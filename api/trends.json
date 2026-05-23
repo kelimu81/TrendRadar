@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-05-24T00:03:19.127162+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-24T01:59:15.883194+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时59分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
           "url": "https://wallstreetcn.com/articles/3772963",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时59分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -37,8 +39,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时59分]"
+        },
+        {
+          "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
+          "url": "https://www.zhihu.com/question/2040505406502524785",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
           "title": "AI光算力第一股上市首日暴涨380%",
