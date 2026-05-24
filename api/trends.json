@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T06:55:02.835070+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-05-25T07:57:32.632259+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 06时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 07时57分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -26,11 +26,12 @@
           "ranks": [
             28,
             27,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时57分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -39,11 +40,12 @@
           "ranks": [
             5,
             11,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 07时57分]"
         },
         {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
@@ -56,6 +58,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时16分]"
+        },
+        {
+          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时54分 ~ 07时57分]"
         },
         {
           "title": "欧洲央行将在周二的会议上敦促银行加快保护其信息技术系统的工作，讨论最新人工智能模型所暴露的网络安全风险。",
@@ -80,17 +94,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时16分]"
-        },
-        {
-          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 06时55分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
