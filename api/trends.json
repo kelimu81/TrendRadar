@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T21:16:42.822150+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-05-24T23:02:19.663983+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -54,6 +54,21 @@
           "time_info": "[00时03分 ~ 07时54分]"
         },
         {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            1,
+            9,
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 23时02分]"
+        },
+        {
           "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
           "url": "https://wallstreetcn.com/articles/3772976",
           "source": "华尔街见闻",
@@ -76,20 +91,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时03分 ~ 06时49分]"
-        },
-        {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            1,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 21时16分]"
         },
         {
           "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
@@ -152,26 +153,39 @@
           "time_info": "[10时48分 ~ 14时35分]"
         },
         {
+          "title": "什么情况下，本轮AI大行情会结束？",
+          "url": "https://wallstreetcn.com/articles/3773004",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
           "title": "印度外交部长：与美国国务卿鲁比奥审议了关键矿产、人工智能和核能等议题。",
           "url": "https://flash.jin10.com/detail/20260524195331510800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 23时02分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
           "url": "https://wallstreetcn.com/livenews/3108500",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 23时02分]"
         },
         {
           "title": "AI时代最不可替代的东西",
@@ -224,7 +238,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -243,7 +257,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "俄称乌无人机袭击卢甘斯克一学校，死亡人数升至21人",
@@ -335,6 +349,29 @@
           "time_info": "[07时54分 ~ 10时49分]"
         },
         {
+          "title": "伊朗称击落以色列无人机",
+          "url": "https://wallstreetcn.com/livenews/3108491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 23时02分]"
+        },
+        {
+          "title": "中国农民用无人机运西瓜走红外网",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%BF%90%E8%A5%BF%E7%93%9C%E8%B5%B0%E7%BA%A2%E5%A4%96%E7%BD%91%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "俄称乌无人机袭击卢甘斯克一学校，死亡人数已升至18人",
           "url": "https://flash.jin10.com/detail/20260523222743636800",
           "source": "金十数据",
@@ -344,17 +381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "伊朗称击落以色列无人机",
-          "url": "https://wallstreetcn.com/livenews/3108491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
         },
         {
           "title": "据以色列国防军声明，以色列空军今天将在以色列北部沿海地区进行演习，此次演习将在该地区使用无人机。",
