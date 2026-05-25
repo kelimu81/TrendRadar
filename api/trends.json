@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T07:57:32.632259+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-05-25T11:39:31.797418+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 11时39分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -27,11 +28,12 @@
             28,
             27,
             22,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 11时39分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -105,6 +107,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 01时57分]"
+        },
+        {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
+          "url": "https://www.cls.cn/detail/2380061",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "开源大模型本地部署和官网的有什么区别?",
+          "url": "https://www.zhihu.com/question/8211811008",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "AI 中转站是什么，便宜 Token 背后暗藏什么玄机？",
+          "url": "https://www.zhihu.com/question/2040496731704528936",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     },
