@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T06:58:07.226372+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-05-26T08:06:14.307503+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时40分 ~ 08时06分]"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -27,20 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时58分]"
-        },
-        {
-          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
-          "url": "https://www.cls.cn/detail/2380739",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时40分 ~ 08时06分]"
         },
         {
           "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
@@ -50,7 +38,20 @@
             15,
             14,
             6,
-            17
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时40分 ~ 08时06分]"
+        },
+        {
+          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
+          "url": "https://www.cls.cn/detail/2380739",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
