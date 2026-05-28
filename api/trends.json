@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T11:46:03.527206+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-05-28T15:54:22.622707+08:00",
+  "total_titles_processed": 927,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -13,11 +13,52 @@
           "source": "贴吧",
           "ranks": [
             3,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时23分 ~ 15时54分]"
+        },
+        {
+          "title": "千问“拒聊”盒马粉木耳事件？人民网：大模型不能内嵌企业立场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33245808",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12,
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时23分 ~ 11时46分]"
+          "appearance_count": 10,
+          "time_info": "[02时23分 ~ 15时54分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时23分 ~ 15时54分]"
+        },
+        {
+          "title": "AI坑爹,棒球名帅丢饭碗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时23分 ~ 15时54分]"
         },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -29,43 +70,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 06时46分]"
-        },
-        {
-          "title": "千问“拒聊”盒马粉木耳事件？人民网：大模型不能内嵌企业立场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33245808",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时23分 ~ 11时46分]"
-        },
-        {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时23分 ~ 11时46分]"
-        },
-        {
-          "title": "AI坑爹,棒球名帅丢饭碗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时23分 ~ 11时46分]"
         },
         {
           "title": "人工智能成外贸增长新引擎",
@@ -129,7 +133,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -157,6 +161,53 @@
           "time_info": "[06时46分 ~ 11时46分]"
         },
         {
+          "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
+          "url": "https://www.cls.cn/detail/2383558",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 15时54分]"
+        },
+        {
+          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 15时54分]"
+        },
+        {
+          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 15时54分]"
+        },
+        {
+          "title": "高市早苗卷入“AI抹黑门”，但真正致命的是另两件事",
+          "url": "https://news.ifeng.com/c/8tUlGJACbtc",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
+        {
           "title": "中信证券：“AI+能化”构成今年杠铃配置结构",
           "url": "https://wallstreetcn.com/livenews/3110288",
           "source": "华尔街见闻-快讯",
@@ -167,6 +218,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时58分]"
+        },
+        {
+          "title": "AI改写黑袍纠察队结局",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
         },
         {
           "title": "报道：Meta拟成立新部门 为企业客户定制AI服务",
@@ -181,15 +243,26 @@
           "time_info": "[06时46分 ~ 07时58分]"
         },
         {
-          "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
-          "url": "https://www.cls.cn/detail/2383558",
+          "title": "Meta开启“付费时代”：AI聊天机器人、社交流量全装进订阅服务",
+          "url": "https://www.cls.cn/detail/2383502",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
+        {
+          "title": "当AI愈发相信“光”的力量！美股光通信龙头大幅上调营收预期",
+          "url": "https://www.cls.cn/detail/2383585",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
+          "time_info": "[15时53分 ~ 15时54分]"
         },
         {
           "title": "Asahi Kasei等将投资日本软银集团AI风投公司。（日经新闻）",
@@ -204,26 +277,15 @@
           "time_info": "[06时46分 ~ 07时58分]"
         },
         {
-          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
-          "source": "澎湃新闻",
+          "title": "小说AI直出?8u评论区吵翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
+          "source": "贴吧",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
-        },
-        {
-          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
+          "time_info": "[15时53分 ~ 15时54分]"
         },
         {
           "title": "亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。 Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。 客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。 Snowflake美股盘后涨30%。",
@@ -250,6 +312,45 @@
       ]
     },
     {
+      "keyword_group": "地质 矿产 勘探",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "津巴布韦将锂等14种矿产列为关键矿产",
+          "url": "https://www.toutiao.com/trending/7644778928746856484/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
+        {
+          "title": "希腊能源部：雪佛龙与希腊能源公司已正式提交申请，请求雪佛龙参与爱奥尼亚海一处近海区块的天然气勘探。",
+          "url": "https://flash.jin10.com/detail/20260528154144413800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "苏里南国家石油公司（Staatsolie）总经理Annand Jagesar：马来西亚国家石油公司（Petronas）正在苏里南近海的52号区块进行石油勘探。 预计将在未来18个月内宣布52号区块石油的商业可行性。",
+          "url": "https://wallstreetcn.com/livenews/3110259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "无人机 遥感 测绘",
       "match_count": 3,
       "titles": [
@@ -271,7 +372,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -282,26 +383,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "地质 矿产 勘探",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苏里南国家石油公司（Staatsolie）总经理Annand Jagesar：马来西亚国家石油公司（Petronas）正在苏里南近海的52号区块进行石油勘探。 预计将在未来18个月内宣布52号区块石油的商业可行性。",
-          "url": "https://wallstreetcn.com/livenews/3110259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "11时46分"
         }
       ]
     }
