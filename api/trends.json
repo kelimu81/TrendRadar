@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T07:04:00.519283+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-06-04T11:35:01.489328+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 25,
+      "match_count": 39,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -23,22 +23,58 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 07时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 11时35分]"
         },
         {
           "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
           "url": "https://www.zhihu.com/question/2044389352550164119",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 07时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 11时35分]"
+        },
+        {
+          "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
+          "url": "https://wallstreetcn.com/articles/3773733",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 11时35分]"
+        },
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 11时35分]"
+        },
+        {
+          "title": "达里奥警告：AI热潮已显现典型泡沫特征 最终难逃破裂命运",
+          "url": "https://www.cls.cn/detail/2390108",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
         },
         {
           "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
@@ -75,15 +111,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
-          "url": "https://wallstreetcn.com/articles/3773733",
-          "source": "华尔街见闻",
+          "title": "【中国信通院：即将召开研讨会 启动高质量Token服务能力攀登计划】为深入贯彻落实国家关于推动人工智能高质量发展的战略部署，推动产业加快高质量Token服务能力建设，中国信息通信研究院人工智能研究所、人工智能大模型与软硬件评测工业和信息化部重点实验室、中国人工智能产业发展联盟（AIIA）模型服务（MaaS）工作组将于6月16日在北京联合召开“高质量Token服务研讨会”。论坛将成立“高质量Token服务特别研究组”，并启动“高质量Token服务能力攀登计划”，从组织机制、能力提升方面系统布局，凝聚行业力量共同推动Token服务服务高质量发展，为Token服务产业规范化发展提供坚实底座。",
+          "url": "https://wallstreetcn.com/livenews/3114182",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 07时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
@@ -93,17 +129,6 @@
             13,
             11,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 07时04分]"
-        },
-        {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -121,6 +146,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "桥水基金创始人发出预警：AI浪潮已现典型泡沫特征！",
+          "url": "https://flash.jin10.com/detail/20260604112610985800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "美银将迎4000名新人，打破AI引发的失业恐慌",
           "url": "https://wallstreetcn.com/livenews/3113918",
           "source": "华尔街见闻-快讯",
@@ -130,6 +166,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "英国监管机构给谷歌AI搜索“立新规”",
+          "url": "https://wallstreetcn.com/livenews/3114177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773812",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
+          "url": "https://www.cls.cn/detail/2390246",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
+          "url": "https://wallstreetcn.com/articles/3773784",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "近日有学生发现，同一篇论文在知网 AI 率为 3%，但在维普却高达 67% ，差异为何如此之大？",
+          "url": "https://www.zhihu.com/question/2043265365875103119",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
         },
         {
           "title": "王珞丹谈手搓AI短片创作过程",
@@ -154,6 +256,17 @@
           "time_info": "[04时16分 ~ 04时17分]"
         },
         {
+          "title": "中文在线：AI短剧成为第一大Token消耗场景",
+          "url": "https://flash.jin10.com/detail/20260604111759224800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "字节跳动旗下AI聊天机器人豆包拟推出付费专业版",
           "url": "https://wallstreetcn.com/livenews/3113914",
           "source": "华尔街见闻-快讯",
@@ -171,9 +284,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "Meta推迟了Muse Spark AI模型API的发布，原因是因软件缺陷及基础设施问题。Meta计划在6月份发布其最新AI模型的API。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3114171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "OpenAI打算整合CodeX与ChatGPT。（The Information）",
@@ -182,7 +306,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -193,7 +317,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -209,13 +333,24 @@
           "time_info": "04时17分"
         },
         {
+          "title": "【台积电魏哲家：预计今年全年营收成长仍将超过30%】台积电召开股东会，针对AI需求，董事长魏哲家指出，从生成式AI、查询模式，进一步转向代理式AI与指令行动模式，正推升大型语言模型处理文本所需的token消耗量，也使运算能力需求持续成长，进一步支撑先进半导体需求。公司客户以及客户的客户，仍持续给予对AI产业的正面展望。魏哲家强调，台积电仍对未来数年AI大趋势保持信心，半导体需求也具备根本性支撑。在技​​术差异化与广泛客户群支持下，公司维持强劲信心，若以美元计算，预计今年全年营收成长仍将超过30%。",
+          "url": "https://wallstreetcn.com/livenews/3114157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "据The Information：Meta Platforms(META.O)拟对其规划中的“Hatch”AI智能体收取高达每月200美元的费用。",
           "url": "https://flash.jin10.com/detail/20260604060555586800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -237,9 +372,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "据华尔街日报：Meta Platforms(META.O)表示计划于六月发布最新AI模型的API。",
+          "url": "https://flash.jin10.com/detail/20260604105148209800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "电话会：博通为OpenAI开发芯片，将于2027财年部署1.3 GW。 到2028财年年底将向Meta部署3 GW。 围绕服务OpenAI与Anthropic，公司与阿波罗、黑石集团合作。",
@@ -248,9 +394,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，因存在漏洞和基础设施问题，Meta Platforms(META.O)推迟发布Muse Spark AI模型的API。",
+          "url": "https://flash.jin10.com/detail/20260604105137143800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "博通CEO：重申2027财年AI芯片销售将超过1000亿美元。",
@@ -259,7 +416,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -270,7 +427,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -281,7 +438,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         }
