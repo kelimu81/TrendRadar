@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T19:07:11.016204+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-06-07T21:44:12.841303+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时07分 ~ 19时07分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 21时44分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -101,6 +102,30 @@
           "time_info": "[01时07分 ~ 08时02分]"
         },
         {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时02分 ~ 21时44分]"
+        },
+        {
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 21时44分]"
+        },
+        {
           "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3115505",
           "source": "华尔街见闻-快讯",
@@ -113,6 +138,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时09分 ~ 19时07分]"
+        },
+        {
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 21时44分]"
+        },
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 21时44分]"
         },
         {
           "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
@@ -150,17 +201,17 @@
           "time_info": "12时51分"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
+          "title": "AI如何写全国I卷高考作文",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            12,
-            11
+            6,
+            30,
+            20
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时02分 ~ 19时07分]"
+          "time_info": "[12时51分 ~ 21时44分]"
         },
         {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
@@ -173,17 +224,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时51分 ~ 19时07分]"
-        },
-        {
-          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
-          "url": "https://wallstreetcn.com/articles/3774027",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
           "time_info": "[12时51分 ~ 19时07分]"
         },
         {
@@ -248,41 +288,16 @@
           "time_info": "[16时22分 ~ 19时07分]"
         },
         {
-          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
-          "source": "澎湃新闻",
+          "title": "AI短剧 100集浓缩成3分钟",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20100%E9%9B%86%E6%B5%93%E7%BC%A9%E6%88%903%E5%88%86%E9%92%9F&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
             20,
-            16
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时51分 ~ 19时07分]"
-        },
-        {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 19时07分]"
-        },
-        {
-          "title": "AI如何写全国I卷高考作文",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 19时07分]"
+          "time_info": "[19时06分 ~ 21时44分]"
         },
         {
           "title": "特朗普刚起床就发了AI视频",
@@ -295,17 +310,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时22分 ~ 19时07分]"
-        },
-        {
-          "title": "AI短剧 100集浓缩成3分钟",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20100%E9%9B%86%E6%B5%93%E7%BC%A9%E6%88%903%E5%88%86%E9%92%9F&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
@@ -503,7 +507,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -536,7 +540,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         }
