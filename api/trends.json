@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T17:52:05.574467+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-06-10T20:54:00.960668+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -30,6 +30,17 @@
           "time_info": "[02时01分 ~ 04时10分]"
         },
         {
+          "title": "夏奇拉邀请你来跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 20时54分]"
+        },
+        {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
           "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
@@ -44,6 +55,17 @@
           "time_info": "[02时01分 ~ 08时09分]"
         },
         {
+          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
+          "url": "https://www.cls.cn/detail/2396017",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
           "url": "https://www.cls.cn/detail/2394903",
           "source": "财联社热门",
@@ -56,15 +78,15 @@
           "time_info": "[02时01分 ~ 08时09分]"
         },
         {
-          "title": "夏奇拉邀请你来跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
+          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
+          "url": "https://www.cls.cn/detail/2396287",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
@@ -142,11 +164,35 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 17时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 20时54分]"
+        },
+        {
+          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
+          "url": "https://wallstreetcn.com/articles/3774282",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 20时54分]"
+        },
+        {
+          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
+          "url": "https://www.zhihu.com/question/2047598353421170561",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 20时54分]"
         },
         {
           "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
@@ -160,17 +206,6 @@
           "time_info": "[02时01分 ~ 02时02分]"
         },
         {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
-        },
-        {
           "title": "AI热潮催生“芯”需求！三星考虑新建先进芯片封装厂",
           "url": "https://www.cls.cn/detail/2395630",
           "source": "财联社热门",
@@ -182,15 +217,26 @@
           "time_info": "[17时51分 ~ 17时52分]"
         },
         {
-          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
-          "url": "https://www.zhihu.com/question/2047598353421170561",
-          "source": "知乎",
+          "title": "分析｜受AI产业热潮、价格因素等推动，5月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344044",
+          "source": "澎湃新闻",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "小米AI上岛",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3AI%E4%B8%8A%E5%B2%9B%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "金刚石助力芯片突破散热瓶颈 AI算力进一步打开应用空间",
@@ -232,7 +278,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -298,7 +344,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -350,7 +396,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "安全消息人士称，三架无人机袭击了位于伊拉克埃尔比勒东北部的伊朗库尔德反对派营地。",
@@ -362,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "伊朗公布击落美军MQ-9无人机画面",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9BMQ-9%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "美媒：美官员称伊朗无人机致美军直升机坠毁 但尚未确认是否为蓄意攻击",
@@ -392,7 +449,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -425,7 +482,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -475,7 +532,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
