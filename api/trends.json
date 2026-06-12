@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T11:29:55.713866+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-06-12T16:21:34.014274+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -33,6 +33,21 @@
           "time_info": "[00时50分 ~ 11时29分]"
         },
         {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            7,
+            19,
+            18,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 16时21分]"
+        },
+        {
           "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
           "url": "https://www.cls.cn/detail/2397230",
           "source": "财联社热门",
@@ -44,20 +59,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 07时28分]"
-        },
-        {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
-          "ranks": [
-            7,
-            19,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 11时29分]"
         },
         {
           "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
@@ -81,6 +82,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "AI正在杀死音乐吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E9%9F%B3%E4%B9%90%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
@@ -169,15 +181,37 @@
           "time_info": "00时50分"
         },
         {
+          "title": "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍",
+          "url": "https://www.cls.cn/detail/2397804",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2048342346048213458",
           "source": "知乎",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "猛男舞团翻跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
@@ -186,7 +220,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -197,9 +231,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "权威机构：SpaceX世纪IPO引爆“散户套现热”，热门AI股成“ATM机”！",
+          "url": "https://www.cls.cn/detail/2398028",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "高盛：SpaceX、OpenAI等超级IPO不会终结AI牛市",
@@ -208,9 +253,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "如何看待 Spacex 新发布的 AI 卫星？",
+          "url": "https://www.zhihu.com/question/2047773618428437482",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "港股大模型“双雄”走弱，MINIMAX-W(00100.HK)跌超7%；智谱(02513.HK)转跌，此前盘初涨超12%。",
@@ -219,7 +275,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -241,7 +297,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
@@ -249,18 +305,19 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "尹锡悦因“无人机入朝事件”被判30年",
           "url": "https://news.ifeng.com/c/8ttKpxeJVLi",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 16时21分]"
         },
         {
           "title": "尹锡悦涉“无人机事件”一审被判30年",
@@ -269,18 +326,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "尹锡悦因无人机事件一审被判30年",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%9B%A0%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BA%8B%E4%BB%B6%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A430%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -289,11 +335,45 @@
           "url": "https://www.douyin.com/hot/2531566",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 16时21分]"
+        },
+        {
+          "title": "尹锡悦因无人机事件一审被判30年",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%9B%A0%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BA%8B%E4%BB%B6%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A430%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "尹锡悦因“制造平壤上空无人机入侵事件”一审被判30年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33364381",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "16时21分"
+        },
+        {
+          "title": "韩国前总统尹锡悦的代理律师今天（6月12日）下午就尹锡悦涉嫌指示向朝鲜派出无人机的一审判决提出上诉。",
+          "url": "https://flash.jin10.com/detail/20260612154125856800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "据韩联社12日报道，韩国前总统尹锡悦因“制造平壤上空无人机入侵事件”一审被判处有期徒刑30年。（新华社）",
@@ -302,7 +382,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
