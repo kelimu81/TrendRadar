@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-13T03:02:36.371239+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-06-13T05:29:03.728262+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "抖音AI创作大赛首个爆款出现",
+          "url": "https://www.douyin.com/hot/2532139",
+          "source": "抖音",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时29分]"
+        },
         {
           "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
           "url": "https://flash.jin10.com/detail/20260613025928526800",
@@ -14,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -25,21 +37,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        },
-        {
-          "title": "抖音AI创作大赛首个爆款出现",
-          "url": "https://www.douyin.com/hot/2532139",
-          "source": "抖音",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 03时02分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -49,8 +49,31 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时29分]"
+        },
+        {
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
+          "source": "抖音",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 05时29分]"
+        },
+        {
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 03时02分]"
+          "time_info": "[05时28分 ~ 05时29分]"
         },
         {
           "title": "软件股迈向二十年来最长连跌，AI扰动之忧再度来袭",
@@ -75,24 +98,13 @@
           "time_info": "00时15分"
         },
         {
-          "title": "全抖音都在DaiDai",
-          "url": "https://www.douyin.com/hot/2531421",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
           "title": "作家自曝用AI写作",
           "url": "https://s.weibo.com/weibo?q=%E4%BD%9C%E5%AE%B6%E8%87%AA%E6%9B%9D%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         }
@@ -110,8 +122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时29分]"
         },
         {
           "title": "尹锡悦因无人机事件被判30年",
