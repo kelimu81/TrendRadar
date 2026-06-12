@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T05:29:03.728262+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-06-13T07:14:39.536495+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 05时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 07时14分]"
+        },
+        {
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时14分]"
         },
         {
           "title": "全抖音都在DaiDai",
@@ -63,17 +75,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 05时29分]"
-        },
-        {
-          "title": "抖音AI反网暴行动来了",
-          "url": "https://www.douyin.com/hot/2531858",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 05时29分]"
         },
         {
           "title": "软件股迈向二十年来最长连跌，AI扰动之忧再度来袭",
@@ -122,8 +123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 05时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 07时14分]"
         },
         {
           "title": "尹锡悦因无人机事件被判30年",
@@ -131,11 +132,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 07时14分]"
         },
         {
           "title": "俄击落多架乌无人机，乌打击俄能源设施",
