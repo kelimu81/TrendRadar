@@ -1,199 +1,77 @@
 {
-  "generated_at": "2026-06-13T23:32:21.222108+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-06-14T01:19:37.534947+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 28,
+      "match_count": 8,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
           "url": "https://www.cls.cn/detail/2398996",
           "source": "财联社热门",
           "ranks": [
-            7,
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时57分 ~ 23时32分]"
-        },
-        {
-          "title": "抖音AI创作大赛首个爆款出现",
-          "url": "https://www.douyin.com/hot/2532139",
-          "source": "抖音",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 05时29分]"
-        },
-        {
-          "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
-          "url": "https://flash.jin10.com/detail/20260613025928526800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "据知情人士称，SpaceX(SPCX.O)在利用孟菲斯的Colossus 1数据中心开发和运行Grok人工智能模型时遇到技术挑战后，决定将该数据中心的全部容量出租给Anthropic。",
-          "url": "https://flash.jin10.com/detail/20260613023941326800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "猛男舞团翻跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 07时14分]"
+          "time_info": "01时19分"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
           "url": "https://wallstreetcn.com/articles/3774577",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时50分 ~ 23时32分]"
-        },
-        {
-          "title": "世界杯AI视频绿茵恩仇录火了",
-          "url": "https://www.douyin.com/hot/2531568",
-          "source": "抖音",
-          "ranks": [
-            20,
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时57分 ~ 19时53分]"
-        },
-        {
-          "title": "太空AI算力泡沫有多大",
-          "url": "https://www.toutiao.com/trending/7650812029468413450/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时52分 ~ 21时51分]"
-        },
-        {
-          "title": "抖音AI反网暴行动来了",
-          "url": "https://www.douyin.com/hot/2531858",
-          "source": "抖音",
-          "ranks": [
-            14,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时28分 ~ 07时14分]"
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
-          "title": "全抖音都在DaiDai",
-          "url": "https://www.douyin.com/hot/2531421",
-          "source": "抖音",
+          "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
+          "url": "https://www.cls.cn/detail/2399104",
+          "source": "财联社热门",
           "ranks": [
-            28,
-            26
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 05时29分]"
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
-          "title": "报道：美国封锁境外获取Anthropic先进AI模型的渠道",
-          "url": "https://wallstreetcn.com/livenews/3119106",
-          "source": "华尔街见闻-快讯",
+          "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
+          "url": "https://flash.jin10.com/detail/20260614004325694800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            20
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 14时57分]"
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
-          "title": "科大讯飞发布星火多模态大模型X2-VL",
-          "url": "https://wallstreetcn.com/livenews/3119130",
-          "source": "华尔街见闻-快讯",
+          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
+          "url": "https://www.cls.cn/detail/2399065",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            20
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 19时53分]"
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
-          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3119103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 14时57分]"
-        },
-        {
-          "title": "余承东带队盘古大模型喊话「只做第一」，当下盘古大模型在业内处于什么水平？距离行业第一还有多远？",
-          "url": "https://www.zhihu.com/question/2048810661476579092",
-          "source": "知乎",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 17时56分]"
-        },
-        {
-          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
-          "url": "https://wallstreetcn.com/livenews/3119107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 14时57分]"
-        },
-        {
-          "title": "ARCRaiders国服首测PV",
-          "url": "https://search.bilibili.com/all?keyword=ARCRaiders%E5%9B%BD%E6%9C%8D%E9%A6%96%E6%B5%8BPV",
-          "source": "bilibili 热搜",
+          "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
+          "url": "https://flash.jin10.com/detail/20260614001329812800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
+          "appearance_count": 1,
+          "time_info": "01时19分"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -203,285 +81,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时31分 ~ 23时32分]"
-        },
-        {
-          "title": "这才是AI发展真正的意义",
-          "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%89%8D%E6%98%AFAI%E5%8F%91%E5%B1%95%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时31分 ~ 23时32分]"
-        },
-        {
-          "title": "如何评价 HDC 官宣鸿蒙高校创新赛？国赛平台和零门槛 AI 开发，能为参赛大学生带来哪些价值？",
-          "url": "https://www.zhihu.com/question/2048803279166088696",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 21时51分]"
-        },
-        {
-          "title": "代斯骑马图太美被判定为ai",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E6%96%AF%E9%AA%91%E9%A9%AC%E5%9B%BE%E5%A4%AA%E7%BE%8E%E8%A2%AB%E5%88%A4%E5%AE%9A%E4%B8%BAai%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
-        },
-        {
-          "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
-          "url": "https://wallstreetcn.com/articles/3774502",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "01时19分"
         },
         {
-          "title": "九鹭非香把七时吉祥重新做成AI剧了",
-          "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E9%B9%AD%E9%9D%9E%E9%A6%99%E6%8A%8A%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E9%87%8D%E6%96%B0%E5%81%9A%E6%88%90AI%E5%89%A7%E4%BA%86&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "软件股迈向二十年来最长连跌，AI扰动之忧再度来袭",
-          "url": "https://wallstreetcn.com/livenews/3118978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850550&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/3SNELjbbk6Cqk3c21IZ34.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260613120108121800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "Anthropic：美国政府发布出口管制指令，暂停所有外国国籍人士对人工智能模型FABLE 5和Mythos 5的访问。",
-          "url": "https://flash.jin10.com/detail/20260613085422876800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "据华尔街日报：高盛总裁表示，SpaceX IPO显示了投资者对人工智能的热情。",
-          "url": "https://flash.jin10.com/detail/20260612232213902800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "作家自曝用AI写作",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%9C%E5%AE%B6%E8%87%AA%E6%9B%9D%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "ARCRaiders国服首测PV",
+          "url": "https://search.bilibili.com/all?keyword=ARCRaiders%E5%9B%BD%E6%9C%8D%E9%A6%96%E6%B5%8BPV",
+          "source": "bilibili 热搜",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "用AI打开七时吉祥原著",
-          "url": "https://www.douyin.com/hot/2532352",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机 遥感 测绘",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "尹锡悦因“制造平壤上空无人机入侵事件”一审被判30年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33364381",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 07时14分]"
-        },
-        {
-          "title": "俄罗斯当地州长表示，俄罗斯克拉斯诺达尔地区海上码头发生火灾，系无人机袭击所致。",
-          "url": "https://flash.jin10.com/detail/20260613141647910800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "美中央司令部：伊朗发射了多架单向攻击无人机，试图袭击通过霍尔木兹海峡的商船。美军在数小时内击落了所有这些无人机，海峡通航未受影响。这条国际贸易通道仍然保持开放。",
-          "url": "https://flash.jin10.com/detail/20260613093322843800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "《宝可梦 GO》被荷兰媒体《Trouw》曝光成为美国军方数据供应商，训练无人机导航系统，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2048117055455499743",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时55分 ~ 19时53分]"
-        },
-        {
-          "title": "美军称伊朗发射多架单向攻击无人机",
-          "url": "https://wallstreetcn.com/livenews/3119115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 17时56分]"
-        },
-        {
-          "title": "尹锡悦因无人机事件被判30年",
-          "url": "https://www.douyin.com/hot/2531566",
-          "source": "抖音",
-          "ranks": [
-            20,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 07时14分]"
-        },
-        {
-          "title": "乌克兰安全局：乌克兰无人机袭击了俄罗斯克拉斯诺达尔地区的塔曼石油天然气终端。",
-          "url": "https://flash.jin10.com/detail/20260613190838321800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "俄击落多架乌无人机，乌打击俄能源设施",
-          "url": "https://wallstreetcn.com/livenews/3118974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "黎真主党称在黎南部使用无人机打击以军车辆",
-          "url": "https://flash.jin10.com/detail/20260613183139542800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "黎巴嫩真主党：我们在黎巴嫩南部卡尔达利上空用导弹击落了一架以色列赫尔墨斯450空地无人机。",
-          "url": "https://flash.jin10.com/detail/20260613195811789800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
-          "title": "据路透社：一位知情人士透露，美国军方击落多架朝霍尔木兹海峡飞来的伊朗单向攻击无人机。消息人士称，伊朗无人机对商业航运构成威胁。",
-          "url": "https://flash.jin10.com/detail/20260613083014725800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "黎巴嫩军队：一架敌对以色列无人机在纳巴提耶的纳杰达医院附近袭击了一名正在行进的士兵，但未造成其受伤；随后又在卡法雷曼-纳巴提耶路上再次对其进行袭击，导致其受重伤。",
-          "url": "https://flash.jin10.com/detail/20260613193855206800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
-          "title": "美军称击落伊朗发射的多架无人机",
-          "url": "https://www.toutiao.com/trending/7650431459140583475/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "01时19分"
         }
       ]
     }
