@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-13T19:53:18.692310+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-06-13T21:51:04.265536+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时57分 ~ 21时51分]"
+        },
         {
           "title": "抖音AI创作大赛首个爆款出现",
           "url": "https://www.douyin.com/hot/2532139",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时15分 ~ 05时29分]"
-        },
-        {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时57分 ~ 19时53分]"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
@@ -78,6 +78,18 @@
           "time_info": "[14时57分 ~ 19时53分]"
         },
         {
+          "title": "太空AI算力泡沫有多大",
+          "url": "https://www.toutiao.com/trending/7650812029468413450/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时52分 ~ 21时51分]"
+        },
+        {
           "title": "抖音AI反网暴行动来了",
           "url": "https://www.douyin.com/hot/2531858",
           "source": "抖音",
@@ -100,6 +112,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 05时29分]"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
           "title": "报道：美国封锁境外获取Anthropic先进AI模型的渠道",
@@ -173,15 +196,15 @@
           "time_info": "[19时52分 ~ 19时53分]"
         },
         {
-          "title": "太空AI算力泡沫有多大",
-          "url": "https://www.toutiao.com/trending/7650812029468413450/",
-          "source": "今日头条",
+          "title": "如何评价 HDC 官宣鸿蒙高校创新赛？国赛平台和零门槛 AI 开发，能为参赛大学生带来哪些价值？",
+          "url": "https://www.zhihu.com/question/2048803279166088696",
+          "source": "知乎",
           "ranks": [
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
+          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
           "title": "代斯骑马图太美被判定为ai",
@@ -286,7 +309,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "尹锡悦因“制造平壤上空无人机入侵事件”一审被判30年",
@@ -368,7 +391,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -390,9 +413,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "黎巴嫩真主党：我们在黎巴嫩南部卡尔达利上空用导弹击落了一架以色列赫尔墨斯450空地无人机。",
+          "url": "https://flash.jin10.com/detail/20260613195811789800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "据路透社：一位知情人士透露，美国军方击落多架朝霍尔木兹海峡飞来的伊朗单向攻击无人机。消息人士称，伊朗无人机对商业航运构成威胁。",
@@ -404,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "黎巴嫩军队：一架敌对以色列无人机在纳巴提耶的纳杰达医院附近袭击了一名正在行进的士兵，但未造成其受伤；随后又在卡法雷曼-纳巴提耶路上再次对其进行袭击，导致其受重伤。",
+          "url": "https://flash.jin10.com/detail/20260613193855206800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "美军称击落伊朗发射的多架无人机",
