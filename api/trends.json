@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-14T13:29:30.484342+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-06-14T17:28:11.320099+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 17时28分]"
+        },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
           "url": "https://wallstreetcn.com/articles/3774577",
@@ -23,18 +36,6 @@
           "time_info": "[01时19分 ~ 13时29分]"
         },
         {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 13时29分]"
-        },
-        {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
           "url": "https://www.cls.cn/detail/2399104",
           "source": "财联社热门",
@@ -45,8 +46,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 13时29分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 17时28分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -55,22 +56,12 @@
           "ranks": [
             13,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 13时29分]"
-        },
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 17时28分]"
         },
         {
           "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
@@ -79,11 +70,56 @@
           "ranks": [
             10,
             8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时01分 ~ 17时28分]"
+        },
+        {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 17时28分]"
+        },
+        {
+          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
+          "url": "https://wallstreetcn.com/articles/3774601",
+          "source": "华尔街见闻",
+          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 13时29分]"
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
+        },
+        {
+          "title": "天风证券：电子布年内第五轮涨价落地 AI链拉动玻纤景气延续",
+          "url": "https://flash.jin10.com/detail/20260614171030729800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "蚂蚁集团正秘密测试AI版支付宝",
+          "url": "https://flash.jin10.com/detail/20260614170709289800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -96,6 +132,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时19分 ~ 07时02分]"
+        },
+        {
+          "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
+          "url": "https://wallstreetcn.com/articles/3774579",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时18分 ~ 17时28分]"
         },
         {
           "title": "据The Information：美国政府不太可能将对Anthropic的出口管制扩展至其他人工智能公司。",
@@ -111,16 +159,15 @@
           "time_info": "[05时11分 ~ 08时18分]"
         },
         {
-          "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
-          "url": "https://wallstreetcn.com/articles/3774579",
-          "source": "华尔街见闻",
+          "title": "小米工程师谈某大模型重新出山",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B0%88%E6%9F%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%87%8D%E6%96%B0%E5%87%BA%E5%B1%B1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            7
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时18分 ~ 13时29分]"
+          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
@@ -141,7 +188,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -174,7 +221,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -193,7 +240,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "俄罗斯国防部：防空部队在12小时内击落了185架乌克兰无人机。",
@@ -208,15 +255,59 @@
           "time_info": "[07时02分 ~ 08时18分]"
         },
         {
+          "title": "泽连斯基呼吁加大对俄制裁，强化远程打击与无人机等合作",
+          "url": "https://flash.jin10.com/detail/20260614163410183800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯每天对乌克兰城市和社区进行数百次袭击，攻击我们的民用基础设施。仅在过去一周，俄罗斯就发射了1920架攻击无人机、1790枚制导空炸弹和17枚各类导弹。",
+          "url": "https://flash.jin10.com/detail/20260614162941083800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "俄称一居民楼遭乌无人机袭击 已致1死9伤",
+          "url": "https://flash.jin10.com/detail/20260614155344625800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "以色列军方：因担心敌方无人机渗透，以色列南部埃拉特地区启动警报。",
           "url": "https://flash.jin10.com/detail/20260614083303490800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "地区州长表示，俄罗斯雅罗斯拉夫州遭到大规模乌克兰无人机袭击，工业燃料储存设施被击中。",
+          "url": "https://flash.jin10.com/detail/20260614150049336800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     }
