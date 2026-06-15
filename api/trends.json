@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T07:05:04.860262+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-06-15T11:42:43.871328+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时05分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 11时42分]"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
@@ -49,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时05分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 11时42分]"
         },
         {
           "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
@@ -60,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时05分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 11时42分]"
         },
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -82,7 +83,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -130,6 +131,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时04分 ~ 07时05分]"
+        },
+        {
+          "title": "港股天数智芯(09903.HK)涨近7.5%，百度(09888.HK)短线跌幅收窄至0.4%。消息面上，路透报道称，字节跳动正与芯片制造商天数智芯洽谈购买人工智能推理芯片事宜；字节跳动也在考虑使用百度的昆仑芯人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20260615111511567800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "国芯科技：参股公司紫山龙霖正式发布面向企业AI与高性能计算(HPC)场景的全新产品——GalaxSphere数据智能引擎。",
+          "url": "https://flash.jin10.com/detail/20260615110933361800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "北京范儿百度AIGC大赛",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%8C%83%E5%84%BF%E7%99%BE%E5%BA%A6AIGC%E5%A4%A7%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
