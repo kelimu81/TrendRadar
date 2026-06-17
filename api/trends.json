@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-06-17T11:36:17.544829+08:00",
-  "total_titles_processed": 744,
-  "failed_sources": [],
+  "generated_at": "2026-06-17T17:02:12.158728+08:00",
+  "total_titles_processed": 984,
+  "failed_sources": [
+    "baidu"
+  ],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -15,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 11时36分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 17时02分]"
         },
         {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
@@ -55,6 +57,17 @@
           "time_info": "[02时01分 ~ 11时36分]"
         },
         {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时02分]"
+        },
+        {
           "title": "据英国金融时报：在Anthropic模型相关争议之后，美国和欧洲讨论人工智能模型的准入问题。",
           "url": "https://flash.jin10.com/detail/20260617012619758800",
           "source": "金十数据",
@@ -77,6 +90,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时01分 ~ 07时21分]"
+        },
+        {
+          "title": "AI支付",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%94%AF%E4%BB%98&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时02分]"
         },
         {
           "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
@@ -104,6 +129,18 @@
           "time_info": "[02时01分 ~ 07时21分]"
         },
         {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 17时02分]"
+        },
+        {
           "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
           "url": "https://www.cls.cn/detail/2401117",
           "source": "财联社热门",
@@ -128,15 +165,16 @@
           "time_info": "[02时01分 ~ 07时21分]"
         },
         {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
           "source": "知乎",
           "ranks": [
-            6
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 17时02分]"
         },
         {
           "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
@@ -149,17 +187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 07时21分]"
-        },
-        {
-          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
-          "url": "https://www.zhihu.com/question/2050271442697188542",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
         },
         {
           "title": "如何用AI模型预测世界杯",
@@ -184,15 +211,48 @@
           "time_info": "[11时35分 ~ 11时36分]"
         },
         {
+          "title": "上交所邱勇：更大力度支持科技创新，落实好人工智能领域配套规则",
+          "url": "https://flash.jin10.com/detail/20260617162941610800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "吴清：适时发布规范发展资本市场人工智能的指导意见",
           "url": "https://flash.jin10.com/detail/20260617111125135800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "上交所：发行人应在人工智能大模型领域行业地位突出、排名靠前",
+          "url": "https://wallstreetcn.com/livenews/3120854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "上交所：发布人工智能大模型企业适用科创板第五套上市标准审核指引",
+          "url": "https://wallstreetcn.com/livenews/3120852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "吴清：适时发布规范发展资本市场人工智能的指导意见",
@@ -201,7 +261,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -212,7 +272,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -223,7 +283,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -245,7 +305,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -261,6 +321,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "0利息也能吸走540亿！华尔街疯狂涌入小众风口，只为搭上AI快车",
+          "url": "https://flash.jin10.com/detail/20260617162336747800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "依视路陆逊梯卡董事长兼首席执行官Francesco Milleri：我们相信，先进光学、AI与可穿戴技术的融合将为消费者开启全新一代的体验。 数十年来，依视路陆逊梯卡不断推动镜片和视觉性能的突破性创新，帮助重新定义人们感知周围世界的方式。 与应用材料公司携手，我们期待共同探索智能光学技术，助力塑造智能眼镜和下一代视觉计算的未来，为显示可穿戴设备品类的扩张打造新的全球驱动力。",
           "url": "https://wallstreetcn.com/livenews/3120432",
           "source": "华尔街见闻-快讯",
@@ -270,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "港股收评：恒指收跌0.74% AI次新股强势领涨",
+          "url": "https://flash.jin10.com/detail/20260617161715957800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "红杉资本看好SpaceX太空数据中心与AI实力，长期持有者称其愿景“永恒”",
@@ -292,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "上交所：发行人应在人工智能大模型领域行业地位突出、排名靠前",
+          "url": "https://flash.jin10.com/detail/20260617161220483800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "美国商务部长卢特尼克在信函中就顶级AI模型的限制问题警告Anthropic。（彭博）",
