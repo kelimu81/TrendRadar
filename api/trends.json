@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T13:10:01.253213+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-06-20T16:49:11.469774+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 13时10分]"
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 16时49分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -48,11 +48,12 @@
           "url": "https://www.douyin.com/hot/2541043",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 13时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 16时49分]"
         },
         {
           "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
@@ -64,8 +65,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时06分 ~ 13时10分]"
+          "appearance_count": 7,
+          "time_info": "[05时06分 ~ 16时49分]"
+        },
+        {
+          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
+          "url": "https://wallstreetcn.com/articles/3775106",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -106,6 +118,17 @@
           "time_info": "[06时52分 ~ 08时06分]"
         },
         {
+          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
+          "url": "https://wallstreetcn.com/articles/3775111",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
+        },
+        {
           "title": "导演於水直言 AI 是无所不能的大模型，每个人是不完美的小模型，不完美才能产生艺术，你认可这种说法吗？",
           "url": "https://www.zhihu.com/question/2050584252303893056",
           "source": "知乎",
@@ -115,6 +138,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "当AI开始自己造AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93AI%E5%BC%80%E5%A7%8B%E8%87%AA%E5%B7%B1%E9%80%A0AI&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
+        },
+        {
+          "title": "男子称高价挂专家号 医生竟悄悄问AI",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%AB%98%E4%BB%B7%E6%8C%82%E4%B8%93%E5%AE%B6%E5%8F%B7+%E5%8C%BB%E7%94%9F%E7%AB%9F%E6%82%84%E6%82%84%E9%97%AEAI",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
         },
         {
           "title": "当AI开始自己造AI",
@@ -137,6 +182,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时09分 ~ 13时10分]"
+        },
+        {
+          "title": "挪威将禁止小学生使用生成式人工智能",
+          "url": "https://flash.jin10.com/detail/20260620160408389800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
@@ -167,7 +223,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         }
@@ -175,7 +231,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国商业遥感星光熠熠",
@@ -195,7 +251,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -204,22 +260,24 @@
           "url": "https://news.ifeng.com/c/8u6WrTf14Qf",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 13时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 16时49分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
           "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 13时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 16时49分]"
         },
         {
           "title": "停火消息传出，以军无人机仍持续空袭黎巴嫩南部",
@@ -232,6 +290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 03时44分]"
+        },
+        {
+          "title": "乌无人机为何能轻松突破俄防空网",
+          "url": "https://www.toutiao.com/trending/7653341374833495594/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
         },
         {
           "title": "停火消息传出 以军无人机仍持续空袭黎巴嫩南部",
@@ -276,6 +345,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "地质 矿产 勘探",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "以色列总理内塔尼亚胡：索马里兰拥有丰富的自然资源，包括前景可观的稀土矿产、石油和天然气资源，以及一个尚未开发的采掘行业。以色列在创新和科技领域的领先地位，与索马里兰尚未开发的潜力和战略地理位置堪称天然伙伴。",
+          "url": "https://flash.jin10.com/detail/20260620151439953800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     }
