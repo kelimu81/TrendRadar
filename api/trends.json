@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-21T07:04:08.593336+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-06-21T11:39:13.479979+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+          "url": "https://www.cls.cn/detail/2404332",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 11时39分]"
+        },
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
           "url": "https://wallstreetcn.com/articles/3775106",
@@ -19,28 +31,18 @@
           "time_info": "[01时22分 ~ 07时04分]"
         },
         {
-          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
-          "url": "https://www.cls.cn/detail/2404332",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 07时04分]"
-        },
-        {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
           "url": "https://wallstreetcn.com/articles/3775111",
           "source": "华尔街见闻",
           "ranks": [
             8,
             7,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 07时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 11时39分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -48,11 +50,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 07时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 11时39分]"
+        },
+        {
+          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
+          "url": "https://wallstreetcn.com/articles/3775114",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -95,6 +109,18 @@
           "time_info": "[01时22分 ~ 07时04分]"
         },
         {
+          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
+          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时03分 ~ 11时39分]"
+        },
+        {
           "title": "谐音歌词版WAIYA",
           "url": "https://www.douyin.com/hot/2541878",
           "source": "抖音",
@@ -108,6 +134,17 @@
           "time_info": "[03时18分 ~ 07时04分]"
         },
         {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
           "url": "https://wallstreetcn.com/articles/3775105",
           "source": "华尔街见闻",
@@ -119,15 +156,59 @@
           "time_info": "[07时03分 ~ 07时04分]"
         },
         {
-          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
-          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "女子用AI写3000字股市谣言被罚",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时03分 ~ 07时04分]"
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "MiniMax 股价遭遇腰斩，大模型市场估值逻辑发生了怎样的变化？",
+          "url": "https://www.zhihu.com/question/2047642950771946873",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "以色列侨民事务部长Amichai Chikli：叙利亚和土耳其对以色列的威胁远比伊朗更令人担忧。",
+          "url": "https://flash.jin10.com/detail/20260621105013148800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "以色列侨民事务部长Amichai Chikli：以色列“迟早”会与叙利亚开战，叙利亚与土耳其之间的联盟对我们构成“战略挑战”。",
+          "url": "https://flash.jin10.com/detail/20260621104914004800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "华泰证券：AI服务器测试电源或迎国产替代机遇",
+          "url": "https://flash.jin10.com/detail/20260621083741810800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     },
@@ -141,11 +222,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 07时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 11时39分]"
         },
         {
           "title": "乌无人机合围莫斯科 俄为何拦不住",
