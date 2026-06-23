@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-23T10:47:47.438359+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-06-23T14:47:15.568360+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
+          "url": "https://wallstreetcn.com/articles/3775200",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时22分 ~ 14时47分]"
+        },
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
           "url": "https://www.cls.cn/detail/2405734",
@@ -33,27 +45,74 @@
           "time_info": "[06时01分 ~ 10时47分]"
         },
         {
-          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
-          "url": "https://wallstreetcn.com/articles/3775200",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 10时47分]"
-        },
-        {
           "title": "字节跳动发布豆包大模型2.1 Pro",
           "url": "https://flash.jin10.com/detail/20260623103326108800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时47分]"
+        },
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时47分]"
+        },
+        {
+          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
+          "url": "https://www.cls.cn/detail/2406127",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时47分]"
+        },
+        {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
+        },
+        {
+          "title": "武亮说峰学要拥抱AI带来的变化",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E4%BA%AE%E8%AF%B4%E5%B3%B0%E5%AD%A6%E8%A6%81%E6%8B%A5%E6%8A%B1AI%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
         },
         {
           "title": "物理AI第一股上市首日高开302%",
@@ -73,7 +132,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -89,28 +148,6 @@
           "time_info": "06时01分"
         },
         {
-          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
-          "url": "https://www.cls.cn/detail/2406155",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
-          "url": "https://www.cls.cn/detail/2406127",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
           "title": "报道：高通接近收购AI芯片初创公司Modular",
           "url": "https://wallstreetcn.com/livenews/3123034",
           "source": "华尔街见闻-快讯",
@@ -122,26 +159,26 @@
           "time_info": "06时01分"
         },
         {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
           "title": "港股人工智能板块走低，智谱跌超13%，曦智科技-P、群核科技跌超7%，MINIMAX-W跌超6%，澜起科技、兆易创新跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3123126",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "消息人士：日产汽车在去年年初已停止开发其电动版Qashqai SUV。即使重启项目，该车型也要到下个十年才能上市。",
+          "url": "https://flash.jin10.com/detail/20260623141237233800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "火山引擎总裁谭待：豆包大模型日均Tokens使用量已突破180万亿",
@@ -150,7 +187,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -172,7 +209,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -227,7 +264,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -246,8 +283,19 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "日本拟大量部署可远程攻击无人机",
+          "url": "https://www.toutiao.com/trending/7654401526119071780/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
+        },
         {
           "title": "土耳其称一艘货船在黑海遭无人机袭击",
           "url": "https://wallstreetcn.com/livenews/3122985",
