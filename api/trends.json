@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T08:06:34.492178+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-06-25T13:02:37.488020+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 40,
+      "match_count": 48,
       "titles": [
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -53,11 +53,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时13分 ~ 08时06分]"
+          "appearance_count": 4,
+          "time_info": "[06时13分 ~ 13时02分]"
         },
         {
           "title": "霓虹AI超美?实则组队打工仔",
@@ -65,11 +66,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 08时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 13时02分]"
         },
         {
           "title": "用AI制作一部玄幻短片",
@@ -80,8 +82,22 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 13时02分]"
+        },
+        {
+          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
+          "url": "https://wallstreetcn.com/articles/3775422",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时15分 ~ 08时06分]"
+          "time_info": "[02时49分 ~ 13时02分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -96,18 +112,16 @@
           "time_info": "[00时15分 ~ 08时06分]"
         },
         {
-          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
-          "url": "https://wallstreetcn.com/articles/3775422",
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7,
-            6
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时49分 ~ 08时06分]"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 13时02分]"
         },
         {
           "title": "美财长大放厥词：AI的最大风险是中国超越美国",
@@ -130,17 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
-        },
-        {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
         },
         {
           "title": "Hugging Face CEO：来自Hugging Face生态系统的AI模型计划将被集成并部署到高通平台上。",
@@ -214,6 +217,30 @@
           "time_info": "[06时14分 ~ 08时06分]"
         },
         {
+          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
+          "url": "https://www.cls.cn/detail/2408477",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 13时02分]"
+        },
+        {
+          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 13时02分]"
+        },
+        {
           "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
           "url": "https://wallstreetcn.com/articles/3775365",
           "source": "华尔街见闻",
@@ -227,6 +254,18 @@
           "time_info": "[00时15分 ~ 08时06分]"
         },
         {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 13时02分]"
+        },
+        {
           "title": "小伙用折叠屏AI两分钟写歌",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E7%94%A8%E6%8A%98%E5%8F%A0%E5%B1%8FAI%E4%B8%A4%E5%88%86%E9%92%9F%E5%86%99%E6%AD%8C",
           "source": "百度热搜",
@@ -238,15 +277,15 @@
           "time_info": "[04时46分 ~ 04时47分]"
         },
         {
-          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
-          "url": "https://www.cls.cn/detail/2408477",
-          "source": "财联社热门",
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "13时02分"
         },
         {
           "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
@@ -282,15 +321,15 @@
           "time_info": "04时47分"
         },
         {
-          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
-          "source": "澎湃新闻",
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "13时02分"
         },
         {
           "title": "黄仁勋：本轮AI基建周期长达数十年",
@@ -299,18 +338,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
-          "url": "https://www.cls.cn/detail/2408544",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -348,6 +376,17 @@
           "time_info": "02时49分"
         },
         {
+          "title": "精工科技6月25日在互动平台表示，截至目前，公司碳纤维材料尚未向AI眼镜企业供货。",
+          "url": "https://flash.jin10.com/detail/20260625121537860800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "谷歌(GOOG.O)短线下挫，消息称谷歌再有两名人工智能员工或将跳槽至Anthropic公司。",
           "url": "https://flash.jin10.com/detail/20260625021946400800",
           "source": "金十数据",
@@ -376,7 +415,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -414,6 +453,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "英力股份：公司暂未取得戴尔AIPC结构件订单",
+          "url": "https://flash.jin10.com/detail/20260625120704496800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "高通：面向数据中心推出DragonFly（飞龙） C1000 CPU。 发布全新 Dragonfly（飞龙）产品组合，揭晓面向智能体AI时代的全面数据中心路线图。 推出Pam4电信号与光信号传输服务及相关解决方案服务。 与一家超大规模云服务商（Hyperscaler）在新款通信芯片上合作。 预计数据中心将在2027年带来（至少）数十亿美元收入。 汽车业务2026财年年化营收将达到60亿美元。",
           "url": "https://wallstreetcn.com/livenews/3124206",
           "source": "华尔街见闻-快讯",
@@ -431,9 +481,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-25）",
+          "url": "https://flash.jin10.com/detail/20260625115447367800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "张泉灵说选志愿吵架可以找AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%89%E7%81%B5%E8%AF%B4%E9%80%89%E5%BF%97%E6%84%BF%E5%90%B5%E6%9E%B6%E5%8F%AF%E4%BB%A5%E6%89%BEAI%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "宁泉资产：AI泡沫被严重低估",
@@ -445,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "瑞银：有迹象表明中国AI科技上行周期逐步接近顶部 但撤离还为时过早",
+          "url": "https://wallstreetcn.com/livenews/3124407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "高通投资者日活动开始，数据中心主管表示：将于2028年年中推出数据中心CPU。 从2027年第一季度（即2026年底）开始，高通的定制芯片（Custom Silicon）业务将开始贡献实质性收入。 微软将在其Azure数据中心部署高通的高带宽计算（HBC）芯片。 配备AI250的高通第一代高带宽计算（HBC Gen 1）芯片预计将于2027年年中开启商业采样。 高通将于2028年推出第二代高带宽计算（HBC）芯片。 Meta计划在其数据中心使用C1000 CPU。 计划2027年推出第三代AI芯片。",
@@ -467,6 +550,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "AI时代计算机专业怎么选",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机 遥感 测绘",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "俄罗斯国防部：俄罗斯在一夜之间击落269架无人机。",
+          "url": "https://flash.jin10.com/detail/20260625123034251800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "相关部门表示，乌克兰波尔塔瓦地区一工业设施遭无人机袭击，火灾已扑灭。",
+          "url": "https://flash.jin10.com/detail/20260625122459673800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "内塔尼亚胡称只要其在任，以军就不会撤出黎南部“安全区”，针对无人机开发“曼哈顿计划”",
+          "url": "https://wallstreetcn.com/livenews/3124198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     },
@@ -481,7 +625,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -492,26 +636,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机 遥感 测绘",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "内塔尼亚胡称只要其在任，以军就不会撤出黎南部“安全区”，针对无人机开发“曼哈顿计划”",
-          "url": "https://wallstreetcn.com/livenews/3124198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "08时06分"
         }
       ]
     }
