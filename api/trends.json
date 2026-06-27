@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T03:24:43.710839+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-06-28T04:58:42.076750+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 04时58分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 04时58分]"
         },
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 04时58分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 04时58分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -60,8 +60,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 04时58分]"
         },
         {
           "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
@@ -71,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 04时58分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -83,14 +83,14 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 04时58分]"
         }
       ]
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据CNN：美国官员称，当伊朗声称对中东的美军目标发动袭击时，美国“探测到几架无人机”，但这些无人机并未击中目标。",
@@ -126,6 +126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "俄罗斯为什么防不住乌克兰无人机",
+          "url": "https://www.toutiao.com/trending/7655989890496073267/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         }
       ]
     }
