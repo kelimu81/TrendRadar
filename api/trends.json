@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T03:03:40.312451+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-06-30T05:22:42.080196+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 05时22分]"
         },
         {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 05时22分]"
         },
         {
           "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
@@ -50,8 +50,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 05时22分]"
         },
         {
           "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
@@ -62,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 05时22分]"
         },
         {
           "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
@@ -74,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 05时22分]"
         },
         {
           "title": "AI手机进入Agent时代",
@@ -83,11 +83,35 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            20
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 05时22分]"
+        },
+        {
+          "title": "吴启华自曝卖肖像权拍AI电影",
+          "url": "https://www.douyin.com/hot/2552172",
+          "source": "抖音",
+          "ranks": [
+            29,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时52分 ~ 03时03分]"
+          "time_info": "[03时03分 ~ 05时22分]"
+        },
+        {
+          "title": "消息人士：康卡斯特可能会建设数据中心以利用人工智能的增长。",
+          "url": "https://flash.jin10.com/detail/20260630042523528800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         },
         {
           "title": "据The Information：亚马逊(AMZN.O)正在评估其他人工智能模型，以应对不断上升的Anthropic成本。",
@@ -99,17 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "吴启华自曝卖肖像权拍AI电影",
-          "url": "https://www.douyin.com/hot/2552172",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时03分"
         },
         {
           "title": "又一美国科技巨头转向中国大模型",
@@ -137,8 +150,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 05时22分]"
         }
       ]
     }
