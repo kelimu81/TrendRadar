@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T04:52:27.520971+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-07-05T05:55:49.870620+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时55分]"
         },
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时55分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时55分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -48,19 +49,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时55分]"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
           "url": "https://flash.jin10.com/detail/20260705041238253800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时55分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -87,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时55分]"
         },
         {
           "title": "超200架无人机来袭 俄称莫斯科再遭大规模袭击",
@@ -98,8 +100,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时55分]"
         },
         {
           "title": "俄称圣彼得堡市遭大规模无人机袭击",
@@ -109,8 +111,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时55分]"
         },
         {
           "title": "俄称圣彼得堡市遭大规模无人机袭击",
@@ -118,11 +120,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 04时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 05时55分]"
         },
         {
           "title": "俄罗斯无人机持续摧毁乌克兰军事燃油基础设施",
