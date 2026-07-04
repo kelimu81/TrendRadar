@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-07-05T06:55:20.698142+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-07-05T07:59:14.487495+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时55分]"
-        },
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
           "url": "https://wallstreetcn.com/articles/3776196",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时59分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -35,7 +25,19 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时59分]"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -49,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时59分]"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -63,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时55分]"
+        },
+        {
+          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
+          "url": "https://wallstreetcn.com/articles/3776203",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -89,8 +102,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时59分]"
         },
         {
           "title": "超200架无人机来袭 俄称莫斯科再遭大规模袭击",
@@ -100,8 +113,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时59分]"
         },
         {
           "title": "俄称圣彼得堡市遭大规模无人机袭击",
@@ -111,8 +124,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时59分]"
         },
         {
           "title": "俄称圣彼得堡市遭大规模无人机袭击",
