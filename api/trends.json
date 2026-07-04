@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T18:05:22.958520+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-07-04T20:04:48.041389+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -30,6 +30,19 @@
           "time_info": "[01时20分 ~ 06时10分]"
         },
         {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 20时04分]"
+        },
+        {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
@@ -39,18 +52,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时20分 ~ 05时00分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 18时05分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -63,6 +64,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时20分 ~ 12时32分]"
+        },
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 20时04分]"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -135,18 +149,6 @@
           "time_info": "[01时21分 ~ 05时00分]"
         },
         {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 18时05分]"
-        },
-        {
           "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
           "url": "https://wallstreetcn.com/livenews/3128834",
           "source": "华尔街见闻-快讯",
@@ -207,6 +209,17 @@
           "time_info": "[15时42分 ~ 18时05分]"
         },
         {
+          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
+          "url": "https://wallstreetcn.com/articles/3776196",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
           "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
           "url": "https://wallstreetcn.com/articles/3776134",
           "source": "华尔街见闻",
@@ -238,12 +251,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "曝摄像头AirPodsPro项目暂停",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%91%84%E5%83%8F%E5%A4%B4AirPodsPro%E9%A1%B9%E7%9B%AE%E6%9A%82%E5%81%9C%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         }
       ]
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "日本防相：将加快拦截无人机部署",
@@ -281,6 +305,30 @@
           "time_info": "[15时42分 ~ 18时05分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260704161949297800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 20时04分]"
+        },
+        {
+          "title": "俄称圣彼得堡市遭大规模无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3128919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 20时04分]"
+        },
+        {
           "title": "俄称拦截23架飞向莫斯科的乌无人机",
           "url": "https://wallstreetcn.com/livenews/3128900",
           "source": "华尔街见闻-快讯",
@@ -293,37 +341,49 @@
           "time_info": "[15时42分 ~ 18时05分]"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260704161949297800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "俄称圣彼得堡市遭大规模无人机袭击",
-          "url": "https://wallstreetcn.com/livenews/3128919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
           "title": "乌克兰国家天然气公司（Naftogaz）：乌克兰中央波尔塔瓦地区的天然气生产设施遭到俄罗斯无人机袭击，导致火灾。",
           "url": "https://flash.jin10.com/detail/20260704155522961800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 20时04分]"
+        },
+        {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时05分"
+          "time_info": "20时04分"
+        },
+        {
+          "title": "超200架无人机来袭 俄称莫斯科再遭大规模袭击",
+          "url": "https://flash.jin10.com/detail/20260704182828318800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
+          "title": "超200架无人机来袭 俄称莫斯科再遭大规模袭击",
+          "url": "https://wallstreetcn.com/livenews/3128932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         },
         {
           "title": "俄罗斯方面称，乌克兰无人机袭击圣彼得堡一处油库。",
@@ -332,7 +392,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         }
@@ -347,11 +407,12 @@
           "url": "https://flash.jin10.com/detail/20260704171737727800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 20时04分]"
         }
       ]
     }
