@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T01:07:01.519059+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-05T03:04:35.814353+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时04分]"
         },
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时04分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时04分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -47,9 +47,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时04分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -58,7 +58,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         }
@@ -66,7 +66,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
@@ -76,19 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
-          "title": "俄罗斯无人机持续摧毁乌克兰军事燃油基础设施",
-          "url": "https://flash.jin10.com/detail/20260705001145696800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时04分]"
         },
         {
           "title": "超200架无人机来袭 俄称莫斯科再遭大规模袭击",
@@ -97,9 +86,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时04分]"
         },
         {
           "title": "俄称圣彼得堡市遭大规模无人机袭击",
@@ -108,9 +97,31 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时04分]"
+        },
+        {
+          "title": "俄罗斯无人机持续摧毁乌克兰军事燃油基础设施",
+          "url": "https://flash.jin10.com/detail/20260705001145696800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "俄称圣彼得堡市遭大规模无人机袭击",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%A7%B0%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%E5%B8%82%E9%81%AD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         }
       ]
     }
