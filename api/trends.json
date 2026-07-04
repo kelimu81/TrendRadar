@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T05:55:49.870620+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-07-05T06:55:20.698142+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时55分]"
         },
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时55分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时55分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 06时55分]"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -89,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 06时55分]"
         },
         {
           "title": "超200架无人机来袭 俄称莫斯科再遭大规模袭击",
@@ -100,8 +100,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 06时55分]"
         },
         {
           "title": "俄称圣彼得堡市遭大规模无人机袭击",
@@ -111,8 +111,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 06时55分]"
         },
         {
           "title": "俄称圣彼得堡市遭大规模无人机袭击",
@@ -121,11 +121,12 @@
           "ranks": [
             30,
             25,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时04分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时04分 ~ 06时55分]"
         },
         {
           "title": "俄罗斯无人机持续摧毁乌克兰军事燃油基础设施",
