@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-05T11:35:28.110439+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2026-07-05T15:21:50.424430+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
-          "url": "https://wallstreetcn.com/articles/3776196",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 11时35分]"
-        },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
@@ -26,7 +14,20 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 15时21分]"
+        },
+        {
+          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
+          "url": "https://wallstreetcn.com/articles/3776196",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -49,11 +50,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 11时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 15时21分]"
         },
         {
           "title": "“AI+”OPC供需生态对接会在珠海举行",
@@ -62,9 +64,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -87,8 +100,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 15时21分]"
+        },
+        {
+          "title": "嘉实基金王贵重：对中国科技资产及国内AI加速追赶趋势持积极乐观态度",
+          "url": "https://flash.jin10.com/detail/20260705142201827800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "AI投资进入落地阶段 半导体价格开始显著上涨",
@@ -97,9 +121,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "《北京数字经济发展报告（2025—2026）》发布 2025年人工智能核心产业规模约4500亿元",
+          "url": "https://flash.jin10.com/detail/20260705141115141800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -119,15 +154,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
+          "url": "https://flash.jin10.com/detail/20260705113833548800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
@@ -184,9 +230,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 15时21分]"
         },
         {
           "title": "俄罗斯无人机持续摧毁乌克兰军事燃油基础设施",
@@ -198,6 +244,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "俄国防部：俄防空系统夜间摧毁71架乌克兰无人机",
+          "url": "https://flash.jin10.com/detail/20260705132828807800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "俄罗斯新识别系统可强制民用无人机降落",
+          "url": "https://flash.jin10.com/detail/20260705122214595800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     }
