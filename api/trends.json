@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T04:50:44.327530+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-07-07T06:41:19.040742+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,39 @@
       "match_count": 11,
       "titles": [
         {
-          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
-          "url": "https://wallstreetcn.com/articles/3776245",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 04时50分]"
-        },
-        {
           "title": "xAI将旗下X账号更名为SpaceXAI。",
           "url": "https://flash.jin10.com/detail/20260707042933753800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776245",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 06时41分]"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 06时41分]"
         },
         {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
@@ -41,15 +54,15 @@
           "time_info": "[02时08分 ~ 04时50分]"
         },
         {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
+          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
+          "url": "https://www.cls.cn/detail/2418217",
+          "source": "财联社热门",
           "ranks": [
-            28
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时08分 ~ 04时50分]"
+          "time_info": "[04时50分 ~ 06时41分]"
         },
         {
           "title": "AI预测葡萄牙vs西班牙赛果",
@@ -74,24 +87,13 @@
           "time_info": "02时08分"
         },
         {
-          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
-          "url": "https://www.cls.cn/detail/2418217",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
           "title": "消息人士：美国网络防御机构CISA正使用Anthropic的人工智能工具来审计政府代码。CISA在使用人工智能工具审计政府代码过程中，已发现多处漏洞。",
           "url": "https://flash.jin10.com/detail/20260707040223748800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -135,6 +137,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "消防用无人机救出受困车主",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%95%91%E5%87%BA%E5%8F%97%E5%9B%B0%E8%BD%A6%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 06时41分]"
+        },
+        {
           "title": "美国运输安全管理局（TSA）：自6月12日以来，美国相关机构已在国际足联世界杯赛场附近查获了600多架无人机。",
           "url": "https://flash.jin10.com/detail/20260707012136963800",
           "source": "金十数据",
@@ -144,17 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
-        },
-        {
-          "title": "消防用无人机救出受困车主",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E9%98%B2%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%95%91%E5%87%BA%E5%8F%97%E5%9B%B0%E8%BD%A6%E4%B8%BB",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
         },
         {
           "title": "乌克兰总统泽连斯基：俄罗斯大规模导弹和无人机袭击已致22人死亡、近90人受伤，基辅及周边地区受创最重。",
