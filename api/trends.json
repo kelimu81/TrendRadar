@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-07T19:44:23.865077+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-07-07T22:22:08.010259+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 22时22分]"
+        },
         {
           "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
           "url": "https://www.cls.cn/detail/2418586",
@@ -47,18 +59,6 @@
           "time_info": "[02时08分 ~ 08时04分]"
         },
         {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 19时44分]"
-        },
-        {
           "title": "国家发改委：预计今年AI手机、AI电脑的销量将首次超过非AI产品",
           "url": "https://wallstreetcn.com/livenews/3129750",
           "source": "华尔街见闻-快讯",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "上海市消保委：今年上半年共享租赁和AI相关投诉频发",
+          "url": "https://wallstreetcn.com/livenews/3130042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "国家发展改革委披露人工智能产业“十五五”五大工作思路 强化模型、算力、数据等关键技术攻关",
@@ -174,6 +185,17 @@
           "time_info": "[02时08分 ~ 04时50分]"
         },
         {
+          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
+          "url": "https://wallstreetcn.com/articles/3776368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
+        },
+        {
           "title": "AI预测葡萄牙vs西班牙赛果",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
           "source": "bilibili 热搜",
@@ -207,6 +229,17 @@
           "time_info": "12时47分"
         },
         {
+          "title": "报道：智谱考虑自研AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3130039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "英国监管机构审查凸显金融服务AI风险",
           "url": "https://wallstreetcn.com/livenews/3129510",
           "source": "华尔街见闻-快讯",
@@ -229,6 +262,17 @@
           "time_info": "12时47分"
         },
         {
+          "title": "李开复：AI迈入决策时代，一号位主导推进AI将改善经营业绩表现",
+          "url": "https://wallstreetcn.com/livenews/3130028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "消息人士：美国网络防御机构CISA正使用Anthropic的人工智能工具来审计政府代码。CISA在使用人工智能工具审计政府代码过程中，已发现多处漏洞。",
           "url": "https://flash.jin10.com/detail/20260707040223748800",
           "source": "金十数据",
@@ -238,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "上海市消保委：今年上半年共享租赁和AI相关投诉频发",
+          "url": "https://flash.jin10.com/detail/20260707215933419800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "前苹果员工创办的中国AI眼镜公司获腾讯、美团投资，估值达10亿美元",
@@ -375,18 +430,19 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "广西横州无人机洪水中吊运被困人员",
           "url": "https://www.toutiao.com/trending/7659325454973599753/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 22时22分]"
         },
         {
           "title": "无人机转移广西强降雨被困人员",
@@ -410,6 +466,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 06时41分]"
+        },
+        {
+          "title": "家乡球迷用无人机表演致敬C罗",
+          "url": "https://www.toutiao.com/trending/7658728091975696403/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
         },
         {
           "title": "美国运输安全管理局（TSA）：自6月12日以来，美国相关机构已在国际足联世界杯赛场附近查获了600多架无人机。",
@@ -451,7 +518,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         }
