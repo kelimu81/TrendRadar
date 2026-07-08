@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-08T07:57:22.556149+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-07-08T10:23:24.984516+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
+          "url": "https://www.cls.cn/detail/2419748",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
           "url": "https://wallstreetcn.com/articles/3776368",
@@ -17,8 +28,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 07时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 10时23分]"
+        },
+        {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 10时23分]"
         },
         {
           "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
@@ -31,6 +54,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时57分]"
+        },
+        {
+          "title": "Papi酱AI单曲《生气了》爆火",
+          "url": "https://www.toutiao.com/trending/7658713514379345961/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 10时23分]"
         },
         {
           "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
@@ -72,18 +107,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -121,15 +145,26 @@
           "time_info": "03时49分"
         },
         {
-          "title": "Papi酱AI单曲《生气了》爆火",
-          "url": "https://www.toutiao.com/trending/7658713514379345961/",
-          "source": "今日头条",
+          "title": "智谱(02513.HK)涨超10%，成交额超60亿港元，报道称智谱考虑自研AI芯片，以应对GLM模型需求快速增长。",
+          "url": "https://flash.jin10.com/detail/20260708100531718800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "10时23分"
+        },
+        {
+          "title": "算力硬件、AI服务器概念盘初拉升，浪潮信息、威尔高、紫光股份涨停，锐捷网络、长盈通、星网锐捷、华丰科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3130284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "告别“无差别上涨”，AI行情进入下半场",
@@ -138,7 +173,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -149,7 +184,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -168,8 +203,19 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "伊朗军队向巴林发射无人机。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3130302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
         {
           "title": "美国7月7日对伊朗的军事袭击针对防空系统和无人机基地。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3130193",
@@ -180,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "直击南宁洪灾丨横州六蓝水库坝体缺口已无洪水漫出，无人机吊运瓶装水进村",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33534270",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "据Axios：一名美国官员表示，此次打击目标包括伊朗防空系统、海岸监视系统、地对空导弹设施、反舰巡航导弹阵地、无人机发射设施以及港口设施。",
