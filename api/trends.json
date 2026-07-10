@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T12:05:53.804482+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-07-10T16:18:37.764442+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 12时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 16时18分]"
         },
         {
           "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
@@ -57,6 +57,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时44分 ~ 12时05分]"
+        },
+        {
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 16时18分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出广告主控制功能以披露生成性人工智能的使用；广告上可能会出现标签。",
@@ -102,18 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
-          "url": "https://www.cls.cn/detail/2422268",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时05分]"
         },
         {
           "title": "Meta：探索AI云业务是合理的，考虑出租算力",
@@ -164,6 +164,29 @@
           "time_info": "[06时18分 ~ 08时02分]"
         },
         {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 16时18分]"
+        },
+        {
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 16时18分]"
+        },
+        {
           "title": "AI和空调开始抢电",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%92%8C%E7%A9%BA%E8%B0%83%E5%BC%80%E5%A7%8B%E6%8A%A2%E7%94%B5",
           "source": "bilibili 热搜",
@@ -173,17 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
         },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -219,15 +231,15 @@
           "time_info": "08时02分"
         },
         {
-          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
-          "url": "https://wallstreetcn.com/articles/3776590",
-          "source": "华尔街见闻",
+          "title": "AI投资已成通胀主要推手？美联储“三把手”：或被迫加息应对！",
+          "url": "https://www.cls.cn/detail/2422609",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时05分"
+          "time_info": "16时18分"
         },
         {
           "title": "Meta：探索AI云业务是合理的，考虑出租算力",
@@ -261,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "村上春树新书发售当天就出现 AI 译本，AI 译文质量靠谱吗？会普及吗？你能接受阅读 AI 译版作品吗？",
+          "url": "https://www.zhihu.com/question/2058240544073937856",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "富兰克林·邓普顿：AI基础设施看涨逻辑将延续至2027年",
@@ -329,6 +352,28 @@
           "time_info": "02时48分"
         },
         {
+          "title": "经纬度：AI硬件、机器人出海，上海外贸新引擎动力十足",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33549462",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "工信部：将于7月16日至24日在四川成都举办数字和人工智能部长会议及数字周相关活动",
+          "url": "https://flash.jin10.com/detail/20260710155751844800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "据The Information：Cursor正开发AI智能代理，欲对标Claude Cowork。",
           "url": "https://flash.jin10.com/detail/20260710035905609800",
           "source": "金十数据",
@@ -349,34 +394,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "分析师：SK海力士在美上市为AI硬件投资注入信心",
+          "url": "https://flash.jin10.com/detail/20260710155419980800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "原则上无人机不许吊人但人民大于原则",
           "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%88%99%E4%B8%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%B8%8D%E8%AE%B8%E5%90%8A%E4%BA%BA%E4%BD%86%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BA%8E%E5%8E%9F%E5%88%99",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 16时18分]"
+        },
+        {
+          "title": "为生命让步,无人机救人被怒赞",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356064&amp;topic_name=%E4%B8%BA%E7%94%9F%E5%91%BD%E8%AE%A9%E6%AD%A5%2C%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%95%91%E4%BA%BA%E8%A2%AB%E6%80%92%E8%B5%9E",
+          "source": "贴吧",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时05分"
+          "time_info": "16时18分"
+        },
+        {
+          "title": "原则上无人机不许吊人但人民大于原则",
+          "url": "https://www.toutiao.com/trending/7660404735362698815/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "原则上无人机不许吊人但人民大于原则",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%88%99%E4%B8%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%B8%8D%E8%AE%B8%E5%90%8A%E4%BA%BA%E4%BD%86%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BA%8E%E5%8E%9F%E5%88%99%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 16时18分]"
         },
         {
           "title": "直击无人机驰援广西洪灾救援",
@@ -392,21 +472,43 @@
           "time_info": "[02时48分 ~ 08时02分]"
         },
         {
+          "title": "广西用无人机救人、给水库附近村庄投放物资，无人机解决了哪些救援难题？在未来救援中还能发挥哪些更大作用？",
+          "url": "https://www.zhihu.com/question/2058140251491492690",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "广西救援物资投放多亏无人机",
           "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E6%95%91%E6%8F%B4%E7%89%A9%E8%B5%84%E6%8A%95%E6%94%BE%E5%A4%9A%E4%BA%8F%E6%97%A0%E4%BA%BA%E6%9C%BA&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "无人机空投物资 广西大哥抱拳感谢",
+          "url": "https://www.toutiao.com/trending/7660558348526501939/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
     {
       "keyword_group": "地质 矿产 勘探",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "印尼要把镍矿产业链送给印度吗",
@@ -429,9 +531,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "自然资源部对北京河北启动地质灾害防御Ⅳ级响应",
+          "url": "https://wallstreetcn.com/livenews/3131838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "应对台风“巴威”，自然资源部对浙江福建启动地质灾害防御Ⅲ级响应。（央视）",
