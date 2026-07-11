@@ -1,167 +1,44 @@
 {
-  "generated_at": "2026-07-11T23:52:05.786690+08:00",
-  "total_titles_processed": 1483,
+  "generated_at": "2026-07-12T00:52:43.960155+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 28,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时59分 ~ 23时52分]"
-        },
-        {
-          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
-          "url": "https://wallstreetcn.com/articles/3776629",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 17时24分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            9,
-            5,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时23分 ~ 23时52分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
           "url": "https://www.cls.cn/detail/2422869",
           "source": "财联社热门",
           "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时09分 ~ 23时52分]"
-        },
-        {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 15时09分]"
-        },
-        {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时09分 ~ 21时21分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 08时03分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.toutiao.com/trending/7660829419656888339/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时02分 ~ 23时52分]"
-        },
-        {
-          "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
-          "url": "https://wallstreetcn.com/livenews/3132268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 08时03分]"
-        },
-        {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 02时21分]"
-        },
-        {
-          "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
-          "url": "https://wallstreetcn.com/articles/3776623",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
-          "title": "欧洲央行Moulin：AI可能加剧通胀波动",
-          "url": "https://wallstreetcn.com/livenews/3132205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 04时20分]"
+          "time_info": "00时52分"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -171,398 +48,86 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时48分 ~ 23时52分]"
-        },
-        {
-          "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
-          "url": "https://wallstreetcn.com/livenews/3132249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 08时03分]"
-        },
-        {
-          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
-          "url": "https://www.cls.cn/detail/2423447",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 15时09分]"
-        },
-        {
-          "title": "苹果起诉OpenAI涉嫌窃取商业机密",
-          "url": "https://flash.jin10.com/detail/20260711044802586800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 08时03分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时09分 ~ 17时24分]"
-        },
-        {
-          "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
-          "url": "https://flash.jin10.com/detail/20260711042558788800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 08时03分]"
-        },
-        {
-          "title": "美联储半年度报告：通胀今春进一步升温，AI基建成推高通胀新因素，重申稳定价格承诺",
-          "url": "https://wallstreetcn.com/articles/3776678",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
-          "title": "《功夫女足》上映 AI预测总票房超10亿",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E4%B8%8A%E6%98%A0+AI%E9%A2%84%E6%B5%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E8%B6%8510%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
-          "title": "AI时代我们需要怎样的人才",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BA%BA%E6%89%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
-          "title": "日本砸钱抢印度AI精英赢面几何",
-          "url": "https://www.toutiao.com/trending/7661191119467712042/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 21时21分]"
-        },
-        {
-          "title": "大模型算法是否会催生一大批不懂业务的算法工程师，热度过后他们将何去何从？",
-          "url": "https://www.zhihu.com/question/7707791899",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
-        },
-        {
-          "title": "全球主权财富基金加大对AI投资",
-          "url": "https://flash.jin10.com/detail/20260711213544573800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 23时52分]"
-        },
-        {
-          "title": "美国放宽对阿联酋的出口限制，为AI芯片销售打开大门",
-          "url": "https://flash.jin10.com/detail/20260711003717069800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
         },
         {
-          "title": "据悉OpenAI安全系统负责人将离职",
-          "url": "https://flash.jin10.com/detail/20260711093038446800",
-          "source": "金十数据",
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
           "ranks": [
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "给哈兰德做了一支AI大片",
-          "url": "https://www.douyin.com/hot/2565285",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
-          "title": "OpenAI安全系统负责人Heidecke将离职。（WIRED）",
-          "url": "https://wallstreetcn.com/livenews/3132277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "00时52分"
         }
       ]
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待广西洪灾中无人机打破「不许吊人」规定进行人员转运？",
           "url": "https://www.zhihu.com/question/2058898849314486143",
           "source": "知乎",
           "ranks": [
-            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时23分 ~ 23时52分]"
-        },
-        {
-          "title": "为生命让步,无人机救人被怒赞",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356064&amp;topic_name=%E4%B8%BA%E7%94%9F%E5%91%BD%E8%AE%A9%E6%AD%A5%2C%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%95%91%E4%BA%BA%E8%A2%AB%E6%80%92%E8%B5%9E",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            13,
-            15,
-            16,
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时52分 ~ 23时52分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
           "title": "中国无人机救人事件梳理",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%95%91%E4%BA%BA%E4%BA%8B%E4%BB%B6%E6%A2%B3%E7%90%86",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时20分 ~ 23时52分]"
-        },
-        {
-          "title": "原则上无人机不许吊人但人民大于原则",
-          "url": "https://www.toutiao.com/trending/7660404735362698815/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            17,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 06时59分]"
-        },
-        {
-          "title": "“我也是第一次用无人机运人”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E4%B9%9F%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%BF%90%E4%BA%BA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
-          "title": "中国无人机“违例”操作 全网破防",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E2%80%9C%E8%BF%9D%E4%BE%8B%E2%80%9D%E6%93%8D%E4%BD%9C+%E5%85%A8%E7%BD%91%E7%A0%B4%E9%98%B2",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰将组建快速反应部队，结合突击队和无人机部队。",
-          "url": "https://flash.jin10.com/detail/20260711013530134800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        },
-        {
-          "title": "俄罗斯当局表示，塔甘罗格湾的船只遭到无人机袭击，造成一人死亡。",
-          "url": "https://flash.jin10.com/detail/20260711154700339800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "据俄新社：乌军一天之内对俄罗斯别尔哥罗德州发动41次袭击，47架无人机被拦截。",
-          "url": "https://flash.jin10.com/detail/20260711153515000800",
-          "source": "金十数据",
-          "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "00时52分"
+        },
+        {
+          "title": "为生命让步,无人机救人被怒赞",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356064&amp;topic_name=%E4%B8%BA%E7%94%9F%E5%91%BD%E8%AE%A9%E6%AD%A5%2C%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%95%91%E4%BA%BA%E8%A2%AB%E6%80%92%E8%B5%9E",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     },
     {
       "keyword_group": "地质 矿产 勘探",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
           "title": "湖北启动地质灾害防御Ⅲ级响应",
           "url": "https://wallstreetcn.com/livenews/3132348",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            10,
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时58分 ~ 23时52分]"
-        },
-        {
-          "title": "印度接盘救得了印尼镍矿产业吗",
-          "url": "https://www.toutiao.com/trending/7660881021776170502/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 06时59分]"
-        },
-        {
-          "title": "应急管理部针对天津、辽宁、吉林启动国家地质灾害四级应急响应",
-          "url": "https://wallstreetcn.com/livenews/3132311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时09分 ~ 19时02分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
           "title": "应急管理部将针对河北的国家地质灾害四级应急响应提升至三级，针对安徽启动国家地质灾害四级应急响应。",
           "url": "https://flash.jin10.com/detail/20260711215516301800",
           "source": "金十数据",
           "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 23时52分]"
-        },
-        {
-          "title": "自然资源部对天津辽宁吉林启动地质灾害防御Ⅳ级响应",
-          "url": "https://wallstreetcn.com/livenews/3132307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 17时24分]"
-        },
-        {
-          "title": "应急管理部针对天津、辽宁、吉林启动国家地质灾害四级应急响应",
-          "url": "https://flash.jin10.com/detail/20260711135253596800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "据沙特国家新闻社：沙特工业和矿产资源大臣班达尔·阿尔-霍拉耶夫被解除职务。",
-          "url": "https://flash.jin10.com/detail/20260711203910216800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
-          "title": "据沙特国家新闻社：沙特王室任命能源大臣阿卜杜勒阿齐兹·本·沙特国王萨勒曼兼任工业和矿产资源大臣。",
-          "url": "https://flash.jin10.com/detail/20260711203809182800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "00时52分"
         }
       ]
     }
