@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:45:28.349848+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-07-12T06:42:56.542229+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 06时42分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 06时42分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 06时42分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -62,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 06时42分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -81,22 +81,24 @@
           "url": "https://flash.jin10.com/detail/20260712043502920800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时42分]"
         },
         {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时42分]"
         }
       ]
     },
@@ -110,11 +112,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 06时42分]"
         },
         {
           "title": "中国无人机救人事件梳理",
@@ -125,11 +128,12 @@
             30,
             25,
             16,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 06时42分]"
         },
         {
           "title": "为生命让步,无人机救人被怒赞",
@@ -139,8 +143,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 06时42分]"
         }
       ]
     },
@@ -157,8 +161,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 06时42分]"
         },
         {
           "title": "应急管理部将针对河北的国家地质灾害四级应急响应提升至三级，针对安徽启动国家地质灾害四级应急响应。",
