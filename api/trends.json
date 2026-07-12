@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T10:14:21.272302+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-07-12T13:53:42.363176+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 13时53分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 13时53分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -107,11 +107,34 @@
           "url": "https://wallstreetcn.com/articles/3776704",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 13时53分]"
+        },
+        {
+          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
+          "url": "https://wallstreetcn.com/livenews/3132380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "13时53分"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "据福克斯新闻：人工智能连续第三个月成为美国裁员的主要原因。",
@@ -120,15 +143,37 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "黄仁勋称「Prompt 已死，AI 圈正追逐 Loop」，这对 AI 开发及工程师意味着什么？",
+          "url": "https://www.zhihu.com/question/2054980630543442226",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何看待广西洪灾中无人机打破「不许吊人」规定进行人员转运？",
@@ -150,11 +195,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 13时53分]"
         },
         {
           "title": "中国无人机救人事件梳理",
@@ -179,7 +225,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -190,9 +236,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "美国中央司令部：于7月11日完成了本周第三轮对伊朗的打击。美军动用陆基和舰载战斗机、无人机及海军舰艇，以精确弹药打击了约140个伊朗军事目标。目标包括伊朗导弹和无人机基地、海军能力、弹药储存设施、通信网络以及沿海监视地点。",
+          "url": "https://flash.jin10.com/detail/20260712113603119800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     },
