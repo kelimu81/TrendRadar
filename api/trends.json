@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-12T07:51:45.951124+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-07-12T10:14:21.272302+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 10时14分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -27,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 10时14分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -100,12 +101,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时04分 ~ 05时45分]"
+        },
+        {
+          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
+          "url": "https://wallstreetcn.com/articles/3776704",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "据福克斯新闻：人工智能连续第三个月成为美国裁员的主要原因。",
+          "url": "https://flash.jin10.com/detail/20260712090326604800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待广西洪灾中无人机打破「不许吊人」规定进行人员转运？",
@@ -126,11 +149,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356064&amp;topic_name=%E4%B8%BA%E7%94%9F%E5%91%BD%E8%AE%A9%E6%AD%A5%2C%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%95%91%E4%BA%BA%E8%A2%AB%E6%80%92%E8%B5%9E",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 10时14分]"
         },
         {
           "title": "中国无人机救人事件梳理",
@@ -147,6 +171,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 06时42分]"
+        },
+        {
+          "title": "市场消息：乌克兰无人机袭击了俄罗斯的西兹兰石油炼厂。",
+          "url": "https://flash.jin10.com/detail/20260712095729607800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "据AXIOS：美国官员表示，对伊朗打击的目标包括火箭和无人机发射场，以及空中监视雷达和导弹存储地点。",
+          "url": "https://flash.jin10.com/detail/20260712090500513800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     },
@@ -160,11 +206,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 07时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 10时14分]"
         },
         {
           "title": "应急管理部将针对河北的国家地质灾害四级应急响应提升至三级，针对安徽启动国家地质灾害四级应急响应。",
