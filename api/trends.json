@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-16T07:56:27.318416+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-07-16T10:08:29.718333+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
           "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 07时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 10时08分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -24,18 +25,6 @@
           "source": "澎湃新闻",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 07时56分]"
-        },
-        {
-          "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
-          "url": "https://www.cls.cn/detail/2427348",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -53,6 +42,18 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 10时08分]"
+        },
+        {
+          "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
+          "url": "https://www.cls.cn/detail/2427348",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 07时56分]"
         },
@@ -66,8 +67,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 07时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 10时08分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -95,6 +96,28 @@
           "time_info": "01时14分"
         },
         {
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "科创50指数拉升翻红，此前一度跌超4%，AI手机、影视传媒、消费电子等方向涨幅居前，沪深京三市上涨个股近2700只。",
+          "url": "https://wallstreetcn.com/livenews/3134739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "微软在安全业务更换八名高管、裁员数百人，将侧重于网络防御方面的AI。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3134561",
           "source": "华尔街见闻-快讯",
@@ -106,6 +129,19 @@
           "time_info": "03时04分"
         },
         {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时55分 ~ 10时08分]"
+        },
+        {
           "title": "美联储理事库克：有理由相信通胀将继续降温，但关税、中东冲突以及人工智能投资可能导致价格压力持续，仍存在相关风险。",
           "url": "https://flash.jin10.com/detail/20260716005829801800",
           "source": "金十数据",
@@ -115,6 +151,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "世界人工智能大会逛展攻略来了",
+          "url": "https://www.douyin.com/hot/2570881",
+          "source": "抖音",
+          "ranks": [
+            12,
+            25,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 10时08分]"
         },
         {
           "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
@@ -142,39 +191,16 @@
           "time_info": "[04时56分 ~ 05时55分]"
         },
         {
-          "title": "世界人工智能大会逛展攻略来了",
-          "url": "https://www.douyin.com/hot/2570881",
-          "source": "抖音",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 06时56分]"
-        },
-        {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 07时56分]"
-        },
-        {
           "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
           "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 07时56分]"
+          "appearance_count": 4,
+          "time_info": "[06时55分 ~ 10时08分]"
         },
         {
           "title": "贝森特主持金融会议 聚焦地缘政治风险与AI主题",
@@ -235,13 +261,24 @@
           "time_info": "03时04分"
         },
         {
+          "title": "澳大利亚政府成立AI办公室",
+          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "英伟达：推出全新Jetson Thor计算机，以推进主流机器人技术和边缘人工智能（Edge AI）。 日本企业正利用NVIDIA Nemotron开源模型构建AI模型。 使用NVIDIA Nemotron的公司包括引能仕、NTT DATA和日立。 扩大与丰田的合作伙伴关系，以推进汽车、机器人和城市领域的具身智能。",
           "url": "https://wallstreetcn.com/livenews/3134643",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -252,7 +289,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -296,7 +333,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -318,9 +355,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "AI会带来水资源危机吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%B8%A6%E6%9D%A5%E6%B0%B4%E8%B5%84%E6%BA%90%E5%8D%B1%E6%9C%BA%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "美联储主席沃什：如果AI企业让投资者感到失望，资本可能会枯竭。",
@@ -337,8 +385,19 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "伊朗革命卫队表示，在一场导弹和无人机袭击中，他们将目标对准了科威特阿里·萨利姆（Ali Al Salem）空军基地的预警雷达系统。",
+          "url": "https://flash.jin10.com/detail/20260716095648998800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
         {
           "title": "俄罗斯国防部：俄军使用“Geran-4”无人机袭击了乌克兰敖德萨州切尔诺莫尔斯克港的货船，以及第聂伯—布格河口的乌方船只。",
           "url": "https://flash.jin10.com/detail/20260716003940169800",
