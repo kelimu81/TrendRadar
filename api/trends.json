@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-17T10:11:33.829804+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-07-17T13:38:19.011587+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 31,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600950",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 13时38分]"
+        },
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
           "url": "https://www.cls.cn/detail/2428746",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 10时11分]"
-        },
-        {
-          "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600950",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 10时11分]"
         },
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -106,6 +106,39 @@
           "time_info": "[00时17分 ~ 07时55分]"
         },
         {
+          "title": "AI站稳产业圈顶流C位",
+          "url": "https://www.douyin.com/hot/2574370",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
+        },
+        {
+          "title": "2026世界人工智能大会有哪些不同",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://www.cls.cn/detail/2429309",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
+        },
+        {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
           "url": "https://flash.jin10.com/detail/20260717001129809800",
           "source": "金十数据",
@@ -148,7 +181,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -170,7 +203,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -217,8 +250,63 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 13时38分]"
+        },
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时55分 ~ 10时11分]"
+          "time_info": "[13时37分 ~ 13时38分]"
+        },
+        {
+          "title": "国家发改委发布《人工智能合作发展行动计划》",
+          "url": "https://www.cls.cn/detail/2429332",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
+        },
+        {
+          "title": "韩国惨遭AI泡沫绞杀局",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%83%A8%E9%81%ADAI%E6%B3%A1%E6%B2%AB%E7%BB%9E%E6%9D%80%E5%B1%80%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
+        },
+        {
+          "title": "世界人工智能大会今日开幕",
+          "url": "https://www.douyin.com/hot/2574489",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
+        },
+        {
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
         },
         {
           "title": "2026世界人工智能大会太火了",
@@ -231,6 +319,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时55分 ~ 10时11分]"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
         },
         {
           "title": "美联储副主席杰斐逊：低招聘、低裁员的环境是由不确定性驱动的，尤其是对人工智能的担忧。",
@@ -294,9 +393,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "世界人工智能大会期间国家发展改革委发布2项重要成果",
+          "url": "https://wallstreetcn.com/livenews/3135478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "国家发改委发布《人工智能合作发展行动计划》。",
+          "url": "https://wallstreetcn.com/livenews/3135476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "美联储副主席杰斐逊：如果人工智能基础设施建设和消费引发的需求效应先于人工智能带来的生产力红利显现，那么人工智能可能会给通胀带来上行压力。",
@@ -341,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/livenews/3135462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "美联储副主席杰斐逊：目前正在关注两个事情的重要发展（中东冲突以及人工智能的普及）。",
@@ -444,7 +576,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
