@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T13:48:14.930231+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-07-19T16:09:44.773744+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 50,
+      "match_count": 64,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -71,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 13时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 16时09分]"
         },
         {
           "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
@@ -84,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 13时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 16时09分]"
         },
         {
           "title": "95后夫妻手搓500集AI漫剧爆火",
@@ -116,6 +116,21 @@
           "time_info": "[00时52分 ~ 06时44分]"
         },
         {
+          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
+          "url": "https://www.cls.cn/detail/2430308",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时03分 ~ 16时09分]"
+        },
+        {
           "title": "世界人工智能大会超全攻略",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
           "source": "bilibili 热搜",
@@ -133,11 +148,12 @@
           "ranks": [
             18,
             20,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 13时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 16时09分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -164,21 +180,6 @@
           "time_info": "[00时52分 ~ 02时57分]"
         },
         {
-          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
-          "url": "https://www.cls.cn/detail/2430308",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时03分 ~ 13时48分]"
-        },
-        {
           "title": "阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心",
           "url": "https://wallstreetcn.com/articles/3777301",
           "source": "华尔街见闻",
@@ -189,8 +190,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时44分 ~ 13时48分]"
+          "appearance_count": 8,
+          "time_info": "[06时44分 ~ 16时09分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -334,6 +335,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "中国AI站上全球治理主场",
+          "url": "https://www.douyin.com/hot/2577012",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
@@ -355,6 +367,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 16时09分]"
         },
         {
           "title": "WAIC 2026智启具身论坛今日举行，姚卯青：物理AI 要实现规模化，必须突破三道“墙”",
@@ -382,16 +406,17 @@
           "time_info": "[01时55分 ~ 04时03分]"
         },
         {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
-          "source": "财联社热门",
+          "title": "世界人工智能大会有何看点",
+          "url": "https://www.douyin.com/hot/2575956",
+          "source": "抖音",
           "ranks": [
-            12,
-            11
+            23,
+            19,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时48分]"
+          "time_info": "[00时52分 ~ 16时09分]"
         },
         {
           "title": "国产AI算力迈入万卡集群时代：超节点市场刚起步，供应链依旧紧张",
@@ -417,16 +442,16 @@
           "time_info": "[00时52分 ~ 05时45分]"
         },
         {
-          "title": "世界人工智能大会有何看点",
-          "url": "https://www.douyin.com/hot/2575956",
-          "source": "抖音",
+          "title": "AI行业要重新洗牌了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E8%A1%8C%E4%B8%9A%E8%A6%81%E9%87%8D%E6%96%B0%E6%B4%97%E7%89%8C%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            23,
-            19
+            19,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时55分]"
+          "time_info": "[13时47分 ~ 16时09分]"
         },
         {
           "title": "AI风向标！甲骨文债券CDS升至历史新高",
@@ -473,17 +498,6 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "AI行业要重新洗牌了",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E8%A1%8C%E4%B8%9A%E8%A6%81%E9%87%8D%E6%96%B0%E6%B4%97%E7%89%8C%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
-        },
-        {
           "title": "多份AI安全治理成果在上海集中发布",
           "url": "https://wallstreetcn.com/livenews/3136115",
           "source": "华尔街见闻-快讯",
@@ -506,6 +520,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "百型智能在WAIC发布企业本体OntoZ",
+          "url": "https://wallstreetcn.com/livenews/3136172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "知乎Tech Club新知科技大会落地WAIC 2026",
           "url": "https://wallstreetcn.com/livenews/3136111",
           "source": "华尔街见闻-快讯",
@@ -523,9 +548,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "中国平安亮相世界人工智能大会，发布医疗、保险、支付领域最新AI成果",
+          "url": "https://flash.jin10.com/detail/20260719152301120800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "人工智能全球治理高级别会议在上海召开",
@@ -539,15 +575,92 @@
           "time_info": "10时12分"
         },
         {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "月之暗面 Kimi 最新发布的大模型 K3 有哪些局限性？",
+          "url": "https://www.zhihu.com/question/2061509036919316967",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "世界两大AI组织都是狠角色",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%A4%E5%A4%A7AI%E7%BB%84%E7%BB%87%E9%83%BD%E6%98%AF%E7%8B%A0%E8%A7%92%E8%89%B2&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "WAIC的这个重点你get了吗",
+          "url": "https://www.douyin.com/hot/2576301",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "参加 2026 世界人工智能大会 (WAIC) 是一种怎样的体验？",
+          "url": "https://www.zhihu.com/question/2060398351212700649",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "乐奇Rokid携原生操作系统YodaOS亮相WAIC 2026",
+          "url": "https://wallstreetcn.com/livenews/3136165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "不筹量子发布原子量子人工智能基座“量筹一号”",
           "url": "https://wallstreetcn.com/livenews/3136133",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "中科闻歌WAIC 2026发布完整AI决策产品体系",
+          "url": "https://wallstreetcn.com/livenews/3136161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "后摩智能WAIC展出M50芯片落地的多款AI终端，10W功耗下算力达160 TOPS",
@@ -556,9 +669,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "中国平安发布“专病AI产品矩阵”",
+          "url": "https://wallstreetcn.com/livenews/3136160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "日媒：印企越来越依赖中国AI大模型",
@@ -570,6 +694,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "长三角人工智能协同投资平台共建签约",
+          "url": "https://flash.jin10.com/detail/20260719141411430800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "长三角人工智能协同投资平台共建签约",
+          "url": "https://wallstreetcn.com/livenews/3136157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "上海“星枢计划”首发星座在WAIC正式发布",
@@ -589,9 +735,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "心言集团首款家庭主动智能陪伴机器人巴布亮相世界人工智能大会",
+          "url": "https://wallstreetcn.com/livenews/3136154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "寻汇联合万事达卡发布B2B行业首份AI智能体全球支付白皮书",
@@ -608,7 +765,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
         {
           "title": "世界杯决赛即将打响，无人机秀在哈德逊河畔上演",
@@ -638,15 +795,71 @@
           "time_info": "[00时52分 ~ 05时45分]"
         },
         {
-          "title": "俄副外长：日本与乌克兰在无人机领域合作是敌对行为",
-          "url": "https://wallstreetcn.com/livenews/3136150",
-          "source": "华尔街见闻-快讯",
+          "title": "俄称日乌无人机合作是敌对行为",
+          "url": "https://flash.jin10.com/detail/20260719155802090800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "16时09分"
+        },
+        {
+          "title": "俄副外长：日本与乌克兰在无人机领域合作是敌对行为",
+          "url": "https://wallstreetcn.com/livenews/3136150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 16时09分]"
+        },
+        {
+          "title": "科威特称拦截“敌方”导弹和无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3136174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "乌称基辅遭大规模无人机和导弹联合打击",
+          "url": "https://wallstreetcn.com/livenews/3136173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "科威特称拦截“敌方”导弹和无人机袭击",
+          "url": "https://flash.jin10.com/detail/20260719152710088800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "伊朗媒体称伊朗击落一架美军无人机",
+          "url": "https://wallstreetcn.com/livenews/3136169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "以色列军方：发现该无人机后，以色列空军在该地区发现一个真主党武装小组。以军对这些武装人员实施打击，以消除其对附近执行任务的以军士兵构成的威胁。",
@@ -660,6 +873,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "伊朗媒体称伊朗击落一架美军无人机",
+          "url": "https://flash.jin10.com/detail/20260719150205789800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "以色列军方：在黎巴嫩南部泰布尼特（Tebnit）地区发现一架真主党无人机。",
           "url": "https://flash.jin10.com/detail/20260719000725309800",
           "source": "金十数据",
@@ -671,13 +895,35 @@
           "time_info": "00时53分"
         },
         {
+          "title": "乌称基辅遭大规模无人机和导弹联合打击",
+          "url": "https://flash.jin10.com/detail/20260719143942290800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "科威特军方表示，正在拦截伊朗导弹和无人机攻击。",
+          "url": "https://flash.jin10.com/detail/20260719142917892800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "伊朗军队：科威特境内两个重要美军基地遭摧毁性无人机打击",
           "url": "https://flash.jin10.com/detail/20260719110014645800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         }
@@ -694,7 +940,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         }
