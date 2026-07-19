@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T16:09:44.773744+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-07-19T18:24:31.818632+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 64,
+      "match_count": 69,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -84,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时52分 ~ 16时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 18时24分]"
         },
         {
           "title": "95后夫妻手搓500集AI漫剧爆火",
@@ -127,8 +127,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时03分 ~ 16时09分]"
+          "appearance_count": 11,
+          "time_info": "[04时03分 ~ 18时24分]"
         },
         {
           "title": "世界人工智能大会超全攻略",
@@ -152,8 +152,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时52分 ~ 16时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 18时24分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -302,6 +302,17 @@
           "time_info": "[13时47分 ~ 13时48分]"
         },
         {
+          "title": "中国AI站上全球治理主场",
+          "url": "https://www.douyin.com/hot/2577012",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时09分 ~ 18时24分]"
+        },
+        {
           "title": "AI赋能先进核能凝练八大共识",
           "url": "https://www.toutiao.com/trending/7663872937329430062/",
           "source": "今日头条",
@@ -311,6 +322,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 02时57分]"
+        },
+        {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 18时24分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -335,17 +358,6 @@
           "time_info": "10时12分"
         },
         {
-          "title": "中国AI站上全球治理主场",
-          "url": "https://www.douyin.com/hot/2577012",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
           "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
@@ -367,18 +379,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
-        },
-        {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 16时09分]"
         },
         {
           "title": "WAIC 2026智启具身论坛今日举行，姚卯青：物理AI 要实现规模化，必须突破三道“墙”",
@@ -454,6 +454,18 @@
           "time_info": "[13时47分 ~ 16时09分]"
         },
         {
+          "title": "月之暗面 Kimi 最新发布的大模型 K3 有哪些局限性？",
+          "url": "https://www.zhihu.com/question/2061509036919316967",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时09分 ~ 18时24分]"
+        },
+        {
           "title": "AI风向标！甲骨文债券CDS升至历史新高",
           "url": "https://wallstreetcn.com/articles/3777278",
           "source": "华尔街见闻",
@@ -463,6 +475,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时09分 ~ 18时24分]"
         },
         {
           "title": "响应“AI牛股”激励风向 阿斯麦将向全体员工发放2万欧元大红包",
@@ -487,6 +511,18 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
+          "title": "世界两大AI组织都是狠角色",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%A4%E5%A4%A7AI%E7%BB%84%E7%BB%87%E9%83%BD%E6%98%AF%E7%8B%A0%E8%A7%92%E8%89%B2&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时09分 ~ 18时24分]"
+        },
+        {
           "title": "美媒称中国抹去美国在AI领域领先地位",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%8A%B9%E5%8E%BB%E7%BE%8E%E5%9B%BD%E5%9C%A8AI%E9%A2%86%E5%9F%9F%E9%A2%86%E5%85%88%E5%9C%B0%E4%BD%8D&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -509,6 +545,28 @@
           "time_info": "10时12分"
         },
         {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "“中国AI只差两三个月”，硅谷坐不住了",
+          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "实体世界智能科学论坛举办 学者：AI打破学科壁垒 人人可做科学家",
           "url": "https://wallstreetcn.com/livenews/3136113",
           "source": "华尔街见闻-快讯",
@@ -526,7 +584,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -559,7 +617,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -575,46 +633,13 @@
           "time_info": "10时12分"
         },
         {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "月之暗面 Kimi 最新发布的大模型 K3 有哪些局限性？",
-          "url": "https://www.zhihu.com/question/2061509036919316967",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "世界两大AI组织都是狠角色",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%A4%E5%A4%A7AI%E7%BB%84%E7%BB%87%E9%83%BD%E6%98%AF%E7%8B%A0%E8%A7%92%E8%89%B2&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
           "title": "WAIC的这个重点你get了吗",
           "url": "https://www.douyin.com/hot/2576301",
           "source": "抖音",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -625,7 +650,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -636,7 +661,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -658,7 +683,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -680,7 +705,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -702,7 +727,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -713,7 +738,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -746,9 +771,42 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
+        },
+        {
+          "title": "世界人工智能合作组织未来将重点开展三方面工作",
+          "url": "https://wallstreetcn.com/livenews/3136195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "【新易盛：预计2026年上半年净利润同比增长77.56%～102.93%】新易盛公告，预计2026年1月1日—2026年6月30日归属于上市公司股东的净利润为70亿元～80亿元，同比增长77.56%～102.93%；扣除非经常性损益后的净利润为69.81亿元～79.81亿元，同比增长77.46%～102.88%。报告期内公司受益于人工智能相关算力投资持续增长，产品结构优化，公司预计销售收入和净利润较上年同期大幅增加。",
+          "url": "https://wallstreetcn.com/livenews/3136190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "世界人工智能合作组织未来将重点开展三方面工作",
+          "url": "https://flash.jin10.com/detail/20260719163808991800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "寻汇联合万事达卡发布B2B行业首份AI智能体全球支付白皮书",
@@ -765,7 +823,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "世界杯决赛即将打响，无人机秀在哈德逊河畔上演",
@@ -801,7 +859,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -818,13 +876,24 @@
           "time_info": "[13时48分 ~ 16时09分]"
         },
         {
+          "title": "俄罗斯为何拦不住无人机？",
+          "url": "https://news.ifeng.com/c/8ut6e6rBTnP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "科威特称拦截“敌方”导弹和无人机袭击",
           "url": "https://wallstreetcn.com/livenews/3136174",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -835,7 +904,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -846,7 +915,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -857,7 +926,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -879,7 +948,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -895,13 +964,24 @@
           "time_info": "00时53分"
         },
         {
+          "title": "俄罗斯为何“拦不住无人机”",
+          "url": "https://www.toutiao.com/trending/7663194568405811254/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "乌称基辅遭大规模无人机和导弹联合打击",
           "url": "https://flash.jin10.com/detail/20260719143942290800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -912,7 +992,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
