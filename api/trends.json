@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T21:40:52.949827+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-07-22T23:29:59.869809+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 83,
+      "match_count": 96,
       "titles": [
         {
           "title": "世界人工智能大会达成丰硕成果",
@@ -109,6 +109,19 @@
           "time_info": "[01时13分 ~ 07时54分]"
         },
         {
+          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
+          "url": "https://wallstreetcn.com/articles/3777595",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时10分 ~ 23时29分]"
+        },
+        {
           "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
           "url": "https://www.zhihu.com/question/2062943431668789795",
           "source": "知乎",
@@ -167,19 +180,6 @@
           "time_info": "[16时20分 ~ 19时05分]"
         },
         {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 21时40分]"
-        },
-        {
           "title": "两个AI演员比内娱待爆艺人都火",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -191,6 +191,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时20分 ~ 21时40分]"
+        },
+        {
+          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
@@ -228,6 +239,17 @@
           "time_info": "13时46分"
         },
         {
+          "title": "用AI通关高难度跑步游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "创业板指跌超2%，游戏、人形机器人、刀片电池、AI应用等板块跌幅居前。",
           "url": "https://flash.jin10.com/detail/20260722132800834800",
           "source": "金十数据",
@@ -237,6 +259,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "别再给AI乱传文件了",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 23时29分]"
         },
         {
           "title": "如何看待申真谞二比一战胜围棋人工智能「KataGo」？",
@@ -251,13 +285,24 @@
           "time_info": "[07时53分 ~ 10时10分]"
         },
         {
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "SpaceXAI正在探索在得州扩建数据中心。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3138240",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -303,7 +348,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -332,18 +377,6 @@
           "time_info": "[13时46分 ~ 16时20分]"
         },
         {
-          "title": "别再给AI乱传文件了",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 21时40分]"
-        },
-        {
           "title": "AI算力需求驱动+产品涨价，半导体产业链上半年业绩大面积预增",
           "url": "https://wallstreetcn.com/livenews/3137778",
           "source": "华尔街见闻-快讯",
@@ -356,6 +389,19 @@
           "time_info": "[06时52分 ~ 07时54分]"
         },
         {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 23时29分]"
+        },
+        {
           "title": "人工智能 文科生",
           "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20%E6%96%87%E7%A7%91%E7%94%9F&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -366,18 +412,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时53分 ~ 10时10分]"
-        },
-        {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 21时40分]"
         },
         {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
@@ -427,6 +461,17 @@
           "time_info": "[07时53分 ~ 07时54分]"
         },
         {
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "据The Information：Meta Platforms(META.O)的AI孵化器正在开发OpenRouter的竞品，旨在降低编码成本。",
           "url": "https://flash.jin10.com/detail/20260722064010298800",
           "source": "金十数据",
@@ -444,7 +489,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -455,7 +500,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -477,7 +522,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -532,7 +577,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -587,9 +632,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "特朗普对伊态度转鹰，OpenAI智能体测试中突破隔离| Plus日报",
+          "url": "https://flash.jin10.com/detail/20260722230716718800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "韩国总统将于7月24日起访问旧金山，将会见大型科技公司CEO，并出席AI峰会。（彭博）",
@@ -603,15 +659,48 @@
           "time_info": "16时20分"
         },
         {
+          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
+          "url": "https://www.cls.cn/detail/2434259",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "前所未有的人工智能失控事故！中方救场",
+          "url": "https://news.ifeng.com/c/8uyRMC8mtQh",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "高通(QCOM.O)与三星扩大合作，携手骁龙平台推动Galaxy生态系统的人工智能发展。",
           "url": "https://flash.jin10.com/detail/20260722210735915800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "亚马逊对其通用人工智能部门进行裁员",
+          "url": "https://flash.jin10.com/detail/20260722230559912800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "英伟达Vera CPU测试显示AI智能体编排性能提升，支持高并发推理",
@@ -664,7 +753,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -697,7 +786,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -719,9 +808,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "为什么要说尽量少跟AI倾诉聊天",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "据华尔街日报：官员透露，特朗普政府计划在联邦科学研究中降低对高校的侧重，转而强调人工智能。",
@@ -744,6 +844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "亚马逊对其通用人工智能部门进行裁员",
+          "url": "https://wallstreetcn.com/livenews/3138282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "据华尔街日报：CoreWeave首席执行官称，公司正在大规模部署AI基础设施，公司在构建AI原生云方面走在正确的道路上，此外，随着AI云收入增长，折旧的会计影响将减小。",
@@ -796,7 +907,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -818,9 +929,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "印度国防研究与发展组织与AI Engineering和阿达尼防务签署合同。",
+          "url": "https://flash.jin10.com/detail/20260722225337966800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "普华永道中国在上海成立人工智能研究院",
+          "url": "https://wallstreetcn.com/livenews/3138278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "据华尔街日报：消息人士透露，OpenAI将预计的云服务支出从6000亿美元提高至7500亿美元。",
@@ -829,7 +962,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -867,6 +1000,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "报道：苹果计划全面改版MacBook与iMac，来应对AI需求",
+          "url": "https://wallstreetcn.com/livenews/3138275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "港股大模型股高开低走，智谱(02513.HK)跌超3%，MINIMAX-W(00100.HK)跌超4%。",
           "url": "https://flash.jin10.com/detail/20260722093707232800",
           "source": "金十数据",
@@ -895,7 +1039,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -906,7 +1050,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -939,7 +1083,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -958,7 +1102,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国驻伊拉克埃尔比勒领馆又遭无人机袭击",
@@ -1037,13 +1181,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "行业消息人士称，由于无人机袭击，俄罗斯暂时禁止在午夜至凌晨5点之间船只进出诺沃罗西斯克港。",
+          "url": "https://flash.jin10.com/detail/20260722225228343800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
     {
       "keyword_group": "地质 矿产 勘探",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国贸易代表格里尔：与印尼合作推进关键矿产承诺。",
+          "url": "https://flash.jin10.com/detail/20260722231531552800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报391.88点。 在十个板块中，北欧工业板块涨幅最大。 天然气和原油勘探与生产服务商Var Energi ASA涨7.1%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3137676",
@@ -1054,6 +1220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "美国贸易代表格里尔：我们正在加速国内关键矿产的生产以摆脱依赖。",
+          "url": "https://flash.jin10.com/detail/20260722225239969800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     }
