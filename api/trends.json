@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T13:46:30.735488+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-07-22T16:20:33.122439+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 51,
+      "match_count": 62,
       "titles": [
         {
           "title": "世界人工智能大会达成丰硕成果",
@@ -69,6 +69,19 @@
           "time_info": "[01时13分 ~ 13时46分]"
         },
         {
+          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
+          "url": "https://wallstreetcn.com/articles/3777546",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时02分 ~ 16时20分]"
+        },
+        {
           "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
           "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
           "source": "澎湃新闻",
@@ -82,19 +95,6 @@
           "time_info": "[01时13分 ~ 07时54分]"
         },
         {
-          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
-          "url": "https://wallstreetcn.com/articles/3777546",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时02分 ~ 13时46分]"
-        },
-        {
           "title": "情侣用 AI 判断菌子毒性采了 10 余斤，被本地小孩哥筛选只剩 2 斤，AI 和小孩哥谁的判断更准？为啥会有不同？",
           "url": "https://www.zhihu.com/question/2062587249968129781",
           "source": "知乎",
@@ -104,19 +104,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 13时46分]"
-        },
-        {
-          "title": "“看到AI脸产生生理性厌恶”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%8B%E5%88%B0AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 16时20分]"
         },
         {
           "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
@@ -130,15 +119,63 @@
           "time_info": "05时03分"
         },
         {
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 16时20分]"
+        },
+        {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 16时20分]"
+        },
+        {
+          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
+          "url": "https://www.cls.cn/detail/2433795",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "恒生科技指数跌超3%，PCB、AI应用、明星科网等概念跌幅居前。",
           "url": "https://flash.jin10.com/detail/20260722132845931800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "看见中国AI产业的“硬核家底”",
+          "url": "https://www.toutiao.com/trending/7664428554470113321/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "创业板指跌超2%，游戏、人形机器人、刀片电池、AI应用等板块跌幅居前。",
@@ -147,7 +184,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -211,6 +248,18 @@
           "time_info": "[01时13分 ~ 05时03分]"
         },
         {
+          "title": "“看到AI脸产生生理性厌恶”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%8B%E5%88%B0AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 16时20分]"
+        },
+        {
           "title": "AI算力需求驱动+产品涨价，半导体产业链上半年业绩大面积预增",
           "url": "https://wallstreetcn.com/livenews/3137778",
           "source": "华尔街见闻-快讯",
@@ -223,28 +272,15 @@
           "time_info": "[06时52分 ~ 07时54分]"
         },
         {
-          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
-          "url": "https://www.cls.cn/detail/2433303",
-          "source": "财联社热门",
+          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
+          "url": "https://wallstreetcn.com/articles/3777595",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            4
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 13时46分]"
-        },
-        {
-          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
-          "url": "https://www.zhihu.com/question/2062943431668789795",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 16时20分]"
         },
         {
           "title": "人工智能 文科生",
@@ -295,17 +331,6 @@
           "time_info": "[05时03分 ~ 06时52分]"
         },
         {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 13时46分]"
-        },
-        {
           "title": "王祖贤脸的AI使用权授权游戏公司",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%84%B8%E7%9A%84AI%E4%BD%BF%E7%94%A8%E6%9D%83%E6%8E%88%E6%9D%83%E6%B8%B8%E6%88%8F%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
@@ -339,6 +364,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "AI交易热情午后回落，韩股涨幅收窄至2%，日股转跌，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "A股腾讯云概念低开高走，锐捷网络涨超11%，华勤技术涨超8%，宏景科技、神州数码、世纪华通等个股跟涨。消息面上，腾讯云高管日前出席世界人工智能大会分论坛时表示，为了将推理成本降低到极致，公司会大规模部署国产化算力。",
           "url": "https://flash.jin10.com/detail/20260722094553739800",
           "source": "金十数据",
@@ -350,6 +386,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "AI交换芯片走到聚光灯下：英伟达发布Spectrum-6 或推动Token生成能力倍增",
+          "url": "https://www.cls.cn/detail/2433429",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "CoreWeave首席执行官称，公司正在大规模部署AI基础设施，公司在构建AI原生云方面走在正确的道路上，此外，随着AI云收入增长，折旧的会计影响将减小。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3137710",
           "source": "华尔街见闻-快讯",
@@ -359,6 +406,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "AI 的「最后一公里」，应该怎么走？",
+          "url": "https://www.zhihu.com/parker/campaign/2058682220576035800?zh_hide_nav_bar=true",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
+          "url": "https://www.cls.cn/detail/2433554",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -381,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "韩国总统将于7月24日起访问旧金山，将会见大型科技公司CEO，并出席AI峰会。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3138073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "英伟达Vera CPU测试显示AI智能体编排性能提升，支持高并发推理",
@@ -422,7 +502,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -444,7 +524,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -526,6 +606,28 @@
           "time_info": "03时14分"
         },
         {
+          "title": "两个AI演员比内娱待爆艺人都火",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "成都：到2027年 实现人工智能核心产业规模突破2600亿元、增速超30%",
+          "url": "https://wallstreetcn.com/livenews/3138063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
           "url": "https://wallstreetcn.com/livenews/3137675",
           "source": "华尔街见闻-快讯",
@@ -546,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "大众与地平线深化AI合作，加速L3/L4智驾本土化落地",
+          "url": "https://wallstreetcn.com/livenews/3138060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "港股大模型股高开低走，智谱(02513.HK)跌超3%，MINIMAX-W(00100.HK)跌超4%。",
@@ -581,13 +694,24 @@
           "time_info": "05时03分"
         },
         {
+          "title": "AI算力产业链成为上海出口重要增长动能",
+          "url": "https://wallstreetcn.com/livenews/3138049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "美联储曾就Anthropic的Mythos AI模型拉响警报，却被迫在没有该模型的情况下度过了数月",
           "url": "https://wallstreetcn.com/livenews/3137967",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         }
@@ -627,7 +751,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
