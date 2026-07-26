@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T07:57:18.139852+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-07-26T10:29:06.283600+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -14,25 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
-        },
-        {
-          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            16,
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 10时29分]"
         },
         {
           "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
@@ -44,7 +31,61 @@
             10,
             8,
             6,
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 10时29分]"
+        },
+        {
+          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
+          "url": "https://wallstreetcn.com/articles/3777925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 10时29分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 10时29分]"
+        },
+        {
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 10时29分]"
+        },
+        {
+          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            16,
+            14,
+            5
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -77,41 +118,17 @@
           "time_info": "[00时07分 ~ 07时57分]"
         },
         {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
-        },
-        {
-          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
-        },
-        {
-          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
-          "url": "https://wallstreetcn.com/articles/3777925",
+          "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
+          "url": "https://wallstreetcn.com/articles/3777919",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 07时57分]"
+          "appearance_count": 5,
+          "time_info": "[06时51分 ~ 10时29分]"
         },
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -201,27 +218,71 @@
           "time_info": "[00时07分 ~ 04时14分]"
         },
         {
-          "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
-          "url": "https://wallstreetcn.com/articles/3777919",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时51分 ~ 07时57分]"
-        },
-        {
           "title": "AI已经摸不透柯洁了",
           "url": "https://www.douyin.com/hot/2584747",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            22
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时51分 ~ 10时29分]"
+        },
+        {
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 10时29分]"
+        },
+        {
+          "title": "AI算命 个人数据意识",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%AE%97%E5%91%BD%20%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE%E6%84%8F%E8%AF%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 10时29分]"
+        },
+        {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 10时29分]"
+        },
+        {
+          "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
+          "url": "https://www.zhihu.com/question/2064306906437571115",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 10时29分]"
+        },
+        {
+          "title": "SK崔泰源：韩国需转型为“AI原生”国家",
+          "url": "https://flash.jin10.com/detail/20260726091430894800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时51分"
+          "time_info": "10时29分"
         },
         {
           "title": "AI 会让艺术「更繁荣」还是「更廉价」？",
@@ -230,7 +291,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -241,16 +302,38 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "全国首个低空智慧物流大模型落地郑州",
+          "url": "https://flash.jin10.com/detail/20260726084550683800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "乌克兰无人机袭击引发俄罗斯秋明炼油厂火灾",
+          "url": "https://flash.jin10.com/detail/20260726101828465800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
         {
           "title": "以色列国家安全部长办公室：在部长本-格维尔住宅附近坠毁的无人机已由以色列国防军回收，无人员伤亡。部长及其家人状况良好。",
           "url": "https://flash.jin10.com/detail/20260726034612336800",
@@ -313,11 +396,12 @@
           "ranks": [
             13,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 10时29分]"
         }
       ]
     }
