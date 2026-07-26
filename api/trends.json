@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T04:53:56.374858+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-07-27T05:56:07.654076+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时56分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -28,19 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 04时53分]"
-        },
-        {
-          "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
-          "url": "https://flash.jin10.com/detail/20260727043919947800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时56分]"
         },
         {
           "title": "AI还要跌多久",
@@ -50,8 +39,61 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时56分]"
+        },
+        {
+          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
+          "url": "https://www.cls.cn/detail/2437146",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时56分]"
+        },
+        {
+          "title": "AI冲击短剧行业 “戏王”也扛不住了",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            10,
+            8,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时56分]"
+        },
+        {
+          "title": "谁还没跳ACAI拖拉机舞",
+          "url": "https://www.douyin.com/hot/2586099",
+          "source": "抖音",
+          "ranks": [
+            21,
+            23,
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时56分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时56分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -67,100 +109,65 @@
           "time_info": "[00时11分 ~ 03时16分]"
         },
         {
-          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
-          "url": "https://www.cls.cn/detail/2437146",
-          "source": "财联社热门",
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 04时53分]"
-        },
-        {
-          "title": "AI冲击短剧行业 “戏王”也扛不住了",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            10,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 04时53分]"
-        },
-        {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
-          "ranks": [
+            25,
             21,
-            23,
-            25
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时11分 ~ 04时53分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 04时53分]"
+          "time_info": "[03时15分 ~ 05时56分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
           "url": "https://wallstreetcn.com/livenews/3139836",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 05时56分]"
         },
         {
-          "title": "AI短剧《被裁掉的女孩》播放破2亿",
-          "url": "https://www.toutiao.com/trending/7665929964277006363/",
-          "source": "今日头条",
+          "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
+          "url": "https://flash.jin10.com/detail/20260727043919947800",
+          "source": "金十数据",
           "ranks": [
-            25,
-            21
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 04时53分]"
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时56分]"
         },
         {
           "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
           "url": "https://flash.jin10.com/detail/20260727041540869800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时56分]"
         },
         {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
           "url": "https://flash.jin10.com/detail/20260727034241267800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时56分]"
         },
         {
           "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
@@ -198,8 +205,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 05时56分]"
+        },
+        {
+          "title": "国内首款按适航要求研制的多功能长航时无人机完成首飞",
+          "url": "https://wallstreetcn.com/livenews/3139841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时11分 ~ 04时53分]"
+          "time_info": "[00时11分 ~ 05时56分]"
         },
         {
           "title": "罗马尼亚召见了俄罗斯大使，并报告称该国在三天内击落了三架无人机。",
@@ -207,22 +226,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时53分]"
-        },
-        {
-          "title": "国内首款按适航要求研制的多功能长航时无人机完成首飞",
-          "url": "https://wallstreetcn.com/livenews/3139841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时56分]"
         },
         {
           "title": "俄罗斯外交部：俄外长就7月25日乌克兰无人机袭击伊朗商船并造成一名伊朗船员死亡一事表示诚挚哀悼。阿拉格齐感谢阿斯特拉罕当局为遇袭船只船员提供帮助，并强调必须防止基辅此类冒险行径。",
