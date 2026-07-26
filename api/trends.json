@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T06:57:12.205448+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-07-27T07:58:19.114591+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 06时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 07时58分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -25,11 +25,12 @@
           "source": "微博",
           "ranks": [
             6,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 06时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 07时58分]"
         },
         {
           "title": "AI还要跌多久",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 06时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 07时58分]"
         },
         {
           "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
@@ -48,11 +49,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 06时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 07时58分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -66,8 +68,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 06时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 07时58分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -78,11 +80,12 @@
             23,
             25,
             19,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 06时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 07时58分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -93,8 +96,23 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 06时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 07时58分]"
+        },
+        {
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            21,
+            10,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 07时58分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -109,20 +127,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时11分 ~ 06时57分]"
-        },
-        {
-          "title": "AI短剧《被裁掉的女孩》播放破2亿",
-          "url": "https://www.toutiao.com/trending/7665929964277006363/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            21,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 06时57分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -176,6 +180,50 @@
           "time_info": "[04时53分 ~ 06时57分]"
         },
         {
+          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3139891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
+          "url": "https://flash.jin10.com/detail/20260727072716929800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260727072121648800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
           "url": "https://www.zhihu.com/question/2064467113771791028",
           "source": "知乎",
@@ -185,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "假如莫奈遇上AI机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "美国发生AI失控事故",
@@ -201,7 +260,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "凤凰记者实地探访俄军核心运输线：天上无人机比鸟还多",
@@ -211,8 +270,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 06时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 07时58分]"
+        },
+        {
+          "title": "胡塞武装称击落沙特无人机",
+          "url": "https://flash.jin10.com/detail/20260727075449885800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：伊拉克安全消息人士称，国际联军防空系统在埃尔比勒机场附近击落一架无人机，无人员伤亡或财产损失。",
+          "url": "https://flash.jin10.com/detail/20260727074704248800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "国内首款按适航要求研制的多功能长航时无人机完成首飞",
