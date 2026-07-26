@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T01:59:39.793891+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-07-27T03:16:10.461657+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时16分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时16分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -37,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时16分]"
         },
         {
           "title": "AI还要跌多久",
@@ -51,19 +52,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时16分]"
         },
         {
           "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
           "url": "https://www.cls.cn/detail/2437146",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时16分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -71,11 +73,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时16分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -83,11 +86,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时16分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -98,8 +102,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时16分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -109,8 +113,19 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 03时16分]"
+        },
+        {
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时11分 ~ 01时59分]"
+          "time_info": "[03时15分 ~ 03时16分]"
         },
         {
           "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
@@ -138,7 +153,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "凤凰记者实地探访俄军核心运输线：天上无人机比鸟还多",
@@ -148,8 +163,42 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 03时16分]"
+        },
+        {
+          "title": "罗马尼亚召见了俄罗斯大使，并报告称该国在三天内击落了三架无人机。",
+          "url": "https://flash.jin10.com/detail/20260727022159665800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "国内首款按适航要求研制的多功能长航时无人机完成首飞",
+          "url": "https://wallstreetcn.com/livenews/3139841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 03时16分]"
+        },
+        {
+          "title": "俄罗斯外交部：俄外长就7月25日乌克兰无人机袭击伊朗商船并造成一名伊朗船员死亡一事表示诚挚哀悼。阿拉格齐感谢阿斯特拉罕当局为遇袭船只船员提供帮助，并强调必须防止基辅此类冒险行径。",
+          "url": "https://flash.jin10.com/detail/20260727003123877800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时11分 ~ 01时59分]"
+          "time_info": "[01时59分 ~ 03时16分]"
         },
         {
           "title": "以色列国防军：哈马斯中部营地无人机部队指挥官哈马姆·伊德已被清除。近期，其一直在违反停火协议，运作恢复和加强哈马斯的空中作战能力。",
@@ -162,28 +211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 01时59分]"
-        },
-        {
-          "title": "国内首款按适航要求研制的多功能长航时无人机完成首飞",
-          "url": "https://wallstreetcn.com/livenews/3139841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 01时59分]"
-        },
-        {
-          "title": "俄罗斯外交部：俄外长就7月25日乌克兰无人机袭击伊朗商船并造成一名伊朗船员死亡一事表示诚挚哀悼。阿拉格齐感谢阿斯特拉罕当局为遇袭船只船员提供帮助，并强调必须防止基辅此类冒险行径。",
-          "url": "https://flash.jin10.com/detail/20260727003123877800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时59分"
         }
       ]
     }
