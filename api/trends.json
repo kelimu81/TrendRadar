@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T10:07:51.979159+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-07-29T13:47:53.263676+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -20,6 +20,20 @@
           "time_info": "[00时03分 ~ 10时07分]"
         },
         {
+          "title": "AI泡沫的金丝雀，刚刚死去.....",
+          "url": "https://wallstreetcn.com/articles/3778131",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 13时47分]"
+        },
+        {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
@@ -32,18 +46,18 @@
           "time_info": "[00时03分 ~ 07时06分]"
         },
         {
-          "title": "AI泡沫的金丝雀，刚刚死去.....",
-          "url": "https://wallstreetcn.com/articles/3778131",
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
+            7,
+            8,
             4,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 10时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 13时47分]"
         },
         {
           "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
@@ -55,21 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 10时07分]"
-        },
-        {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 10时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 13时47分]"
         },
         {
           "title": "印度成首个被AI做空的国家",
@@ -82,6 +83,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时14分 ~ 07时06分]"
+        },
+        {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 13时47分]"
         },
         {
           "title": "黄仁勋重申支持开放权重AI模型",
@@ -110,6 +124,20 @@
           "time_info": "[00时03分 ~ 10时07分]"
         },
         {
+          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
+          "url": "https://www.cls.cn/detail/2439413",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时10分 ~ 13时47分]"
+        },
+        {
           "title": "xAI面向Grok推出Build模型。 Grok Build模型处于早期测试阶段，针对的是SuperGrok Heavy超级订阅者。",
           "url": "https://wallstreetcn.com/livenews/3141119",
           "source": "华尔街见闻-快讯",
@@ -132,6 +160,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "会计被AI取代的概率",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%9A%E8%AE%A1%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "人工智能相关产品成为中国外贸新名片",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9B%B8%E5%85%B3%E4%BA%A7%E5%93%81%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%96%B0%E5%90%8D%E7%89%87%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -152,19 +191,6 @@
             16,
             18,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时10分 ~ 10时07分]"
-        },
-        {
-          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
-          "url": "https://www.cls.cn/detail/2439413",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -221,18 +247,6 @@
           "time_info": "[06时01分 ~ 07时06分]"
         },
         {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 10时07分]"
-        },
-        {
           "title": "黄仁勋呼吁支持开源权重人工智能模型",
           "url": "https://wallstreetcn.com/livenews/3141151",
           "source": "华尔街见闻-快讯",
@@ -243,6 +257,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 04时14分]"
+        },
+        {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 13时47分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -258,16 +284,16 @@
           "time_info": "[04时14分 ~ 07时06分]"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
+          "title": "AI剧 一本万利",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%89%A7%20%E4%B8%80%E6%9C%AC%E4%B8%87%E5%88%A9&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
+            7,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时06分 ~ 10时07分]"
+          "time_info": "[10时07分 ~ 13时47分]"
         },
         {
           "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
@@ -327,15 +353,15 @@
           "time_info": "06时01分"
         },
         {
-          "title": "AI剧 一本万利",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%89%A7%20%E4%B8%80%E6%9C%AC%E4%B8%87%E5%88%A9&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "13时47分"
         },
         {
           "title": "A股创业板指、深证成指双双跌超1%，上证指数跌0.4%，乳业、教育、AI应用板块涨幅居前，光刻机、存储芯片、CPO概念等板块跌幅居前。",
@@ -344,7 +370,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -358,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "英伟达CEO黄仁勋：呼吁支持开放权重的人工智能模型。开放权重模型对人工智能的安全和保障至关重要。",
@@ -388,7 +425,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -432,7 +469,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -459,13 +496,24 @@
           "time_info": "07时06分"
         },
         {
+          "title": "当我指挥AI工作时",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E6%8C%87%E6%8C%A5AI%E5%B7%A5%E4%BD%9C%E6%97%B6&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "OpenAI模型失控新的受害者曝光",
           "url": "https://www.baidu.com/s?wd=OpenAI%E6%A8%A1%E5%9E%8B%E5%A4%B1%E6%8E%A7%E6%96%B0%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -487,7 +535,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -542,17 +590,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "基辅无人机展遭导弹突袭11名高官身亡",
-          "url": "https://www.toutiao.com/trending/7667291007528075270/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
           "title": "沙特国防部：防空部队拦截并摧毁了数架从伊拉克境内发射、目标是东部地区石油设施的无人机。",
           "url": "https://flash.jin10.com/detail/20260729033258027800",
           "source": "金十数据",
@@ -575,6 +612,18 @@
           "time_info": "[00时03分 ~ 07时06分]"
         },
         {
+          "title": "基辅无人机展遭导弹突袭11名高官身亡",
+          "url": "https://www.toutiao.com/trending/7667291007528075270/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 13时47分]"
+        },
+        {
           "title": "沙特：拦截打击诸多石油设施的无人机。 这些无人机是从伊拉克境内发射的。",
           "url": "https://wallstreetcn.com/livenews/3141173",
           "source": "华尔街见闻-快讯",
@@ -593,7 +642,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
