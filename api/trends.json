@@ -1,22 +1,38 @@
 {
-  "generated_at": "2026-07-30T06:57:45.941552+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-07-30T08:00:46.841359+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 08时00分]"
+        },
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
           "url": "https://wallstreetcn.com/articles/3778177",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 08时00分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -26,22 +42,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 08时00分]"
         },
         {
-          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2065710393360479149",
-          "source": "知乎",
+          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
+          "source": "澎湃新闻",
           "ranks": [
-            16,
-            13,
-            6,
-            8
+            17,
+            15,
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 08时00分]"
+        },
+        {
+          "title": "AI漫剧走红,国动流量狂跌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 08时00分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 08时00分]"
         },
         {
           "title": "Meta Platforms(META.O)首席执行官：得益于人工智能，公司正在打造全新体验，产品交付速度加快。",
@@ -53,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "AI热潮下的“冰火两重天”：芯片商笑纳现金，云厂商仍在等回报",
+          "url": "https://flash.jin10.com/detail/20260730073649960800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -72,41 +121,6 @@
           "ranks": [
             10,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时57分]"
-        },
-        {
-          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时57分]"
-        },
-        {
-          "title": "AI漫剧走红,国动流量狂跌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 06时57分]"
-        },
-        {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -174,11 +188,34 @@
           "source": "知乎",
           "ranks": [
             13,
-            15
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 08时00分]"
+        },
+        {
+          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778264",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时11分 ~ 06时57分]"
+          "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
+          "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065707692950123437",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
         },
         {
           "title": "AI手机大战全面开打",
@@ -215,6 +252,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
+          "url": "https://flash.jin10.com/detail/20260730071758962800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
           "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
           "url": "https://flash.jin10.com/detail/20260730003826526800",
           "source": "金十数据",
@@ -243,9 +291,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "微软CEO：AI模型应易于切换",
+          "url": "https://flash.jin10.com/detail/20260730065749615800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "市场消息：英特尔(INTC.O)向初创公司RosaicLabs提供了一些技术的访问权限，该公司CEO是英特尔CEO在其他公司的共同投资人。",
+          "url": "https://flash.jin10.com/detail/20260730065409051800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
@@ -298,7 +368,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -328,7 +398,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "空客首席执行官：致力于“欧洲无人机”项目，具体实施方式略有不同。",
@@ -353,6 +423,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时07分 ~ 06时57分]"
+        },
+        {
+          "title": "伊拉克称尚未收到袭击沙特无人机来自伊境内的实证",
+          "url": "https://flash.jin10.com/detail/20260730065006414800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "海上安全公司安布雷：一艘由美国运营、悬挂马绍尔群岛旗帜的LNG浮式储存船，在埃及达米埃塔港停靠期间遭到至少一架无人机攻击。",
