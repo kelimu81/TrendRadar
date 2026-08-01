@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-01T22:56:54.233568+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-08-01T23:59:12.187822+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时58分 ~ 23时59分]"
+        },
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
           "url": "https://www.cls.cn/detail/2442818",
@@ -20,17 +31,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时26分 ~ 20时02分]"
-        },
-        {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时58分 ~ 22时56分]"
         },
         {
           "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
@@ -86,6 +86,19 @@
           "time_info": "[07时58分 ~ 21时41分]"
         },
         {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时58分 ~ 23时59分]"
+        },
+        {
           "title": "AI生成的作品算艺术吗",
           "url": "https://www.douyin.com/hot/2591797",
           "source": "抖音",
@@ -95,11 +108,12 @@
             8,
             10,
             14,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时26分 ~ 22时56分]"
+          "appearance_count": 16,
+          "time_info": "[01时26分 ~ 23时59分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -128,17 +142,49 @@
           "time_info": "[01时26分 ~ 20时02分]"
         },
         {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            8,
-            7
+            17,
+            13,
+            10,
+            7,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时58分 ~ 22时56分]"
+          "appearance_count": 8,
+          "time_info": "[16时13分 ~ 23时59分]"
+        },
+        {
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时38分 ~ 23时59分]"
+        },
+        {
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时13分 ~ 23时59分]"
         },
         {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
@@ -153,6 +199,19 @@
           "time_info": "[01时26分 ~ 07时58分]"
         },
         {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时13分 ~ 23时59分]"
+        },
+        {
           "title": "Aiming回应宫斗:对方先骂人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
           "source": "贴吧",
@@ -165,18 +224,17 @@
           "time_info": "[01时26分 ~ 13时52分]"
         },
         {
-          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
-          "url": "https://wallstreetcn.com/articles/3778475",
-          "source": "华尔街见闻",
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8,
-            5,
-            4
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时38分 ~ 22时56分]"
+          "appearance_count": 7,
+          "time_info": "[18时38分 ~ 23时59分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -191,36 +249,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时26分 ~ 10时48分]"
-        },
-        {
-          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
-          "url": "https://wallstreetcn.com/articles/3778476",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时13分 ~ 22时56分]"
-        },
-        {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时13分 ~ 22时56分]"
         },
         {
           "title": "AI公司批量抢购旧书",
@@ -260,19 +288,6 @@
           "time_info": "[20时01分 ~ 20时02分]"
         },
         {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时13分 ~ 22时56分]"
-        },
-        {
           "title": "市场不相信“神话”：“AI股神”死于杠杆？",
           "url": "https://wallstreetcn.com/articles/3778378",
           "source": "华尔街见闻",
@@ -310,30 +325,6 @@
           "time_info": "[01时26分 ~ 06时11分]"
         },
         {
-          "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
-          "url": "https://flash.jin10.com/detail/20260801222340904800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时38分 ~ 22时56分]"
-        },
-        {
           "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
           "url": "https://flash.jin10.com/detail/20260801052517590800",
           "source": "金十数据",
@@ -358,6 +349,18 @@
           "time_info": "[06时11分 ~ 07时58分]"
         },
         {
+          "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
+          "url": "https://flash.jin10.com/detail/20260801222340904800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时59分]"
+        },
+        {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
           "url": "https://wallstreetcn.com/livenews/3143487",
           "source": "华尔街见闻-快讯",
@@ -368,6 +371,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时58分]"
+        },
+        {
+          "title": "人工智能助力直肠癌个性化化疗",
+          "url": "https://wallstreetcn.com/livenews/3143612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时59分]"
         },
         {
           "title": "亚马逊缓解市场对人工智能的担忧，美国主要股指收高",
@@ -419,18 +434,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时01分 ~ 21时41分]"
-        },
-        {
-          "title": "人工智能助力直肠癌个性化化疗",
-          "url": "https://wallstreetcn.com/livenews/3143612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时56分]"
         },
         {
           "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
@@ -539,6 +542,28 @@
           "time_info": "[13时52分 ~ 16时13分]"
         },
         {
+          "title": "OpenAI 价格战",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%20%E4%BB%B7%E6%A0%BC%E6%88%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
+          "title": "美两家AI巨头承认自家大模型“失控”",
+          "url": "https://www.toutiao.com/trending/7668948314036899378/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
           "title": "华尔街AI股神高杠杆爆仓出局",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B0%94%E8%A1%97AI%E8%82%A1%E7%A5%9E%E9%AB%98%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93%E5%87%BA%E5%B1%80%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -579,7 +604,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -689,7 +714,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -717,9 +742,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时59分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗军方发言人称，我们近期已投入使用新型无人机，相关细节将在未来几天内公布。我们的无人机航程足以覆盖以色列领土。",
@@ -887,6 +912,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美国地质调查局：日本松濑町以西3公里处发生了4.9级地震；震源深度10.0公里。",
+          "url": "https://flash.jin10.com/detail/20260801210635523800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时59分]"
+        },
+        {
           "title": "美国地质调查局：印度尼西亚马索希东北偏东153公里处发生5.1级地震。",
           "url": "https://wallstreetcn.com/livenews/3143519",
           "source": "华尔街见闻-快讯",
@@ -897,18 +935,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 10时48分]"
-        },
-        {
-          "title": "美国地质调查局：日本松濑町以西3公里处发生了4.9级地震；震源深度10.0公里。",
-          "url": "https://flash.jin10.com/detail/20260801210635523800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时56分]"
         },
         {
           "title": "甘肃省发布地质灾害气象风险红色预警",
