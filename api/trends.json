@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T16:13:30.780342+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-08-01T18:38:26.849418+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 16时13分]"
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 18时38分]"
         },
         {
           "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
@@ -60,6 +61,20 @@
           "time_info": "[01时26分 ~ 07时58分]"
         },
         {
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 18时38分]"
+        },
+        {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
@@ -71,20 +86,6 @@
           "time_info": "[01时26分 ~ 06时11分]"
         },
         {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 16时13分]"
-        },
-        {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
@@ -92,8 +93,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 16时13分]"
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 18时38分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -107,8 +108,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 16时13分]"
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 18时38分]"
         },
         {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
@@ -133,6 +134,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时26分 ~ 13时52分]"
+        },
+        {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 18时38分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -199,17 +214,17 @@
           "time_info": "[01时26分 ~ 06时11分]"
         },
         {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            7,
-            5
+            11,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 16时13分]"
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 18时38分]"
         },
         {
           "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
@@ -236,17 +251,17 @@
           "time_info": "[06时11分 ~ 07时58分]"
         },
         {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
+          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+          "url": "https://www.zhihu.com/question/2066599476764964006",
+          "source": "知乎",
           "ranks": [
-            11,
-            8,
-            7
+            5,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 16时13分]"
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时38分]"
         },
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
@@ -259,18 +274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时58分]"
-        },
-        {
-          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
-          "url": "https://www.zhihu.com/question/2066599476764964006",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时13分]"
         },
         {
           "title": "亚马逊缓解市场对人工智能的担忧，美国主要股指收高",
@@ -310,6 +313,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 07时58分]"
+        },
+        {
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时38分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时38分]"
         },
         {
           "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
@@ -358,6 +385,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时38分]"
         },
         {
           "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
@@ -429,26 +468,26 @@
           "time_info": "10时48分"
         },
         {
-          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
-          "url": "https://wallstreetcn.com/articles/3778476",
-          "source": "华尔街见闻",
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "18时38分"
         },
         {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "18时38分"
         },
         {
           "title": "超聚变AI Lab平台上线DeepSeek-V4-Flash正式版",
@@ -457,7 +496,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -517,17 +556,6 @@
           "time_info": "10时48分"
         },
         {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
           "url": "https://wallstreetcn.com/livenews/3143443",
           "source": "华尔街见闻-快讯",
@@ -542,7 +570,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "据伊朗法尔斯通讯社：伊朗军方发言人称，我们近期已投入使用新型无人机，相关细节将在未来几天内公布。我们的无人机航程足以覆盖以色列领土。",
@@ -551,9 +579,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
+        },
+        {
+          "title": "俄称击毁274架乌无人机 乌称基辅市多人伤亡",
+          "url": "https://wallstreetcn.com/livenews/3143568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时38分]"
         },
         {
           "title": "【胡塞武装宣布继续封锁沙特船只，已使8艘油轮改道】7月31日，也门胡塞武装发言人叶海亚在社交媒体发文称，在巩固“以封锁回应封锁”方针、并落实对沙特实施海上禁运措施的框架下，8艘沙特油轮被迫改变航线，折返驶向其出发港口。 他表示，对沙特实施海上封锁行动仍在持续。只要条件允许，胡塞武装将继续拦截沙特船只。 胡塞武装7月20日宣布对沙特实施海上禁运，23日宣布使用导弹和无人机在红海袭击两艘违反其禁运令的沙特油轮。沙特主导的多国联军25日对也门荷台达省胡塞武装军事目标实施打击，以回应胡塞武装针对其商船的袭击。（央视）",
@@ -568,26 +608,26 @@
           "time_info": "[06时11分 ~ 07时58分]"
         },
         {
-          "title": "俄称击毁274架乌无人机 乌称基辅市多人伤亡",
-          "url": "https://wallstreetcn.com/livenews/3143568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
           "title": "乌克兰总参谋部：我们对克里米亚半岛的俄罗斯海上无人机仓库进行了打击。",
           "url": "https://flash.jin10.com/detail/20260801151835168800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
+        },
+        {
+          "title": "俄罗斯国家原子能公司（Rosatom）：乌克兰无人机夜间在黑海击沉一艘本公司旗下的民用船只，所有船员均生还。此类袭击只能用海盗行为和海上抢劫来形容。",
+          "url": "https://flash.jin10.com/detail/20260801173213381800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "白宫官员戈尔卡：在国际足联世界杯赛事期间未查获任何武装无人机。",
@@ -601,13 +641,57 @@
           "time_info": "03时18分"
         },
         {
+          "title": "伊朗军方称近期使用新型无人机",
+          "url": "https://wallstreetcn.com/livenews/3143579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "科威特称击落“敌方”无人机 暂无伤亡报告",
+          "url": "https://wallstreetcn.com/livenews/3143578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "科威特称，伊朗无人机袭击科威特北部政府设施，袭击其北部政府设施。",
+          "url": "https://wallstreetcn.com/livenews/3143576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "伊朗军方称近期使用新型无人机",
+          "url": "https://flash.jin10.com/detail/20260801163642334800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：俄罗斯发射了35枚导弹和185架无人机攻击乌克兰。",
           "url": "https://flash.jin10.com/detail/20260801145440468800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -629,9 +713,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
+        },
+        {
+          "title": "科威特军方：自周六黎明以来，已在科威特空域发现并摧毁了敌方无人机。暂无伤亡报告",
+          "url": "https://flash.jin10.com/detail/20260801160343660800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
