@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-04T02:48:21.740290+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-08-04T04:37:30.349386+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
       "match_count": 14,
       "titles": [
+        {
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时37分]"
+        },
         {
           "title": "亚马逊云计算部门AWS的CEO Matt Garman：人工智能（AI）业务从训练转向推理。 AI实验室、初创公司、企业推动AWS销售增长。 AI业务的潜在规模“极其庞大”。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3144259",
@@ -19,16 +31,16 @@
           "time_info": "00时20分"
         },
         {
-          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
-          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+          "url": "https://www.zhihu.com/question/2067545767003120313",
           "source": "知乎",
           "ranks": [
-            6,
-            1
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时48分]"
+          "time_info": "[02时48分 ~ 04时37分]"
         },
         {
           "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
@@ -38,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时37分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -50,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时37分]"
         },
         {
           "title": "中金：AI之外还有什么值得买",
@@ -61,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时37分]"
         },
         {
           "title": "UP主自制AI短片 洪流之上",
@@ -70,22 +82,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时48分]"
-        },
-        {
-          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-          "url": "https://www.zhihu.com/question/2067545767003120313",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时48分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时37分]"
         },
         {
           "title": "我用AI创造虚拟世界 弹幕即神谕",
@@ -94,9 +96,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 04时37分]"
+        },
+        {
+          "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
+          "url": "https://www.cls.cn/detail/2444442",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 04时37分]"
         },
         {
           "title": "金珵科技李金金：我向联合国秘书长介绍“AI+制造”广阔前景 |“十五五”开新局当尖兵",
@@ -110,24 +123,13 @@
           "time_info": "00时20分"
         },
         {
-          "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
-          "url": "https://www.cls.cn/detail/2444442",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
           "title": "AI热潮持续，新兴市场ETF单周吸金创2月以来新高",
           "url": "https://wallstreetcn.com/livenews/3144300",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
         },
@@ -149,7 +151,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
         },
@@ -168,7 +170,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "韩军方：险些误击美军无人机",
@@ -178,8 +180,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时37分]"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：在冲突最后几天，伊朗加强了针对美国基地的无人机和导弹打击。科威特美军基地遭受严重破坏，埃尔比勒被疏散，美国指挥官则从约旦转移至被占领地区。这些事态发展迫使美国中央司令部将其指挥和后勤支援力量撤离霍尔木兹海峡打击区域，最终导致美国地面攻势失败。",
+          "url": "https://flash.jin10.com/detail/20260804032430245800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         }
       ]
     }
