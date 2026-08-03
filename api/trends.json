@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T14:18:05.558798+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-08-03T18:39:08.127440+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 23,
+      "match_count": 32,
       "titles": [
         {
           "title": "国产大模型调用量全球领先",
@@ -49,11 +49,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 14时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 18时39分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -96,6 +97,18 @@
           "time_info": "[00时03分 ~ 10时23分]"
         },
         {
+          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
+          "url": "https://www.cls.cn/detail/2443826",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 18时39分]"
+        },
+        {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
@@ -122,15 +135,15 @@
           "time_info": "[00时03分 ~ 06时52分]"
         },
         {
-          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
-          "url": "https://www.cls.cn/detail/2443826",
-          "source": "财联社热门",
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
+          "time_info": "[18时38分 ~ 18时39分]"
         },
         {
           "title": "QFII二季度调仓呈现“头部化”特征，外资机构纷纷看好中国AI产业链",
@@ -142,6 +155,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
+          "url": "https://www.cls.cn/detail/2443873",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 18时39分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -169,6 +194,17 @@
           "time_info": "[10时23分 ~ 14时18分]"
         },
         {
+          "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
+          "url": "https://wallstreetcn.com/articles/3778511",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        },
+        {
           "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
           "url": "https://www.zhihu.com/question/2066215968578204075",
           "source": "知乎",
@@ -181,15 +217,15 @@
           "time_info": "[07时55分 ~ 10时23分]"
         },
         {
-          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
-          "url": "https://www.cls.cn/detail/2443873",
-          "source": "财联社热门",
+          "title": "中金：AI之外还有什么值得买",
+          "url": "https://wallstreetcn.com/articles/3778538",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
+          "time_info": "[18时38分 ~ 18时39分]"
         },
         {
           "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
@@ -203,6 +239,28 @@
           "time_info": "[14时17分 ~ 14时18分]"
         },
         {
+          "title": "UP主自制AI短片 洪流之上",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        },
+        {
+          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        },
+        {
           "title": "AI应用端再爆发",
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%BA%94%E7%94%A8%E7%AB%AF%E5%86%8D%E7%88%86%E5%8F%91%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -214,15 +272,59 @@
           "time_info": "[14时17分 ~ 14时18分]"
         },
         {
+          "title": "AI短剧女主60秒广告报价25万8",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB60%E7%A7%92%E5%B9%BF%E5%91%8A%E6%8A%A5%E4%BB%B725%E4%B8%878%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        },
+        {
+          "title": "小米：2人使用AI生成虚假车祸视频抹黑公司被处罚。",
+          "url": "https://wallstreetcn.com/livenews/3144096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "调查：八成以上美国金融业高管认为 AI技能比MBA更有价值",
+          "url": "https://wallstreetcn.com/livenews/3144091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "高盛公布8月强推股名单：AI仍是最看好板块，这家万亿美元公司更是超预期",
           "url": "https://flash.jin10.com/detail/20260803135103514800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "美联储威廉姆斯：人工智能投资不会带来金融稳定风险。对人工智能行业的波动并不感到惊讶。",
+          "url": "https://flash.jin10.com/detail/20260803180436783800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "A股AI应用端再度走强，吉宏股份涨停，此前传智教育6连板，天娱数科、恒银科技2连板，福昕软件、易点天下、蜂助手、利欧股份、蓝色光标等跟涨。",
@@ -253,7 +355,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -283,7 +385,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "俄国防部：防空力量当天在俄罗斯各地区及黑海水域上空击落了245架乌克兰无人机。",
@@ -298,6 +400,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时59分 ~ 06时52分]"
+        },
+        {
+          "title": "韩军方：险些误击美军无人机",
+          "url": "https://news.ifeng.com/c/8vIA9kGQD1k",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        },
+        {
+          "title": "伊朗称在霍尔木兹上空击落一架无人机",
+          "url": "https://www.toutiao.com/trending/7669730325030768182/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        },
+        {
+          "title": "俄乌无人机攻防战渔网比拦截弹好用",
+          "url": "https://www.toutiao.com/trending/7668691699223281702/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
         },
         {
           "title": "俄罗斯国防部：对乌克兰尼古拉耶夫港的基础设施进行了打击，并袭击了两艘向乌克兰武装部队运送补给的货船，以及一艘用于部署水下无人机的海上拖船。",
@@ -333,15 +468,43 @@
           "time_info": "10时23分"
         },
         {
+          "title": "韩军方称险些误击美军无人机缘于双方沟通失误",
+          "url": "https://wallstreetcn.com/livenews/3144088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "俄罗斯当局声称，在俄罗斯西部击落131架乌克兰无人机。",
           "url": "https://flash.jin10.com/detail/20260803132143645800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "地质 矿产 勘探",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "自然资源部与中国气象局8月3日18时联合发布橙色地质灾害气象风险预警",
+          "url": "https://flash.jin10.com/detail/20260803180423045800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         }
       ]
     }
