@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T20:58:09.776788+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-08-04T23:25:13.575591+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 20时58分]"
+          "appearance_count": 9,
+          "time_info": "[12时09分 ~ 23时25分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -31,11 +31,12 @@
             13,
             17,
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 20时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 23时25分]"
         },
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
@@ -80,6 +81,20 @@
           "time_info": "[02时48分 ~ 19时13分]"
         },
         {
+          "title": "AI做题吊打日本名校状元",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时35分 ~ 23时25分]"
+        },
+        {
           "title": "北美“四朵云”联袂上涨！AI行情从“卖铲人”切换到“用铲人” 有哪些逻辑支撑？",
           "url": "https://www.cls.cn/detail/2444783",
           "source": "财联社热门",
@@ -90,6 +105,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时09分 ~ 15时35分]"
+        },
+        {
+          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
+          "url": "https://www.zhihu.com/question/2067576901791638083",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时35分 ~ 23时25分]"
         },
         {
           "title": "UP主自制AI短片 洪流之上",
@@ -133,17 +162,16 @@
           "time_info": "[00时20分 ~ 08时05分]"
         },
         {
-          "title": "AI做题吊打日本名校状元",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
-          "source": "贴吧",
+          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
+          "url": "https://wallstreetcn.com/articles/3778632",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
             7,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时35分 ~ 20时58分]"
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 23时25分]"
         },
         {
           "title": "UP主用AI证伪经典数学猜想",
@@ -155,6 +183,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时57分 ~ 20时58分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2445244",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 23时25分]"
         },
         {
           "title": "“InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈",
@@ -192,19 +232,6 @@
           "time_info": "19时13分"
         },
         {
-          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
-          "url": "https://www.zhihu.com/question/2067576901791638083",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时35分 ~ 20时58分]"
-        },
-        {
           "title": "中金：AI之外还有什么值得买",
           "url": "https://wallstreetcn.com/articles/3778538",
           "source": "华尔街见闻",
@@ -214,17 +241,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 08时05分]"
-        },
-        {
-          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
-          "url": "https://wallstreetcn.com/articles/3778632",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 20时58分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
@@ -239,18 +255,6 @@
           "time_info": "[06时05分 ~ 08时05分]"
         },
         {
-          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
-          "url": "https://www.cls.cn/detail/2445244",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 20时58分]"
-        },
-        {
           "title": "禁止将本书用于人工智能训练",
           "url": "https://s.weibo.com/weibo?q=%E7%A6%81%E6%AD%A2%E5%B0%86%E6%9C%AC%E4%B9%A6%E7%94%A8%E4%BA%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AE%AD%E7%BB%83&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -261,6 +265,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时12分 ~ 20时58分]"
+        },
+        {
+          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时57分 ~ 23时25分]"
         },
         {
           "title": "上半年 AI 短剧全网上线超二十万部，但播放破亿作品仅有千部，爆款率为啥这么低？大家都不爱看吗？",
@@ -310,6 +326,17 @@
           "time_info": "[12时09分 ~ 12时10分]"
         },
         {
+          "title": "张月遭AI生成兽图涉嫌双重侵权",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88%E9%81%ADAI%E7%94%9F%E6%88%90%E5%85%BD%E5%9B%BE%E6%B6%89%E5%AB%8C%E5%8F%8C%E9%87%8D%E4%BE%B5%E6%9D%83%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
+        },
+        {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
           "url": "https://www.baidu.com/s?wd=OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%A0%87DeepSeek",
           "source": "百度热搜",
@@ -319,17 +346,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
-          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "AI在数学领域发展如何",
@@ -371,7 +387,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -396,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "韩国总统李在明：AI重塑全球产业格局，呼吁大胆投资",
+          "url": "https://wallstreetcn.com/livenews/3144830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "亚马逊云服务(AWS)CEO：人工智能业务潜力“极为巨大”。",
@@ -437,9 +464,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "AI初创公司Listen Labs按15亿美元估值融资1.25亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3144824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美国财长贝森特：观察到利率已经上升，而AI投资热潮并未减弱。",
@@ -448,9 +486,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "一位首席投资官说：AI投资已进入“靠陌生人施舍”阶段",
+          "url": "https://wallstreetcn.com/livenews/3144820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "创业板指涨超6%，算力硬件、半导体芯片、AI应用、医药生物等方向涨幅居前，全市场上涨个股超3700只。",
@@ -473,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "报道：美国AI电力需求激增，开发商动用数十亿美元银行担保",
+          "url": "https://wallstreetcn.com/livenews/3144815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     },
