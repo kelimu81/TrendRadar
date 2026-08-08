@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T07:30:33.976323+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-08-08T09:13:31.861276+08:00",
+  "total_titles_processed": 727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -16,11 +16,12 @@
             9,
             5,
             6,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时13分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -28,11 +29,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时13分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -52,11 +54,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时13分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -83,6 +86,19 @@
           "time_info": "[00时49分 ~ 06时31分]"
         },
         {
+          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时50分 ~ 09时13分]"
+        },
+        {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
           "url": "https://wallstreetcn.com/livenews/3146841",
           "source": "华尔街见闻-快讯",
@@ -98,23 +114,12 @@
           "url": "https://wallstreetcn.com/livenews/3146942",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时30分"
-        },
-        {
-          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时50分 ~ 07时30分]"
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 09时13分]"
         },
         {
           "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
@@ -128,6 +133,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时49分 ~ 02时48分]"
+        },
+        {
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 09时13分]"
         },
         {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
@@ -165,15 +182,15 @@
           "time_info": "03时50分"
         },
         {
-          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
-          "url": "https://wallstreetcn.com/articles/3778904",
-          "source": "华尔街见闻",
+          "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
+          "url": "https://www.zhihu.com/question/2068674224802067300",
+          "source": "知乎",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时30分"
+          "time_info": "09时13分"
         },
         {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
@@ -207,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "日媒：日本在“AI时代”落后了",
+          "url": "https://www.toutiao.com/trending/7670305983413026826/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
