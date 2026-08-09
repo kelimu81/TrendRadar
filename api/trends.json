@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T17:35:18.734134+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-08-09T18:29:33.430778+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时29分 ~ 17时35分]"
+          "appearance_count": 11,
+          "time_info": "[11时29分 ~ 18时29分]"
         },
         {
           "title": "几元成本的AI广告导致千万市值蒸发",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时24分]"
+        },
+        {
+          "title": "首个全国产10万卡AI超集群投用",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时50分 ~ 18时29分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -83,22 +94,12 @@
             7,
             11,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 17时35分]"
-        },
-        {
-          "title": "首个全国产10万卡AI超集群投用",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时50分 ~ 17时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 18时29分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -111,8 +112,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 17时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 18时29分]"
         },
         {
           "title": "AI推理前瞻——从基础设施建设到商业化变现",
@@ -168,11 +169,12 @@
             7,
             11,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 17时35分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 18时29分]"
         },
         {
           "title": "大爷听AI洒农药 150亩苗一夜枯萎",
@@ -356,11 +358,12 @@
             13,
             17,
             18,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时18分 ~ 18时29分]"
         },
         {
           "title": "乌克兰无人机侵犯保加利亚领空爆炸，危及关键能源设施",
@@ -456,8 +459,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 17时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 18时29分]"
         },
         {
           "title": "美国地质勘探局：克马德克群岛地区发生4.7级地震，震源深度10公里。",
