@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:22:39.881047+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-08-10T15:23:06.975749+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -77,11 +77,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 13时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 15时23分]"
         },
         {
           "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
@@ -90,11 +91,12 @@
           "ranks": [
             9,
             4,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 13时22分]"
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 15时23分]"
         },
         {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
@@ -108,6 +110,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时30分 ~ 06时25分]"
+        },
+        {
+          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
+          "url": "https://www.cls.cn/detail/2449732",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "摩根士丹利：看好阿里巴巴，因其覆盖全产业链的AI能力、算力方面的优势，以及多年的云增长和完整的利润扩张。",
@@ -125,11 +138,12 @@
           "url": "https://www.zhihu.com/question/2069770698055050765",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时49分 ~ 15时23分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -137,11 +151,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时49分 ~ 15时23分]"
         },
         {
           "title": "建议每个人都用AI做的三件事",
@@ -204,7 +219,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "无人机威胁增多，德国新建机构研究应对",
@@ -218,6 +233,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时30分 ~ 06时25分]"
+        },
+        {
+          "title": "据俄新社：乌克兰对俄罗斯下卡姆斯克发动无人机袭击，造成12人死亡、39人受伤。",
+          "url": "https://flash.jin10.com/detail/20260810145149103800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "俄罗斯国防部：俄罗斯防空系统拦截并摧毁285架乌克兰无人机。",
@@ -273,6 +299,17 @@
           "time_info": "[04时27分 ~ 06时25分]"
         },
         {
+          "title": "日本加速发展拦截型无人机",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8A%A0%E9%80%9F%E5%8F%91%E5%B1%95%E6%8B%A6%E6%88%AA%E5%9E%8B%E6%97%A0%E4%BA%BA%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
           "title": "市场消息：一名也门高级消息人士强调，沙特军官及其部队和雇佣军将无法幸免于也门军队的导弹和无人机攻击。",
           "url": "https://flash.jin10.com/detail/20260809231310439800",
           "source": "金十数据",
@@ -302,7 +339,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -341,7 +378,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         }
