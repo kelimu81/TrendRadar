@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T19:41:44.352543+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-08-11T22:18:22.087031+08:00",
+  "total_titles_processed": 1687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 68,
+      "match_count": 72,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时17分 ~ 19时41分]"
+          "appearance_count": 13,
+          "time_info": "[09时17分 ~ 22时18分]"
         },
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -53,11 +53,12 @@
           "ranks": [
             11,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时17分 ~ 19时41分]"
+          "appearance_count": 13,
+          "time_info": "[09时17分 ~ 22时18分]"
         },
         {
           "title": "用AI重返那年相遇的青涩夏天",
@@ -74,6 +75,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[09时17分 ~ 19时41分]"
+        },
+        {
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            13,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时58分 ~ 22时18分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -114,18 +130,18 @@
           "time_info": "[00时51分 ~ 06时33分]"
         },
         {
-          "title": "怎么看AI突破黎曼猜想下界",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
-          "source": "bilibili 热搜",
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2,
-            13,
-            15
+            9,
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时58分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[14时58分 ~ 22时18分]"
         },
         {
           "title": "AI在黎曼猜想上做出了什么突破",
@@ -142,18 +158,18 @@
           "time_info": "[11时39分 ~ 16时11分]"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
           "ranks": [
-            9,
-            8,
+            10,
             6,
+            12,
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时58分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[14时58分 ~ 22时18分]"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
@@ -163,24 +179,12 @@
             6,
             9,
             5,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时58分 ~ 19时41分]"
-        },
-        {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
-          "ranks": [
-            10,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时58分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[14时58分 ~ 22时18分]"
         },
         {
           "title": "干湿之困：AI制药如何打通“最后一公里”",
@@ -193,8 +197,22 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时58分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[14时58分 ~ 22时18分]"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时10分 ~ 22时18分]"
         },
         {
           "title": "OpenAI：我们正在扩展网络安全计划Daybreak，并推出新模型GPT-5.6-Cyber，用于开展先进且经过授权的网络安全工作。",
@@ -265,6 +283,28 @@
           "time_info": "[16时10分 ~ 19时41分]"
         },
         {
+          "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
+          "url": "https://www.cls.cn/detail/2451347",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
+          "url": "https://www.zhihu.com/question/2068955233896640772",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "理想汽车：根据当前规划，第二代理想AI眼镜 Livis预计将在明年下半年到来",
           "url": "https://flash.jin10.com/detail/20260811142206160800",
           "source": "金十数据",
@@ -274,19 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
-        },
-        {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时10分 ~ 19时41分]"
         },
         {
           "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
@@ -326,6 +353,18 @@
           "time_info": "[01时48分 ~ 02时51分]"
         },
         {
+          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
+          "url": "https://www.cls.cn/detail/2451001",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时47分 ~ 22时18分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：全新融资平台将英伟达计算和全栈人工智能基础设施转变为全球资本可投资的资产类别。",
           "url": "https://flash.jin10.com/detail/20260811040810116800",
           "source": "金十数据",
@@ -336,17 +375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时37分]"
-        },
-        {
-          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
-          "url": "https://www.cls.cn/detail/2451001",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 19时41分]"
         },
         {
           "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
@@ -638,6 +666,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
           "url": "https://wallstreetcn.com/livenews/3147639",
           "source": "华尔街见闻-快讯",
@@ -699,7 +738,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -724,6 +763,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "英伟达美股盘前涨近2%，报道称英伟达正在开发开源AI模型Nemotron 4",
+          "url": "https://wallstreetcn.com/livenews/3148090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "微软希望在仅生产数万个当前一代Maia人工智能芯片后，大幅扩大该芯片的产能。",
@@ -817,7 +867,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "利比亚国家石油公司：扎维亚石油混合厂遭无人机袭击，未造成损失或伤亡。这是周日和周一针对扎维耶石油资产的第三次攻击。",
@@ -854,6 +904,17 @@
           "time_info": "[18时47分 ~ 18时48分]"
         },
         {
+          "title": "乌无人机为何奔袭1300公里炸俄炼油厂",
+          "url": "https://www.toutiao.com/trending/7672722239778721299/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "利比亚国家石油公司主席：一架无人机击中扎维耶炼油厂的满载燃料储罐。周六还发生了另一起袭击，但并未引发火灾。",
           "url": "https://wallstreetcn.com/livenews/3147667",
           "source": "华尔街见闻-快讯",
@@ -871,7 +932,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -912,7 +973,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         }
