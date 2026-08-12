@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T17:59:15.007477+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-08-12T19:01:08.551972+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时35分 ~ 17时59分]"
+          "appearance_count": 10,
+          "time_info": "[07时35分 ~ 19时01分]"
         },
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -46,6 +46,19 @@
           "time_info": "[00时55分 ~ 12时03分]"
         },
         {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 19时01分]"
+        },
+        {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
           "url": "https://www.cls.cn/detail/2451347",
           "source": "财联社热门",
@@ -58,16 +71,16 @@
           "time_info": "[00时55分 ~ 07时35分]"
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
           "ranks": [
-            7,
+            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 17时59分]"
+          "appearance_count": 6,
+          "time_info": "[16时13分 ~ 19时01分]"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
@@ -110,17 +123,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 09时27分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时13分 ~ 17时59分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -181,6 +183,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时13分 ~ 19时01分]"
+        },
+        {
           "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
           "url": "https://www.cls.cn/detail/2451331",
           "source": "财联社热门",
@@ -192,6 +205,17 @@
           "time_info": "[00时55分 ~ 07时35分]"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时13分 ~ 19时01分]"
+        },
+        {
           "title": "干湿之困：AI制药如何打通“最后一公里”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
           "source": "澎湃新闻",
@@ -201,6 +225,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时55分 ~ 07时35分]"
+        },
+        {
+          "title": "央行：支持政策性开发性金融机构推进新型政策性金融工具，重点支持数字经济、人工智能、消费基础设施，以及交通、能源、地下管网建设改造等城市更新领域",
+          "url": "https://flash.jin10.com/detail/20260812183458695800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "“千问AI Arena”上线 首个任务聚焦跨境电商",
@@ -247,28 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 07时35分]"
-        },
-        {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.toutiao.com/trending/7672213418782588964/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时13分 ~ 17时59分]"
-        },
-        {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.douyin.com/hot/2607024",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时13分 ~ 17时59分]"
         },
         {
           "title": "怎么看AI突破黎曼猜想下界",
@@ -381,7 +394,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -450,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "SpaceXAI：Grok Bot聊天机器人目前处于测试阶段，今日向SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium订阅用户开放，支持桌面端和iOS端使用。",
@@ -535,7 +559,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -554,7 +578,7 @@
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "俄军士兵用树枝抽下乌军FPV无人机",
@@ -658,9 +682,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
+        },
+        {
+          "title": "市场消息：乌克兰基辅再次传出爆炸声，无人机正在袭击该市。",
+          "url": "https://flash.jin10.com/detail/20260812180900268800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         }
       ]
     },
@@ -675,7 +710,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }
