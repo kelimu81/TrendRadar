@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-15T03:45:15.558694+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-15T06:55:25.083241+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
-          "url": "https://www.zhihu.com/question/2071486982732223991",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 03时45分]"
-        },
         {
           "title": "人工智能激活力 “新”意盎然促发展",
           "url": "https://www.toutiao.com/trending/7673797019718598698/",
@@ -26,8 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 06时55分]"
+        },
+        {
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "source": "知乎",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 06时55分]"
         },
         {
           "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 06时55分]"
         },
         {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
@@ -48,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 06时55分]"
         },
         {
           "title": "博通AI客户融资平台引担忧，盘中股价跌近7%",
@@ -58,7 +59,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         },
@@ -70,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 06时55分]"
         },
         {
           "title": "围棋与境界、修养之类的东西毫无关系，能赢是因为计算力强，这么明显的道理在 AI 以前人们怎么不懂？",
@@ -81,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 06时55分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -92,19 +93,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 06时55分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
           "url": "https://www.douyin.com/hot/2608882",
           "source": "抖音",
           "ranks": [
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 06时55分]"
         },
         {
           "title": "博通AI客户融资平台引担忧 盘中股价跌近7%",
@@ -113,16 +115,49 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "甲骨文：AI数据中心园区项目朱庇特计划仍按计划推进，我们将继续与合作伙伴密切合作，推动该项目向前发展。甲骨文跌幅收窄，现跌3.5%，此前一度跌4.7%。",
+          "url": "https://wallstreetcn.com/livenews/3149866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         }
       ]
     },
     {
       "keyword_group": "无人机 遥感 测绘",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
+          "url": "https://wallstreetcn.com/livenews/3149874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
         {
           "title": "也门胡塞武装据悉使用无人机袭击了沙特阿美公司在纳季兰的设施。",
           "url": "https://wallstreetcn.com/livenews/3149843",
@@ -130,9 +165,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "地质 矿产 勘探",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴西石油公司（Petrobras）：在亚马逊河口盆地FZA-M-59区块的一口勘探井中发现油气迹象。",
+          "url": "https://flash.jin10.com/detail/20260815054809698800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         }
       ]
     }
