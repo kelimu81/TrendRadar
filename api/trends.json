@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T18:55:30.296842+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-08-14T19:42:36.354263+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             6,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 18时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 19时42分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -34,8 +35,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 18时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 19时42分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -66,6 +67,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 14时10分]"
+        },
+        {
+          "title": "中国AI把价格打下来，美国巨头一口气降80%",
+          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 19时42分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -110,18 +123,6 @@
           "time_info": "[12时03分 ~ 18时14分]"
         },
         {
-          "title": "中国AI把价格打下来，美国巨头一口气降80%",
-          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 18时55分]"
-        },
-        {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3779354",
           "source": "华尔街见闻",
@@ -132,6 +133,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 09时28分]"
+        },
+        {
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 19时42分]"
         },
         {
           "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
@@ -192,6 +205,18 @@
           "time_info": "[12时03分 ~ 18时55分]"
         },
         {
+          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
+          "url": "https://www.cls.cn/detail/2454270",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 19时42分]"
+        },
+        {
           "title": "OpenAI首席营收官任职不到一年离职",
           "url": "https://wallstreetcn.com/livenews/3149682",
           "source": "华尔街见闻-快讯",
@@ -204,29 +229,6 @@
           "time_info": "[18时14分 ~ 18时55分]"
         },
         {
-          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
-          "url": "https://www.zhihu.com/question/2071486982732223991",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 18时55分]"
-        },
-        {
-          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
-          "url": "https://www.cls.cn/detail/2454270",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 18时55分]"
-        },
-        {
           "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
           "url": "https://www.cls.cn/detail/2454596",
           "source": "财联社热门",
@@ -235,8 +237,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 18时55分]"
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 19时42分]"
         },
         {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
@@ -577,7 +579,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
@@ -838,7 +840,7 @@
     },
     {
       "keyword_group": "地质 矿产 勘探",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国地质勘探局：克马德克群岛发生5.4级地震。",
@@ -862,6 +864,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 02时57分]"
+        },
+        {
+          "title": "勘探权续期被否 壳牌五载诉讼终败",
+          "url": "https://flash.jin10.com/detail/20260814185428333800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         }
       ]
     }
