@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T19:16:38.413739+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-08-16T20:30:18.440838+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时16分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[07时16分 ~ 20时30分]"
         },
         {
           "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
@@ -59,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时23分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[10时23分 ~ 20时30分]"
         },
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -69,11 +69,39 @@
           "ranks": [
             7,
             6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 20时30分]"
+        },
+        {
+          "title": "中国医生用AI解决数学圈22年难题",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时23分 ~ 20时30分]"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 20时30分]"
         },
         {
           "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
@@ -90,30 +118,42 @@
           "time_info": "[07时16分 ~ 16时23分]"
         },
         {
-          "title": "中国医生用AI解决数学圈22年难题",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时23分 ~ 19时16分]"
-        },
-        {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
+            11,
             8,
-            7,
             6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时23分 ~ 19时16分]"
+          "time_info": "[16时23分 ~ 20时30分]"
+        },
+        {
+          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
+          "url": "https://www.cls.cn/detail/2455252",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时30分]"
+        },
+        {
+          "title": "王祖贤：我们是用AI不是被AI用",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E7%94%A8AI%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            21,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时30分]"
         },
         {
           "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
@@ -179,19 +219,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时16分]"
-        },
-        {
           "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
           "url": "https://www.zhihu.com/question/2071916942760342436",
           "source": "知乎",
@@ -206,6 +233,20 @@
           "time_info": "[16时23分 ~ 19时16分]"
         },
         {
+          "title": "大爷手搓AI长片赛博英雄传",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            20,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 20时30分]"
+        },
+        {
           "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
           "url": "https://wallstreetcn.com/livenews/3150009",
           "source": "华尔街见闻-快讯",
@@ -218,30 +259,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 13时24分]"
-        },
-        {
-          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
-          "url": "https://www.cls.cn/detail/2455252",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时16分]"
-        },
-        {
-          "title": "王祖贤：我们是用AI不是被AI用",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E7%94%A8AI%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时16分]"
         },
         {
           "title": "我和闺蜜联手掀翻AI穿书剧本",
@@ -262,11 +279,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时30分]"
         },
         {
           "title": "“AI版金融创新”：CDO vs CCO=2008 vs 2026？",
@@ -305,19 +323,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 11时45分]"
-        },
-        {
-          "title": "大爷手搓AI长片赛博英雄传",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 16时23分]"
         },
         {
           "title": "“AI神童”爆仓引发连锁反应",
@@ -428,6 +433,17 @@
           "time_info": "[07时16分 ~ 09时01分]"
         },
         {
+          "title": "首个被AI老板开除的人类员工",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E8%A2%ABAI%E8%80%81%E6%9D%BF%E5%BC%80%E9%99%A4%E7%9A%84%E4%BA%BA%E7%B1%BB%E5%91%98%E5%B7%A5",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 20时30分]"
+        },
+        {
           "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
           "url": "https://flash.jin10.com/detail/20260816031526828800",
           "source": "金十数据",
@@ -467,15 +483,19 @@
       "match_count": 14,
       "titles": [
         {
-          "title": "乌称袭击俄重要军工企业 俄称一日击落近1500架乌无人机",
-          "url": "https://flash.jin10.com/detail/20260816183216812800",
-          "source": "金十数据",
+          "title": "美海军在意大利最大基地内发现无人机 并采取全基地安全措施",
+          "url": "https://wallstreetcn.com/livenews/3150037",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            9,
+            11,
+            16,
+            22,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 20时30分]"
         },
         {
           "title": "俄国防部：俄防空系统夜间在俄上空击落822架乌克兰无人机",
@@ -554,18 +574,16 @@
           "time_info": "[11时45分 ~ 13时24分]"
         },
         {
-          "title": "美海军在意大利最大基地内发现无人机 并采取全基地安全措施",
-          "url": "https://wallstreetcn.com/livenews/3150037",
-          "source": "华尔街见闻-快讯",
+          "title": "乌称袭击俄重要军工企业 俄称一日击落近1500架乌无人机",
+          "url": "https://flash.jin10.com/detail/20260816183216812800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            11,
-            16,
-            22
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 19时16分]"
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时30分]"
         },
         {
           "title": "乌克兰多地遭俄方导弹及无人机打击",
@@ -594,6 +612,19 @@
           "time_info": "[17时23分 ~ 19时16分]"
         },
         {
+          "title": "据沙特阿拉伯阿拉比亚电视台：也门军队称，胡塞武装向摩卡发射了6枚弹道导弹和6架无人机，防空系统击落了两架胡塞无人机。",
+          "url": "https://flash.jin10.com/detail/20260816171823947800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时30分]"
+        },
+        {
           "title": "据天空新闻：也门消息人士透露，也门防空部队应对了胡塞武装无人机在荷台达省摩卡市上空发动的袭击。",
           "url": "https://flash.jin10.com/detail/20260816084959784800",
           "source": "金十数据",
@@ -604,18 +635,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 11时45分]"
-        },
-        {
-          "title": "据沙特阿拉伯阿拉比亚电视台：也门军队称，胡塞武装向摩卡发射了6枚弹道导弹和6架无人机，防空系统击落了两架胡塞无人机。",
-          "url": "https://flash.jin10.com/detail/20260816171823947800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
         },
         {
           "title": "美媒：美海军在意大利最大基地内发现无人机，并采取全基地安全措施",
@@ -651,22 +670,24 @@
           "url": "https://wallstreetcn.com/livenews/3150058",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时30分]"
         },
         {
           "title": "紫金黄金国际：上半年矿产金产量同比增长44%至约27.3吨",
           "url": "https://flash.jin10.com/detail/20260816184007933800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时30分]"
         }
       ]
     }
